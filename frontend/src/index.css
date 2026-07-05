@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "tailwind-animations";
+
+@theme {
+  --font-title: "Merriweather", serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--font-title);
+}

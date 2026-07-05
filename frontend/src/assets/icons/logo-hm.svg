@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logo HM</title>
+  <desc id="desc">Monograma HM do Histórias do Mundo em estilo clássico editorial.</desc>
+  <rect width="512" height="512" fill="transparent"/>
+  <g fill="#D4AF37">
+    <path d="M88 104H158V226H253V104H323V408H253V282H158V408H88V104Z"/>
+    <path d="M289 104H357L407 256L457 104H512V408H448V236L398 408H358L309 236V408H245V331H289V104Z"/>
+  </g>
+  <g opacity="0.35" fill="#FFF2B8">
+    <path d="M101 116H146V128H101V116Z"/>
+    <path d="M303 116H345V128H303V116Z"/>
+  </g>
+</svg>
