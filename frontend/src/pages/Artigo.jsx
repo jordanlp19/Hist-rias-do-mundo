@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import api from "../services/api.js";
+import { getArticleBySlug } from "../data/articleRepository.js";
 
 function isSectionTitle(block) {
   return block.length <= 90 && !/[.!?]$/.test(block);
@@ -32,28 +31,9 @@ function parseArticleContent(content = "") {
 
 function Artigo() {
   const { slug } = useParams();
-  const [article, setArticle] = useState(null);
-  const [status, setStatus] = useState("loading");
+  const article = getArticleBySlug(slug);
 
-  useEffect(() => {
-    async function loadArticle() {
-      try {
-        const data = await api.get(`/api/articles/${slug}`);
-        setArticle(data);
-        setStatus("success");
-      } catch (error) {
-        setStatus("error");
-      }
-    }
-
-    loadArticle();
-  }, [slug]);
-
-  if (status === "loading") {
-    return <p className="text-slate-600">Carregando artigo...</p>;
-  }
-
-  if (status === "error") {
+  if (!article) {
     return (
       <section className="rounded-lg bg-white p-6 shadow">
         <h2 className="mb-2 text-2xl font-bold">Artigo nao encontrado</h2>

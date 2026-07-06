@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
-import api from "../services/api.js";
+import { getPaginatedArticles } from "../data/articleRepository.js";
 
 const ARTICLES_PER_PAGE = 6;
 
@@ -17,48 +16,18 @@ function getVisiblePages(currentPage, totalPages) {
 }
 
 function Artigos() {
-  const [articles, setArticles] = useState([]);
-  const [pagination, setPagination] = useState(null);
-  const [status, setStatus] = useState("loading");
   const [searchParams, setSearchParams] = useSearchParams();
   const currentPage = Math.max(
     Number.parseInt(searchParams.get("page"), 10) || 1,
     1
   );
-
-  useEffect(() => {
-    async function loadArticles() {
-      try {
-        setStatus("loading");
-        const data = await api.get(
-          `/api/articles?page=${currentPage}&limit=${ARTICLES_PER_PAGE}`
-        );
-        setArticles(data.items);
-        setPagination(data.pagination);
-        setStatus("success");
-      } catch (error) {
-        setStatus("error");
-      }
-    }
-
-    loadArticles();
-  }, [currentPage]);
+  const { items: articles, pagination } = getPaginatedArticles(
+    currentPage,
+    ARTICLES_PER_PAGE
+  );
 
   function goToPage(page) {
     setSearchParams(page === 1 ? {} : { page: String(page) });
-  }
-
-  if (status === "loading") {
-    return <p className="text-slate-600">Carregando artigos...</p>;
-  }
-
-  if (status === "error") {
-    return (
-      <section className="rounded-lg bg-white p-6 shadow">
-        <h2 className="mb-2 text-2xl font-bold">Artigos</h2>
-        <p className="text-slate-600">Nao foi possivel carregar os artigos.</p>
-      </section>
-    );
   }
 
   return (
