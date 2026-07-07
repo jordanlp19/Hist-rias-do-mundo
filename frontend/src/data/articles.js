@@ -1,34 +1,6 @@
 const articles = [
   {
     id: 1,
-    title: "Como organizar a estrutura de um site de artigos",
-    slug: "estrutura-site-artigos",
-    description:
-      "Uma visao pratica para separar rotas, paginas e dados antes de comecar o design.",
-    category: "Desenvolvimento",
-    image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
-    date: "2026-06-11",
-    author: "Jordan",
-    content: `Antes de desenhar as paginas, vale criar uma base estavel para os dados. Na versao 1 do Histórias do Mundo, os artigos ficam dentro do proprio frontend para simplificar a publicacao, reduzir dependencias e facilitar a hospedagem na Vercel.
-
-Essa decisao permite que novas publicacoes sejam adicionadas por commit no GitHub, sem exigir um servidor Express ativo. Mais tarde, a mesma camada de dados pode ser adaptada para Markdown, MDX, CMS ou banco de dados.`,
-  },
-  {
-    id: 2,
-    title: "O papel do slug em paginas de conteudo",
-    slug: "papel-do-slug",
-    description:
-      "Entenda por que URLs legiveis facilitam navegacao, compartilhamento e manutencao.",
-    category: "Conteudo",
-    image: "https://images.unsplash.com/photo-1455390582262-044cdead277a",
-    date: "2026-06-12",
-    author: "Jordan",
-    content: `O slug e a parte amigavel da URL de um artigo. Em vez de usar apenas um ID numerico, uma rota como /artigos/papel-do-slug comunica melhor o assunto da pagina.
-
-Ele tambem ajuda a manter links mais faceis de ler, compartilhar e reaproveitar. Em um portal de conteudo, isso faz diferenca tanto para o leitor quanto para a organizacao interna do projeto.`,
-  },
-  {
-    id: 3,
     title:
       "Napoleao Bonaparte: a trajetoria do militar que transformou a Europa",
     slug: "napoleao-bonaparte-trajetoria",
