@@ -1,63 +1,115 @@
+import fifaImage from "../assets/articles/Flag_of_FIFA.svg.webp";
+
 const articles = [
   {
     id: 1,
     title:
-      "Napoleao Bonaparte: a trajetoria do militar que transformou a Europa",
+      "Napoleão Bonaparte: a trajetória do militar que transformou a Europa",
     slug: "napoleao-bonaparte-trajetoria",
     description:
-      "Lider militar, estrategista e imperador frances, Napoleao Bonaparte marcou profundamente a historia europeia entre o fim do seculo XVIII e o inicio do seculo XIX.",
-    category: "Historia",
+      "Líder militar, estrategista e imperador francês, Napoleão Bonaparte marcou profundamente a história europeia entre o fim do século XVIII e o início do século XIX.",
+    category: "História",
     image: "https://images.unsplash.com/photo-1455390582262-044cdead277a",
     date: "2026-07-04",
     author: "Jordan Lopes",
-    content: `Da ilha da Corsega ao Exercito Frances
+    content: `Da ilha da Córsega ao Exército Francês
 
-Napoleao Bonaparte nasceu em 15 de agosto de 1769, na ilha da Corsega, poucos meses apos o territorio passar do dominio de Genova para a Franca. Filho de uma familia da pequena nobreza local, recebeu educacao militar desde cedo e ingressou na Academia Militar de Brienne antes de concluir sua formacao na Escola Militar de Paris.
+Napoleão Bonaparte nasceu em 15 de agosto de 1769, na ilha da Córsega, poucos meses após o território passar do domínio de Gênova para a França. Filho de uma família da pequena nobreza local, recebeu educação militar desde cedo e ingressou na Academia Militar de Brienne antes de concluir sua formação na Escola Militar de Paris.
 
-Durante os primeiros anos de carreira, destacou-se pela habilidade em artilharia e pelo conhecimento tatico. O periodo coincidiu com profundas transformacoes politicas na Franca, impulsionadas pela Revolucao Francesa iniciada em 1789.
+Durante os primeiros anos de carreira, destacou-se pela habilidade em artilharia e pelo conhecimento tático. O período coincidiu com profundas transformações políticas na França, impulsionadas pela Revolução Francesa iniciada em 1789.
 
-A rapida ascensao ao poder
+A rápida ascensão ao poder
 
-Em meio as guerras revolucionarias, Napoleao ganhou notoriedade ao comandar tropas francesas em diversas campanhas militares. Sua atuacao na Campanha da Italia (1796-1797) consolidou sua reputacao como um dos principais estrategistas de sua geracao.
+Em meio às guerras revolucionárias, Napoleão ganhou notoriedade ao comandar tropas francesas em diversas campanhas militares. Sua atuação na Campanha da Itália (1796-1797) consolidou sua reputação como um dos principais estrategistas de sua geração.
 
-Em 1799, aproveitando a instabilidade politica francesa, participou do golpe conhecido como 18 de Brumario, que encerrou o governo do Diretorio e estabeleceu o Consulado. Poucos anos depois, em 1804, foi coroado imperador dos franceses.
+Em 1799, aproveitando a instabilidade política francesa, participou do golpe conhecido como 18 de Brumário, que encerrou o governo do Diretório e estabeleceu o Consulado. Poucos anos depois, em 1804, foi coroado imperador dos franceses.
 
-O auge do Imperio Frances
+O auge do Império Francês
 
-Entre 1804 e 1812, Napoleao liderou uma serie de campanhas militares que ampliaram significativamente a influencia francesa sobre grande parte da Europa continental.
+Entre 1804 e 1812, Napoleão liderou uma série de campanhas militares que ampliaram significativamente a influência francesa sobre grande parte da Europa continental.
 
-Vitorias em batalhas como Austerlitz, Jena e Wagram consolidaram seu dominio militar. Alem das conquistas territoriais, promoveu reformas administrativas e juridicas, sendo o Codigo Napoleonico uma das mais duradouras. Esse conjunto de leis influenciou diversos sistemas juridicos ao redor do mundo e permanece como uma de suas principais herancas historicas.
+Vitórias em batalhas como Austerlitz, Jena e Wagram consolidaram seu domínio militar. Além das conquistas territoriais, promoveu reformas administrativas e jurídicas, sendo o Código Napoleônico uma das mais duradouras. Esse conjunto de leis influenciou diversos sistemas jurídicos ao redor do mundo e permanece como uma de suas principais heranças históricas.
 
-A campanha da Russia e o inicio da queda
+A campanha da Rússia e o início da queda
 
-Em 1812, Napoleao iniciou a invasao da Russia com um dos maiores exercitos ja reunidos ate entao. Apesar do avanco inicial, a estrategia russa de recuar, destruir suprimentos e evitar confrontos decisivos, aliada ao rigoroso inverno, provocou perdas devastadoras ao exercito frances.
+Em 1812, Napoleão iniciou a invasão da Rússia com um dos maiores exércitos já reunidos até então. Apesar do avanço inicial, a estratégia russa de recuar, destruir suprimentos e evitar confrontos decisivos, aliada ao rigoroso inverno, provocou perdas devastadoras ao exército francês.
 
-A campanha enfraqueceu significativamente o Imperio e incentivou outras potencias europeias a formar novas aliancas contra a Franca.
+A campanha enfraqueceu significativamente o Império e incentivou outras potências europeias a formar novas alianças contra a França.
 
-O exilio, o retorno e Waterloo
+O exílio, o retorno e Waterloo
 
-Apos sucessivas derrotas militares, Napoleao abdicou do trono em 1814 e foi enviado para a ilha de Elba.
+Após sucessivas derrotas militares, Napoleão abdicou do trono em 1814 e foi enviado para a ilha de Elba.
 
-Menos de um ano depois, conseguiu escapar e retornou a Franca, reassumindo o poder durante o periodo conhecido como os Cem Dias.
+Menos de um ano depois, conseguiu escapar e retornou à França, reassumindo o poder durante o período conhecido como os Cem Dias.
 
-Seu retorno, porem, foi breve. Em 18 de junho de 1815, foi derrotado na Batalha de Waterloo por uma coalizao liderada pelo duque de Wellington e pelo marechal prussiano Gebhard von Blucher.
+Seu retorno, porém, foi breve. Em 18 de junho de 1815, foi derrotado na Batalha de Waterloo por uma coalizão liderada pelo duque de Wellington e pelo marechal prussiano Gebhard von Blücher.
 
-Apos a derrota definitiva, foi exilado para a remota ilha de Santa Helena, no Atlantico Sul, onde permaneceu ate sua morte, em 5 de maio de 1821.
+Após a derrota definitiva, foi exilado para a remota ilha de Santa Helena, no Atlântico Sul, onde permaneceu até sua morte, em 5 de maio de 1821.
 
-O legado de Napoleao
+O legado de Napoleão
 
-Mais de dois seculos apos sua morte, Napoleao Bonaparte continua sendo uma das figuras mais estudadas da historia.
+Mais de dois séculos após sua morte, Napoleão Bonaparte continua sendo uma das figuras mais estudadas da história.
 
-Para alguns historiadores, destacou-se como um reformador que modernizou instituicoes e fortaleceu principios administrativos e juridicos. Para outros, suas campanhas militares contribuiram para conflitos que provocaram enormes perdas humanas em toda a Europa.
+Para alguns historiadores, destacou-se como um reformador que modernizou instituições e fortaleceu princípios administrativos e jurídicos. Para outros, suas campanhas militares contribuíram para conflitos que provocaram enormes perdas humanas em toda a Europa.
 
-Independentemente da interpretacao, existe amplo consenso de que suas acoes alteraram profundamente o equilibrio politico europeu e influenciaram a formacao do mundo contemporaneo.
+Independentemente da interpretação, existe amplo consenso de que suas ações alteraram profundamente o equilíbrio político europeu e influenciaram a formação do mundo contemporâneo.
 
 Fontes:
 Encyclopaedia Britannica - Napoleon I.
-Musee de l'Armee (Franca) - Acervo historico sobre Napoleao Bonaparte.
-Biblioteca Nacional da Franca (Bibliotheque nationale de France).
+Musée de l'Armée (França) - Acervo histórico sobre Napoleão Bonaparte.
+Biblioteca Nacional da França (Bibliothèque nationale de France).
 Andrew Roberts. Napoleon: A Life. Penguin Books, 2014.
 David G. Chandler. The Campaigns of Napoleon. Scribner, 1966.`,
+  },
+
+  {
+    id: 2,
+    title:
+      "A história da FIFA: como nasceu a organização que transformou o futebol em um fenômeno global",
+    slug: "A historia da Fifa",
+    description:
+      "Fundada no início do século XX, a FIFA surgiu com o objetivo de organizar o futebol entre diferentes países. Ao longo de mais de um século, a entidade acompanhou a expansão do esporte, criou competições internacionais e tornou-se uma das organizações esportivas mais influentes do mundo.",
+    category: "História",
+    image: fifaImage,
+    date: "2026-07-08",
+    author: "Jordan Lopes",
+    content: `O nascimento da FIFA
+
+A Federação Internacional de Futebol (FIFA) foi fundada em 21 de maio de 1904, na cidade de Paris, na França. A iniciativa reuniu representantes de sete países: França, Bélgica, Dinamarca, Holanda, Espanha (representada pelo Madrid Football Club), Suécia e Suíça.
+
+Na época, o futebol crescia rapidamente na Europa, mas ainda não existia uma entidade internacional responsável por padronizar regras, organizar competições e promover a cooperação entre as federações nacionais.
+
+O primeiro presidente da organização foi o jornalista francês Robert Guérin.
+
+A expansão do futebol internacional
+
+Nas décadas seguintes, novos países passaram a integrar a FIFA, ampliando sua presença para além da Europa. Em 1930, a entidade organizou a primeira Copa do Mundo masculina, realizada no Uruguai, reunindo treze seleções nacionais.
+
+O torneio marcou um ponto de virada para o futebol internacional e se consolidou como a principal competição da modalidade.
+
+Após a Segunda Guerra Mundial, o número de países filiados continuou crescendo, impulsionado pela independência de diversas nações na África e na Ásia e pela popularização do esporte em diferentes regiões do planeta.
+
+Muito além da Copa do Mundo
+
+Atualmente, a FIFA é responsável por organizar diversas competições internacionais, incluindo a Copa do Mundo Masculina, a Copa do Mundo Feminina, torneios de base, competições de futsal e futebol de praia.
+
+Além disso, a entidade atua no desenvolvimento do futebol por meio de programas de incentivo, apoio às federações nacionais e atualização das regulamentações da modalidade em parceria com outras organizações esportivas.
+
+Hoje, a FIFA reúne mais de 200 associações nacionais filiadas, tornando-se uma das maiores entidades esportivas do mundo em número de membros.
+
+Desafios e legado
+
+Ao longo de sua história, a FIFA também enfrentou períodos de controvérsias, especialmente relacionados à governança e à administração da entidade. Reformas internas e mudanças em seus processos administrativos foram implementadas ao longo dos últimos anos em resposta a esses desafios.
+
+Apesar das críticas e transformações, a organização permanece como a principal autoridade do futebol internacional e desempenha um papel central na realização das maiores competições do esporte.
+
+Mais de 120 anos após sua fundação, a FIFA continua sendo um dos principais símbolos da expansão global do futebol e da capacidade do esporte de conectar pessoas de diferentes culturas e países.
+
+Fontes:
+Fédération Internationale de Football Association - Arquivos históricos e seção "History".
+International Football Association Board - Documentação sobre as Leis do Jogo.
+The Ball Is Round, de David Goldblatt.
+FIFA 1904-2004: The First 100 Years.`,
   },
 ];
 
