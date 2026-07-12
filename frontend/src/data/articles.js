@@ -1,4 +1,5 @@
 import fifaImage from "../assets/articles/Flag_of_FIFA.svg.webp";
+import hormuzImage from "../assets/articles/Strait_of_Hormuz.webp";
 
 const articles = [
   {
@@ -110,6 +111,60 @@ Fédération Internationale de Football Association - Arquivos históricos e se�
 International Football Association Board - Documentação sobre as Leis do Jogo.
 The Ball Is Round, de David Goldblatt.
 FIFA 1904-2004: The First 100 Years.`,
+  },
+
+  {
+    id: 3,
+    title:
+      "Estreito de Ormuz: por que essa estreita passagem marítima é tão importante para o mundo?",
+    slug: "O Estreito de Ormuz",
+    description:
+      "Localizado entre o Golfo Pérsico e o Golfo de Omã, o Estreito de Ormuz é uma das rotas marítimas mais estratégicas do planeta. Grande parte do petróleo e do gás natural comercializados internacionalmente passa por esse corredor, tornando qualquer instabilidade na região motivo de preocupação para governos, empresas e mercados financeiros.",
+    category: "História",
+    image: hormuzImage,
+    date: "2026-07-12",
+    author: "Jordan Lopes",
+    content: `Uma passagem estratégica
+
+O Estreito de Ormuz separa o Irã da Península Arábica e conecta o Golfo Pérsico ao Oceano Índico. Apesar de possuir apenas algumas dezenas de quilômetros de largura em seu ponto mais estreito, ele concentra uma das maiores movimentações de navios petroleiros do mundo.
+
+Países como Arábia Saudita, Emirados Árabes Unidos, Kuwait, Iraque e Catar utilizam essa rota para exportar grande parte de sua produção de petróleo e gás natural liquefeito para mercados da Ásia, Europa e outras regiões.
+
+Por que o mundo acompanha essa região?
+
+Sempre que aumentam as tensões entre países da região, cresce também a preocupação com a segurança da navegação no estreito.
+
+Ataques a embarcações, exercícios militares, apreensões de navios ou ameaças de bloqueio costumam gerar reações imediatas nos mercados internacionais, já que qualquer interrupção no fluxo de energia pode reduzir a oferta global de petróleo.
+
+Mesmo quando não há um bloqueio efetivo, a simples possibilidade de dificuldades na navegação pode elevar os custos de transporte e dos seguros marítimos.
+
+Impactos na economia mundial
+
+Como o petróleo continua sendo uma das principais fontes de energia do planeta, alterações no fluxo pelo Estreito de Ormuz podem afetar diversos setores da economia.
+
+O aumento do preço do barril tende a influenciar os custos dos combustíveis, do transporte de mercadorias e da produção industrial. Em alguns casos, esse cenário também pode pressionar a inflação em diferentes países.
+
+Por esse motivo, governos e empresas acompanham atentamente qualquer mudança na situação da região.
+
+É possível substituir essa rota?
+
+Alguns países produtores possuem oleodutos capazes de transportar parte do petróleo por caminhos alternativos, reduzindo parcialmente a dependência do estreito.
+
+No entanto, a capacidade dessas rotas ainda não é suficiente para substituir completamente o volume que normalmente atravessa Ormuz. Por isso, o estreito continua sendo considerado um dos pontos mais estratégicos para o comércio global de energia.
+
+Uma região de interesse internacional
+
+Além dos países produtores de petróleo, diversas potências mantêm presença diplomática e militar nas proximidades do Estreito de Ormuz devido à sua importância econômica e estratégica.
+
+Ao longo das últimas décadas, diferentes episódios de tensão reforçaram a relevância da região para a segurança energética mundial e para a estabilidade do comércio internacional.
+
+Independentemente do cenário político de cada momento, o Estreito de Ormuz permanece como uma das áreas mais observadas do planeta, justamente por seu potencial de influenciar mercados e economias em escala global.
+
+Fontes:
+U.S. Energy Information Administration - Relatórios sobre fluxos globais de petróleo e gargalos marítimos.
+International Energy Agency - Estudos sobre segurança energética e comércio internacional de petróleo.
+United Nations Conference on Trade and Development - Publicações sobre transporte marítimo e comércio global.
+International Maritime Organization - Informações sobre segurança da navegação internacional.`,
   },
 ];
 
