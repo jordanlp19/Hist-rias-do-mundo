@@ -1,5 +1,6 @@
 import fifaImage from "../assets/articles/Flag_of_FIFA.svg.webp";
 import hormuzImage from "../assets/articles/Strait_of_Hormuz.webp";
+import odisseiImage from "../assets/articles/odisseia.webp";
 
 const articles = [
   {
@@ -165,6 +166,57 @@ U.S. Energy Information Administration - Relatórios sobre fluxos globais de pet
 International Energy Agency - Estudos sobre segurança energética e comércio internacional de petróleo.
 United Nations Conference on Trade and Development - Publicações sobre transporte marítimo e comércio global.
 International Maritime Organization - Informações sobre segurança da navegação internacional.`,
+  },
+
+  {
+    id: 4,
+    title: "A Odisseia: a épica viagem de Ulisses de volta para casa",
+    slug: "A Odisseia",
+    description:
+      "A Odisseia* é um dos textos mais importantes da literatura ocidental. Tradicionalmente atribuída ao poeta grego Homero, a obra acompanha a longa e perigosa viagem de Ulisses após a Guerra de Troia. Durante sua tentativa de retornar à ilha de Ítaca, o herói enfrenta monstros, deuses, tempestades e tentações, enquanto sua família luta para preservar seu reino.",
+    category: "História",
+    image: odisseiImage,
+    date: "2026-07-15",
+    author: "Jordan Lopes",
+    content: `Uma viagem que durou dez anos
+
+Depois de lutar durante aproximadamente dez anos na Guerra de Troia, Ulisses — chamado de Odisseu pelos gregos — inicia sua viagem de volta para casa. Entretanto, o percurso que deveria ser relativamente simples acaba durando outros dez anos.
+
+Ao longo da jornada, Ulisses enfrenta a ira de Poseidon, o deus dos mares, que dificulta constantemente seu retorno. O herói e seus companheiros são lançados de uma ilha para outra, enfrentando criaturas e acontecimentos que colocam suas vidas em risco.
+
+Entre os episódios mais conhecidos está o encontro com Polifemo, um ciclope de um único olho. Após ficar preso em sua caverna, Ulisses consegue enganá-lo e escapar, demonstrando que sua principal arma não era apenas a força, mas principalmente a inteligência.
+
+Durante a viagem, ele também encontra a feiticeira Circe, resiste ao canto das sereias, atravessa o estreito dominado pelos monstros Cila e Caríbdis e permanece durante anos na ilha da ninfa Calipso.
+
+Penélope e Telêmaco em Ítaca
+
+Enquanto Ulisses tenta retornar, sua esposa, Penélope, e seu filho, Telêmaco, enfrentam uma situação cada vez mais difícil em Ítaca.
+
+Acreditando que o rei estivesse morto, diversos pretendentes ocupam o palácio e pressionam Penélope para que escolha um novo marido. Para ganhar tempo, ela afirma que somente tomará uma decisão depois de terminar uma mortalha. Durante o dia, Penélope trabalha no tecido; durante a noite, desfaz secretamente parte do que havia produzido.
+
+Telêmaco, por sua vez, parte em busca de informações sobre o paradeiro do pai, iniciando sua própria jornada de amadurecimento. A narrativa, portanto, não acompanha apenas as aventuras de Ulisses, mas também a luta de sua família para proteger sua casa e sua posição em Ítaca.
+
+O retorno do herói
+
+Depois de perder todos os seus companheiros, Ulisses finalmente consegue chegar a Ítaca. Para não ser reconhecido imediatamente, retorna ao seu reino disfarçado de mendigo.
+
+Com a ajuda de Telêmaco e da deusa Atena, ele prepara uma vingança contra os pretendentes que haviam ocupado seu palácio. Após uma competição envolvendo seu antigo arco, Ulisses revela sua verdadeira identidade e recupera o controle de sua casa.
+
+O reencontro com Penélope, porém, não acontece imediatamente. Ela decide testar o homem que afirma ser seu marido, utilizando um segredo conhecido apenas pelo casal. Somente depois disso reconhece definitivamente o retorno de Ulisses.
+
+Mais do que uma história de aventuras
+
+A Odisseia é tradicionalmente atribuída a Homero e provavelmente se desenvolveu dentro de uma longa tradição de poesia oral da Grécia Antiga. A obra foi organizada em 24 cantos e transmitida por gerações antes de chegar às versões escritas preservadas atualmente. A identidade de Homero e a maneira como os poemas homéricos foram compostos continuam sendo debatidas pelos pesquisadores.
+
+Além de monstros e batalhas, o poema aborda temas como família, identidade, hospitalidade, lealdade, inteligência e desejo de retornar ao lar. Ulisses não é apresentado como um herói perfeito: ele comete erros, demonstra orgulho e sofre as consequências de algumas de suas decisões.
+
+A influência da obra foi tão grande que a palavra “odisseia” passou a ser utilizada para representar qualquer viagem longa, difícil e cheia de acontecimentos inesperados. Mais de dois milênios depois, a história de Ulisses continua sendo adaptada em livros, filmes, peças teatrais e outras formas de arte.
+
+Fontes:
+Homero — A Odisseia - versão disponível na Perseus Digital Library, da Universidade Tufts.
+The Cambridge Guide to Homer - Cambridge University Press.
+World History Encyclopedia - Odyssey: Homer’s Epic Poem of Redemption.
+The Metropolitan Museum of Art - materiais sobre Homero e a Grécia Antiga.`,
   },
 ];
 
