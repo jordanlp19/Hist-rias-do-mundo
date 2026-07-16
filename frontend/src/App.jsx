@@ -6,6 +6,7 @@ import Artigo from "./pages/Artigo.jsx";
 import Artigos from "./pages/Artigos.jsx";
 import Sobre from "./pages/Sobre.jsx";
 import Parcerias from "./pages/Parcerias.jsx";
+import { Analytics } from "@vercel/analytics/next";
 
 function PageContainer({ children }) {
   return <div className="mx-auto max-w-5xl px-4 py-8">{children}</div>;
