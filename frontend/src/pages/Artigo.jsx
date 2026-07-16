@@ -2,7 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { getArticleBySlug } from "../data/articleRepository.js";
 
 function isSectionTitle(block) {
-  return block.length <= 90 && !/[.!?]$/.test(block);
+  return block.length <= 90 && !/\.$/.test(block);
 }
 
 function parseArticleContent(content = "") {

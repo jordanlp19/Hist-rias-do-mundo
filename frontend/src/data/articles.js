@@ -1,6 +1,7 @@
 import fifaImage from "../assets/articles/Flag_of_FIFA.svg.webp";
 import hormuzImage from "../assets/articles/Strait_of_Hormuz.webp";
 import odisseiImage from "../assets/articles/odisseia.webp";
+import troiaiImage from "../assets/articles/cavalodetroia.webp";
 
 const articles = [
   {
@@ -217,6 +218,69 @@ Homero — A Odisseia - versão disponível na Perseus Digital Library, da Unive
 The Cambridge Guide to Homer - Cambridge University Press.
 World History Encyclopedia - Odyssey: Homer’s Epic Poem of Redemption.
 The Metropolitan Museum of Art - materiais sobre Homero e a Grécia Antiga.`,
+  },
+
+  {
+    id: 5,
+    title: "O Cavalo de Troia: o famoso plano que mudou a Guerra de Troia",
+    slug: "Cavalo de Troia",
+    description:
+      "O Cavalo de Troia é um dos episódios mais conhecidos da mitologia grega. Segundo a tradição, após cerca de dez anos de guerra sem conseguir conquistar a cidade de Troia, os gregos recorreram a um plano engenhoso: esconder soldados dentro de um enorme cavalo de madeira, que foi deixado como um suposto presente aos troianos. A estratégia permitiu a invasão da cidade e marcou o fim do conflito, tornando-se um dos maiores símbolos da inteligência militar da história.",
+    category: "História",
+    image: troiaiImage,
+    date: "2026-07-16",
+    author: "Jordan Lopes",
+    content: `O que foi o Cavalo de Troia?
+
+A Guerra de Troia já durava aproximadamente uma década quando os exércitos gregos perceberam que seria praticamente impossível romper as enormes muralhas da cidade por meio de ataques convencionais.
+
+Foi então que Ulisses (Odisseu), famoso por sua inteligência, idealizou um plano diferente. Os gregos construíram um gigantesco cavalo de madeira e esconderam em seu interior um grupo de guerreiros de elite. Enquanto isso, o restante da frota fingiu abandonar a guerra e navegar para longe.
+
+Ao encontrar apenas o enorme cavalo diante de suas muralhas, muitos troianos acreditaram que se tratava de uma oferenda aos deuses em comemoração pela suposta vitória sobre os invasores.
+
+A queda de Troia
+
+Apesar dos alertas de alguns habitantes, como o sacerdote Laocoonte e a princesa Cassandra, os troianos decidiram levar o cavalo para dentro da cidade.
+
+Durante a noite, quando todos comemoravam o fim da guerra, os soldados escondidos saíram do interior da estrutura, eliminaram os guardas e abriram os portões da cidade para o exército grego, que havia retornado secretamente.
+
+Troia foi saqueada, incendiada e praticamente destruída, encerrando um conflito que, segundo a tradição, havia durado cerca de dez anos.
+
+História ou lenda?
+
+O episódio do Cavalo de Troia aparece principalmente na obra Eneida, do poeta romano Virgílio, além de ser citado em outros textos da Antiguidade. Curiosamente, a Ilíada, de Homero, narra apenas parte da Guerra de Troia e não descreve diretamente o famoso cavalo.
+
+Até hoje, arqueólogos acreditam que uma guerra entre gregos e a cidade de Troia realmente possa ter ocorrido durante a Idade do Bronze. Escavações realizadas na atual Turquia identificaram sucessivas camadas de destruição na antiga cidade, mas não existe qualquer evidência arqueológica que confirme a existência de um cavalo gigante de madeira.
+
+Alguns pesquisadores sugerem que o cavalo pode ter sido uma metáfora para uma máquina de cerco, um terremoto — animal associado ao deus Poseidon — ou simplesmente uma narrativa criada para simbolizar uma estratégia militar brilhante.
+
+O significado do Cavalo de Troia
+
+Independentemente de ter existido ou não, o Cavalo de Troia tornou-se um dos maiores símbolos da história ocidental. A expressão passou a representar qualquer estratégia em que um inimigo conquista seu objetivo por meio do engano, infiltrando-se de forma aparentemente inofensiva.
+
+O conceito permanece atual e até inspirou o nome dos chamados "cavalos de Troia" na informática, programas maliciosos que se disfarçam de arquivos confiáveis para invadir computadores.
+
+Curiosidades
+
+A tradição atribui a ideia do Cavalo de Troia a Ulisses (Odisseu), conhecido por sua inteligência e capacidade estratégica.
+
+Segundo algumas versões do mito, cerca de 30 a 40 guerreiros ficaram escondidos dentro do cavalo, embora o número varie conforme o autor.
+
+As ruínas da antiga cidade de Troia ainda podem ser visitadas na atual Turquia e são consideradas Patrimônio Mundial da UNESCO.
+
+A expressão "presente de grego" tem origem justamente nessa história, referindo-se a um presente que esconde consequências negativas.
+
+Fontes:
+
+Homero - Ilíada.
+
+Virgílio - Eneida (Livro II), relato clássico da queda de Troia.
+
+Barry Strauss - The Trojan War: A New History.
+
+UNESCO - Informações sobre o sítio arqueológico de Troia.
+
+Encyclopaedia Britannica - Verbetes sobre a Guerra de Troia, Odisseu e o Cavalo de Troia.`,
   },
 ];
 
