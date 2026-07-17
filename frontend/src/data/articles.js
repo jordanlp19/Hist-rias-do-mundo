@@ -289,7 +289,7 @@ Encyclopaedia Britannica - Verbetes sobre a Guerra de Troia, Odisseu e o Cavalo 
     title: "Um novo estreito de Ormuz será construído?",
     slug: "Novo estreito de Ormuz",
     description:
-      "A Chevron e outrtrução de uma grande rota terrestre para transportar o petróleo iraquiano até o mar Mediterrâneo. O projeto não criaria literalmente um novo estreito, mas poderia funcionar como uma alternativa ao estreito de Ormuz, reduzindo a dependência de uma das passagens marítimas mais importantes e vulneráveis do mundo.",
+      "A Chevron estuda uma nova rota terrestre para transportar o petróleo do Iraque até o Mediterrâneo, passando pela Síria. O projeto poderia reduzir a dependência do estreito de Ormuz, mas ainda está em fase inicial de estudos e negociações.",
     category: "História",
     image: newOrmuziImage,
     date: "2026-07-17",
