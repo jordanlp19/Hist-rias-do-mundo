@@ -2,6 +2,7 @@ import fifaImage from "../assets/articles/Flag_of_FIFA.svg.webp";
 import hormuzImage from "../assets/articles/Strait_of_Hormuz.webp";
 import odisseiImage from "../assets/articles/odisseia.webp";
 import troiaiImage from "../assets/articles/cavalodetroia.webp";
+import newOrmuziImage from "../assets/articles/newOrmuz.webp";
 
 const articles = [
   {
@@ -281,6 +282,63 @@ Barry Strauss - The Trojan War: A New History.
 UNESCO - Informações sobre o sítio arqueológico de Troia.
 
 Encyclopaedia Britannica - Verbetes sobre a Guerra de Troia, Odisseu e o Cavalo de Troia.`,
+  },
+
+  {
+    id: 6,
+    title: "Um novo estreito de Ormuz será construído?",
+    slug: "Novo estreito de Ormuz",
+    description:
+      "A Chevron e outrtrução de uma grande rota terrestre para transportar o petróleo iraquiano até o mar Mediterrâneo. O projeto não criaria literalmente um novo estreito, mas poderia funcionar como uma alternativa ao estreito de Ormuz, reduzindo a dependência de uma das passagens marítimas mais importantes e vulneráveis do mundo.",
+    category: "História",
+    image: newOrmuziImage,
+    date: "2026-07-17",
+    author: "Jordan Lopes",
+    content: `Um novo estreito de Ormuz será construído?
+
+A Chevron e outros investidores estudam a construção de uma grande rota terrestre para transportar o petróleo iraquiano até o mar Mediterrâneo. O projeto não criaria literalmente um novo estreito, mas poderia funcionar como uma alternativa ao estreito de Ormuz, reduzindo a dependência de uma das passagens marítimas mais importantes e vulneráveis do mundo.
+
+Uma rota alternativa para o petróleo
+
+Em julho de 2026, a Chevron assinou acordos preliminares com o governo do Iraque. Dois deles estão relacionados ao aumento da produção de petróleo, enquanto o terceiro prevê investimentos em uma nova rota de exportação.
+
+A proposta estudada permitiria que o petróleo saísse do Iraque por terra, atravessasse a Síria e chegasse ao porto de Baniyas, no Mediterrâneo. Outra ramificação poderia seguir até o porto de Ceyhan, na Turquia. Autoridades iraquianas afirmam que a estrutura poderia transportar aproximadamente 2 milhões de barris por dia.
+
+Uma das possibilidades é recuperar o antigo oleoduto Kirkuk–Baniyas. A tubulação ligava os campos de petróleo próximos de Kirkuk ao litoral sírio, mas está praticamente desativada desde que foi danificada durante a invasão do Iraque, em 2003. A construção de novas tubulações também está sendo considerada.
+
+Por que o estreito de Ormuz é tão importante?
+
+O estreito de Ormuz conecta o golfo Pérsico ao golfo de Omã e ao oceano Índico. Em 2025, aproximadamente 20 milhões de barris de petróleo e derivados passaram diariamente pela região, quantidade equivalente a cerca de 25% de todo o comércio marítimo mundial de petróleo.
+
+Somente o Iraque enviou aproximadamente 3,6 milhões de barris por dia através do estreito naquele ano. Isso significa que qualquer bloqueio ou conflito na passagem pode afetar diretamente as exportações iraquianas e provocar aumento dos preços da energia em diversos países.
+
+O projeto já está confirmado?
+
+Apesar dos acordos anunciados, a construção ainda não está garantida. A Chevron continua realizando estudos técnicos e comparando diferentes trajetos para o oleoduto.
+
+Além dos custos elevados, o projeto exigirá cooperação entre Iraque, Síria, Turquia, empresas internacionais e investidores. Oleodutos que atravessam vários países também podem levar anos para serem concluídos.
+
+Mesmo assim, o movimento faz parte de uma estratégia mais ampla. Arábia Saudita e Emirados Árabes Unidos já possuem oleodutos capazes de transportar parte de sua produção sem passar pelo estreito de Ormuz. Atualmente, essas rotas alternativas possuem entre 3,5 milhões e 5,5 milhões de barris por dia de capacidade disponível.
+
+Uma transformação no comércio de petróleo
+
+A guerra envolvendo o Irã aumentou a preocupação dos países produtores com a segurança das exportações. Como consequência, governos e empresas passaram a acelerar projetos capazes de levar petróleo até o Mediterrâneo, o mar Vermelho ou outros portos fora do golfo Pérsico.
+
+Portanto, um “novo estreito de Ormuz” não será construído. O que pode surgir é uma rede de oleodutos terrestres capaz de reduzir a importância estratégica da passagem marítima.
+
+O estreito continuará sendo fundamental para o comércio mundial, mas, no futuro, poderá deixar de ser a única grande saída disponível para parte do petróleo produzido no Oriente Médio.
+
+Fontes:
+
+The News - resumo informativo sobre as negociações entre Chevron e o governo iraquiano.
+
+The Wall Street Journal - informações sobre os projetos da Chevron e a busca por uma rota alternativa ao estreito de Ormuz.
+
+Reuters - informações sobre a recuperação do oleoduto Kirkuk–Baniyas e os estudos de novas rotas.
+
+Associated Press - informações sobre os acordos assinados, o trajeto proposto e a capacidade estimada do oleoduto.
+
+Agência Internacional de Energia - dados sobre o volume de petróleo transportado pelo estreito de Ormuz e as rotas alternativas existentes.`,
   },
 ];
 
