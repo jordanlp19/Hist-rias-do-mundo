@@ -3,6 +3,7 @@ import hormuzImage from "../assets/articles/Strait_of_Hormuz.webp";
 import odisseiImage from "../assets/articles/odisseia.webp";
 import troiaiImage from "../assets/articles/cavalodetroia.webp";
 import newOrmuziImage from "../assets/articles/newOrmuz.webp";
+import espanhaiImage from "../assets/articles/espanha.webp";
 
 const articles = [
   {
@@ -339,6 +340,49 @@ Reuters - informações sobre a recuperação do oleoduto Kirkuk–Baniyas e os 
 Associated Press - informações sobre os acordos assinados, o trajeto proposto e a capacidade estimada do oleoduto.
 
 Agência Internacional de Energia - dados sobre o volume de petróleo transportado pelo estreito de Ormuz e as rotas alternativas existentes.`,
+  },
+
+  {
+    id: 7,
+    title: "A história do futebol na Espanha",
+    slug: "Futebol na Espanha",
+    description:
+      "A Espanha é um dos países mais tradicionais do futebol mundial. Ao longo de mais de um século, o país construiu uma das ligas mais fortes do planeta, revelou alguns dos maiores jogadores da história e consolidou uma seleção nacional que passou de promessa a potência. Em 2026, essa trajetória ganhou mais um capítulo histórico com a conquista do segundo título mundial.",
+    category: "História",
+    image: espanhaiImage,
+    date: "2026-07-20",
+    author: "Jordan Lopes",
+    content: `O futebol chegou à Espanha no final do século XIX, levado principalmente por trabalhadores britânicos que atuavam em portos e regiões industriais. Rapidamente o esporte ganhou popularidade, dando origem aos primeiros clubes e campeonatos nacionais.
+
+Em 1929 foi criada a La Liga, a primeira divisão do futebol espanhol. Desde então, a competição tornou-se uma das mais prestigiadas do mundo, reunindo clubes históricos como Real Madrid, Barcelona, Atlético de Madrid, Athletic Bilbao e Valencia. O campeonato também foi palco de alguns dos maiores jogadores da história, entre eles Alfredo Di Stéfano, Johan Cruyff, Cristiano Ronaldo, Lionel Messi, Xavi, Iniesta e muitos outros.
+
+Durante décadas, a seleção espanhola era conhecida por montar boas equipes, mas encontrava dificuldades para transformar esse potencial em títulos. A principal conquista antes do século XXI havia sido a Eurocopa de 1964.
+
+A grande mudança começou na década de 2000. Baseada em uma geração extremamente talentosa formada por jogadores como Iker Casillas, Xavi Hernández, Andrés Iniesta, Xabi Alonso, David Villa, Sergio Ramos e Carles Puyol, a Espanha adotou um estilo de jogo baseado na posse de bola e nos passes rápidos, conhecido mundialmente como "tiki-taka".
+
+Os resultados foram históricos. A seleção conquistou a Eurocopa de 2008, a Copa do Mundo de 2010 e novamente a Eurocopa de 2012, tornando-se a primeira seleção da história a vencer três grandes torneios internacionais consecutivos.
+
+Na Copa do Mundo de 2010, realizada na África do Sul, a Espanha conquistou seu primeiro título mundial ao derrotar a Holanda por 1 a 0 na prorrogação. O gol de Andrés Iniesta entrou para a história como um dos momentos mais marcantes do futebol espanhol.
+
+Após alguns anos de renovação, uma nova geração passou a liderar a equipe. Jogadores como Pedri, Lamine Yamal, Nico Williams, Rodri e outros talentos recolocaram a Espanha entre as principais seleções do mundo. O título da Eurocopa de 2024 confirmou o retorno da equipe ao mais alto nível e abriu caminho para uma nova fase de sucesso.
+
+O bicampeonato mundial em 2026
+
+Em 19 de julho de 2026, a Espanha escreveu mais uma página histórica ao conquistar sua segunda Copa do Mundo. Na decisão, disputada contra a Argentina, a partida terminou empatada sem gols no tempo normal. Na prorrogação, Ferran Torres marcou o único gol do jogo, garantindo a vitória por 1 a 0 e o bicampeonato mundial para La Roja.
+
+Com a conquista, a Espanha passou a integrar o grupo das seleções bicampeãs mundiais, ao lado de França e Uruguai, ficando atrás apenas de Brasil, Alemanha, Itália e Argentina no ranking histórico de títulos. Além disso, confirmou a força de uma nova geração que promete manter o país entre as maiores potências do futebol mundial pelos próximos anos.
+
+Fontes:
+
+FIFA - História e perfil da seleção espanhola na Copa do Mundo.
+
+FIFA - Espanha conquista o segundo título mundial e ranking de campeões.
+
+FIFA - Resumo da final da Copa do Mundo de 2026.
+
+Associated Press (AP) - Cobertura da final Espanha x Argentina.
+
+The Guardian - Análise da campanha e da conquista espanhola na Copa do Mundo de 2026.`,
   },
 ];
 
