@@ -4,6 +4,7 @@ import odisseiImage from "../assets/articles/odisseia.webp";
 import troiaiImage from "../assets/articles/cavalodetroia.webp";
 import newOrmuziImage from "../assets/articles/newOrmuz.webp";
 import espanhaiImage from "../assets/articles/espanha.webp";
+import ruucraimage from "../assets/articles/guerra_russia_ucrania.webp";
 
 const articles = [
   {
@@ -383,6 +384,120 @@ FIFA - Resumo da final da Copa do Mundo de 2026.
 Associated Press (AP) - Cobertura da final Espanha x Argentina.
 
 The Guardian - Análise da campanha e da conquista espanhola na Copa do Mundo de 2026.`,
+  },
+
+  {
+    id: 8,
+    title:
+      "Guerra entre Rússia e Ucrânia: como começou e o que cada lado defende",
+    slug: "Russia vs Ucrania",
+    description:
+      "A guerra entre Rússia e Ucrânia envolve disputas territoriais, segurança e influência internacional. A Rússia afirma agir contra a expansão da OTAN e em defesa de populações de origem russa, enquanto a Ucrânia diz lutar por sua soberania e liberdade de escolher suas alianças. A ONU considera a invasão iniciada em 2022 uma agressão contra o território ucraniano.",
+    category: "História",
+    image: ruucraimage,
+    date: "2026-07-21",
+    author: "Yuriy Leal",
+    content: `As origens do conflito
+
+A Ucrânia tornou-se independente em 1991, após o fim da União Soviética. Desde então, o país passou a conviver com uma divisão política entre grupos favoráveis a relações mais próximas com a Rússia e setores que defendiam maior integração com a União Europeia.
+
+No final de 2013, o presidente ucraniano Viktor Yanukovych desistiu de assinar um acordo de aproximação com a União Europeia. A decisão provocou grandes manifestações em Kyiv, conhecidas como Euromaidan. Após meses de protestos e confrontos, Yanukovych deixou o país em fevereiro de 2014.
+
+O governo russo descreveu esses acontecimentos como um golpe apoiado por países ocidentais. Muitos ucranianos, entretanto, consideraram o movimento uma revolta popular contra a corrupção, a repressão política e a influência de Moscou.
+
+Pouco depois, forças russas assumiram o controle da Crimeia. Um referendo foi realizado na península e utilizado pela Rússia para justificar sua anexação. A Ucrânia e grande parte da comunidade internacional não reconheceram o resultado, alegando que a votação ocorreu durante uma ocupação militar. Em março de 2014, a Assembleia Geral da ONU declarou inválida qualquer mudança no status da Crimeia.
+
+Também em 2014, grupos separatistas apoiados pela Rússia assumiram partes das regiões de Donetsk e Luhansk, no leste da Ucrânia. O conflito em Donbas provocou milhares de mortes nos anos seguintes. Os Acordos de Minsk tentaram estabelecer um cessar-fogo e uma solução política, mas nunca foram totalmente implementados.
+
+O início da invasão em grande escala
+
+Em 24 de fevereiro de 2022, a Rússia iniciou uma invasão em grande escala da Ucrânia, atacando a partir do território russo, da Crimeia e de Belarus.
+
+O governo russo chamou a ofensiva de “operação militar especial” e apresentou como objetivos a “desmilitarização” e a “desnazificação” da Ucrânia. O presidente Vladimir Putin também afirmou que seria necessário proteger a população de Donbas e impedir que a Ucrânia se transformasse em uma base militar ocidental próxima às fronteiras russas.
+
+A Ucrânia rejeitou essas justificativas e declarou que se tratava de uma invasão destinada a derrubar seu governo, ocupar territórios e limitar sua soberania.
+
+A posição apresentada pela Rússia
+
+A Rússia considera a expansão da OTAN em direção ao Leste Europeu uma ameaça direta à sua segurança. Desde o fim da Guerra Fria, vários países que integravam o bloco soviético ou estavam sob sua influência ingressaram na aliança militar ocidental.
+
+Para Moscou, uma eventual entrada da Ucrânia na OTAN poderia permitir a instalação de tropas, sistemas de defesa e armamentos ocidentais muito próximos do território russo.
+
+O governo russo também afirma que as populações de língua russa de Donetsk e Luhansk foram perseguidas pelas autoridades ucranianas. Em 2022, Putin chegou a utilizar a expressão “genocídio” para descrever a situação em Donbas.
+
+Entretanto, em uma decisão provisória de março de 2022, a Corte Internacional de Justiça afirmou que não possuía evidências que sustentassem a alegação russa de genocídio e determinou que a Rússia suspendesse suas operações militares.
+
+Atualmente, a Rússia exige que a Ucrânia abandone oficialmente sua intenção de entrar na OTAN e retire suas tropas de Donetsk, Luhansk, Kherson e Zaporizhzhia. Moscou afirma ter incorporado essas quatro regiões, embora não controle completamente seus territórios e as anexações não sejam reconhecidas pela Ucrânia nem pela maioria dos países. Em junho de 2026, o Kremlin declarou que essas condições continuavam válidas.
+
+A posição apresentada pela Ucrânia
+
+A Ucrânia afirma que, como país independente, possui o direito de decidir se deseja ingressar na União Europeia, na OTAN ou em qualquer outra organização internacional.
+
+O governo ucraniano argumenta que a Rússia já havia violado sua soberania ao anexar a Crimeia e apoiar os separatistas em Donbas em 2014. Para Kyiv, a ofensiva de 2022 confirmou que a neutralidade, por si só, não seria suficiente para garantir a segurança do país.
+
+A Ucrânia exige garantias internacionais capazes de impedir uma nova invasão. Também defende sua independência e integridade territorial dentro das fronteiras internacionalmente reconhecidas.
+
+O governo ucraniano afirma estar aberto a negociações e a um cessar-fogo, mas rejeita um acordo que obrigue o país a reconhecer permanentemente os territórios ocupados como parte da Rússia. Kyiv teme que um cessar-fogo sem garantias de segurança apenas permita que Moscou reorganize suas forças e retome a guerra posteriormente.
+
+Como está a guerra atualmente
+
+Em julho de 2026, a Rússia continua controlando aproximadamente 20% do território internacionalmente reconhecido da Ucrânia, incluindo a Crimeia e partes do leste e do sul do país. As linhas de combate apresentam mudanças relativamente pequenas, apesar dos intensos confrontos.
+
+A guerra transformou-se principalmente em um conflito de desgaste, com o uso constante de artilharia, minas, mísseis e diferentes tipos de drones.
+
+A Rússia mantém ataques contra cidades, instalações militares e a infraestrutura energética ucraniana. A Ucrânia, por sua vez, ampliou ataques de longa distância contra refinarias, depósitos, fábricas militares, navios e outras instalações localizadas em território russo.
+
+Os números de soldados mortos e feridos são extremamente difíceis de confirmar. Rússia e Ucrânia divulgam informações incompletas sobre suas próprias perdas e apresentam estimativas muito diferentes sobre as baixas do adversário.
+
+O impacto sobre os civis
+
+A população ucraniana continua sendo a principal atingida pelo conflito. Segundo a missão de direitos humanos da ONU, pelo menos 1.396 civis morreram e 7.978 ficaram feridos na Ucrânia durante os primeiros seis meses de 2026.
+
+Somente em junho de 2026, pelo menos 293 civis foram mortos e 1.990 ficaram feridos, o maior número mensal de vítimas civis registrado desde abril de 2022. A ONU atribuiu grande parte desse crescimento aos ataques russos de longa distância contra áreas urbanas ucranianas.
+
+Civis russos também são atingidos por ataques ucranianos. As autoridades da Rússia informaram que 250 civis morreram e 1.596 ficaram feridos em território russo durante o primeiro semestre de 2026. Esses números foram apresentados pelas autoridades russas e não possuem o mesmo nível de verificação independente disponível nas regiões controladas pela Ucrânia.
+
+Desde fevereiro de 2022, a ONU confirmou pelo menos 16.431 civis mortos e 48.613 feridos na Ucrânia. O número real provavelmente é maior, principalmente nas áreas ocupadas ou próximas às frentes de combate, onde a verificação é mais difícil.
+
+Mais de dez milhões de ucranianos permanecem deslocados, dentro ou fora do país. Além disso, a destruição de casas, escolas, hospitais, estradas e instalações de energia gerou uma enorme crise econômica. O Banco Mundial estima que a recuperação e a reconstrução da Ucrânia poderão custar aproximadamente 588 bilhões de dólares durante a próxima década.
+
+Por que um acordo de paz é tão difícil?
+
+Os principais obstáculos envolvem o controle dos territórios ocupados, o futuro relacionamento da Ucrânia com a OTAN, as garantias de segurança exigidas por Kyiv, a retirada das tropas russas, as sanções econômicas contra Moscou e a responsabilização por possíveis crimes de guerra.
+
+A Rússia rejeita um cessar-fogo temporário e afirma desejar um acordo permanente que resolva aquilo que chama de “causas fundamentais” do conflito. Para Moscou, isso inclui a neutralidade da Ucrânia e o reconhecimento das mudanças territoriais.
+
+A Ucrânia considera que aceitar essas exigências significaria recompensar o uso da força e permitir que a Rússia mantenha territórios conquistados militarmente.
+
+Em 16 de julho de 2026, o Kremlin declarou que não havia perspectivas imediatas de retomada das negociações, embora tenha afirmado continuar aberto ao diálogo. Moscou responsabiliza Kyiv por não aceitar suas condições, enquanto a Ucrânia afirma que a Rússia utiliza as negociações para exigir sua rendição territorial.
+
+Uma guerra de narrativas e interesses
+
+A Rússia apresenta o conflito como uma reação ao avanço da OTAN, à interferência ocidental na Ucrânia e à necessidade de proteger sua própria segurança.
+
+A Ucrânia apresenta a guerra como uma luta pela sobrevivência nacional, pela independência e pelo direito de escolher seu próprio futuro.
+
+Compreender essas duas perspectivas ajuda a explicar as motivações políticas do conflito. Contudo, segundo a posição predominante na ONU e no direito internacional, preocupações de segurança não autorizam um país a invadir outro ou anexar territórios pela força.
+
+Depois de anos de combates, nenhum dos lados parece disposto a abandonar seus principais objetivos. Enquanto não houver um acordo sobre território, segurança e garantias internacionais, a guerra provavelmente continuará provocando mortes, deslocamentos e destruição em ambos os países.
+
+Fontes:
+
+Nações Unidas - Resoluções sobre a invasão da Ucrânia e as anexações territoriais realizadas pela Rússia.
+
+Missão de Monitoramento dos Direitos Humanos da ONU na Ucrânia - Dados sobre vítimas civis e impactos dos ataques.
+
+Corte Internacional de Justiça - Processo envolvendo as alegações russas de genocídio em Donbas.
+
+Kremlin - Discursos e justificativas oficiais apresentadas pelo governo russo.
+
+Presidência da Ucrânia - Posicionamentos oficiais sobre soberania, integridade territorial e garantias de segurança.
+
+Reuters - Informações atualizadas sobre o conflito, as negociações e as condições apresentadas pelos dois governos.
+
+Banco Mundial - Avaliação dos danos e dos custos de reconstrução da Ucrânia.
+
+Council on Foreign Relations - Histórico do conflito e estimativas sobre os territórios atualmente ocupados.`,
   },
 ];
 

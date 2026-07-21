@@ -1,4 +1,4 @@
-import heroBackground from "../assets/images/Hero_Background.png";
+import heroBackground from "../assets/images/hero_background_otimizado.webp";
 import Snippets from "../components/Snippets.jsx";
 import Thebest from "../components/Thebest.jsx";
 
