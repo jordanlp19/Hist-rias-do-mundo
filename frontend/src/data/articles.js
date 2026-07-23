@@ -6,6 +6,7 @@ import newOrmuziImage from "../assets/articles/newOrmuz.webp";
 import espanhaiImage from "../assets/articles/espanha.webp";
 import ruucraimage from "../assets/articles/guerra_russia_ucrania.webp";
 import openiaimage from "../assets/articles/ia_openai_.webp";
+import ortegaimage from "../assets/articles/nicaragua_ortega.webp";
 
 const articles = [
   {
@@ -571,6 +572,77 @@ Reuters - Reportagem sobre o ataque realizado pelo agente de IA durante testes i
 Associated Press - Cobertura sobre a investigação conjunta entre OpenAI e Hugging Face.
 The Wall Street Journal - Detalhes sobre a fuga do ambiente de testes e o ataque cibernético.
 The Guardian - Análise dos riscos apresentados por agentes autônomos de inteligência artificial.`,
+  },
+
+  {
+    id: 10,
+    title: "A história da presidência na Nicarágua",
+    slug: "Presidencia Nicaragua",
+    description:
+      "A presidência da Nicarágua passou por períodos de democracia, ditaduras, revoluções e guerras civis ao longo de quase dois séculos. O país viveu longas fases de instabilidade política até a ascensão da Frente Sandinista de Libertação Nacional (FSLN). Nas últimas décadas, Daniel Ortega voltou ao poder e promoveu profundas mudanças nas instituições do país. Em 2026, uma nova decisão do governo chamou a atenção da comunidade internacional ao anunciar o fim das eleições presidenciais.",
+    category: "História",
+    image: ortegaimage,
+    date: "2026-07-23",
+    author: "Jordan Lopes",
+    content: `O início da República
+
+A Nicarágua tornou-se independente da Espanha em 1821 e, após um breve período integrando a Federação Centro-Americana, consolidou-se como uma república independente em 1838.
+
+Desde então, o país passou por sucessivas disputas entre grupos liberais e conservadores. Durante grande parte do século XIX, golpes de Estado, conflitos internos e mudanças frequentes de governo marcaram a história da presidência nicaraguense.
+
+A dinastia Somoza
+
+Em 1936, Anastasio Somoza García assumiu o poder, iniciando uma das mais duradouras ditaduras da América Latina.
+
+Após seu assassinato em 1956, seus filhos Luís Somoza Debayle e Anastasio Somoza Debayle continuaram governando o país, mantendo o controle do Estado, das Forças Armadas e da economia por mais de quatro décadas.
+
+O regime recebeu apoio dos Estados Unidos durante boa parte da Guerra Fria, mas também enfrentou crescente oposição interna.
+
+A Revolução Sandinista
+
+Em 1979, a Frente Sandinista de Libertação Nacional (FSLN) derrubou a ditadura Somoza após uma longa guerrilha.
+
+Entre os principais líderes do movimento estava Daniel Ortega, que assumiu a presidência em 1985.
+
+Durante os anos 1980, o país enfrentou uma guerra civil entre o governo sandinista e os chamados "Contras", grupo armado apoiado pelos Estados Unidos. O conflito provocou milhares de mortes e uma grave crise econômica.
+
+A volta de Ortega ao poder
+
+Em 1990, Ortega perdeu as eleições para Violeta Barrios de Chamorro, marcando a primeira alternância democrática após a Revolução Sandinista.
+
+Após três derrotas eleitorais consecutivas, Daniel Ortega voltou à presidência em 2007.
+
+Desde então, seu governo promoveu diversas reformas constitucionais que ampliaram os poderes do Executivo, permitiram sucessivas reeleições e aumentaram a influência do governo sobre outras instituições do Estado.
+
+Ao mesmo tempo, apoiadores afirmam que houve avanços em áreas como infraestrutura, programas sociais e redução da pobreza em determinados períodos. Já críticos apontam restrições às liberdades políticas, perseguição a opositores e concentração de poder.
+
+O anúncio do fim das eleições
+
+Em julho de 2026, Daniel Ortega anunciou mudanças que, segundo o governo, encerram o modelo tradicional de eleições presidenciais na Nicarágua.
+
+A medida faz parte de uma ampla reforma política apresentada pelo governo, que argumenta buscar maior estabilidade institucional e continuidade administrativa.
+
+Diversos governos, organizações internacionais e entidades de direitos humanos criticaram a decisão, afirmando que ela representa um enfraquecimento dos mecanismos democráticos e da participação popular.
+
+Já o governo nicaraguense sustenta que as mudanças são uma questão de soberania nacional e afirma que o novo modelo político busca proteger o país de interferências externas.
+
+O anúncio ampliou o isolamento diplomático da Nicarágua e reforçou o debate internacional sobre o futuro político do país e das instituições democráticas na região.
+
+Fontes:
+
+Encyclopaedia Britannica - História da Nicarágua, independência, ditadura Somoza e Revolução Sandinista.
+
+CIA World Factbook - Informações históricas e políticas sobre a Nicarágua.
+
+Biblioteca do Congresso dos Estados Unidos (Library of Congress) - Estudos sobre a evolução política da Nicarágua.
+
+Organização dos Estados Americanos (OEA) - Documentos e comunicados sobre a situação institucional do país.
+
+Organização das Nações Unidas (ONU) - Relatórios sobre direitos humanos e governança na Nicarágua.
+
+Reuters - Cobertura dos acontecimentos políticos e do anúncio feito por Daniel Ortega em 2026.
+
+Associated Press (AP) - Reportagens sobre as recentes reformas políticas e repercussão internacional.`,
   },
 ];
 
