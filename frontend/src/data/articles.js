@@ -7,6 +7,7 @@ import espanhaiImage from "../assets/articles/espanha.webp";
 import ruucraimage from "../assets/articles/guerra_russia_ucrania.webp";
 import openiaimage from "../assets/articles/ia_openai_.webp";
 import ortegaimage from "../assets/articles/nicaragua_ortega.webp";
+import euairaimage from "../assets/articles/eua-x-ira.webp";
 
 const articles = [
   {
@@ -643,6 +644,59 @@ Organização das Nações Unidas (ONU) - Relatórios sobre direitos humanos e g
 Reuters - Cobertura dos acontecimentos políticos e do anúncio feito por Daniel Ortega em 2026.
 
 Associated Press (AP) - Reportagens sobre as recentes reformas políticas e repercussão internacional.`,
+  },
+
+  {
+    id: 11,
+    title:
+      "Guerra contra o Irã já deixou 18 militares americanos mortos e mais de 500 feridos",
+    slug: "Guerra Ira feridos",
+    description:
+      "A guerra entre Estados Unidos e Irã continua elevando o número de baixas entre as forças americanas no Oriente Médio. Desde o início do conflito, 18 militares dos Estados Unidos morreram, enquanto o número de feridos já ultrapassa 500. A nova escalada de ataques iranianos contra bases americanas na região aumentou rapidamente o número de vítimas nas últimas semanas.",
+    category: "História",
+    image: euairaimage,
+    date: "2026-07-24",
+    author: "Yuriy Leal",
+    content: `Aumento das baixas americanas
+
+Os Estados Unidos entraram diretamente no conflito contra o Irã no final de fevereiro de 2026. Desde então, forças americanas realizaram sucessivos ataques contra instalações militares, sistemas de defesa aérea, bases de mísseis e outros alvos iranianos.
+
+O Irã, por sua vez, respondeu com ataques utilizando mísseis e drones contra instalações militares americanas espalhadas pelo Oriente Médio.
+
+De acordo com a Reuters, 18 militares americanos morreram desde o início da guerra. Quatro das vítimas mais recentes foram homenageadas durante uma cerimônia realizada na Base Aérea de Dover, nos Estados Unidos, em 22 de julho.
+
+Três desses militares morreram após um ataque iraniano contra a Base Aérea de Muwaffaq Salti, na Jordânia. Outro militar morreu em Erbil, no Iraque, durante uma operação para destruir de forma controlada um drone iraniano abatido.
+
+Mais de 500 militares ficaram feridos
+
+O número de feridos também aumentou consideravelmente durante a nova fase dos combates.
+
+Segundo uma autoridade americana ouvida pela Associated Press, mais de 500 militares dos Estados Unidos já sofreram algum tipo de ferimento durante a guerra. O número é superior ao registrado naquele momento pelo sistema oficial de baixas do Pentágono, que apresentava 482 feridos.
+
+A diferença ocorre porque o sistema oficial pode levar algum tempo para registrar novos casos.
+
+O próprio Pentágono informou que quase 100 militares sofreram algum tipo de ferimento apenas desde a retomada dos ataques americanos em 7 de julho. Segundo o porta-voz do Departamento de Defesa, Sean Parnell, a maioria dos casos recentes envolveu concussões leves e aproximadamente 96% dos militares atingidos já haviam retornado ao serviço.
+
+Conflito volta a se intensificar
+
+A guerra chegou a passar por períodos de redução dos combates, mas as hostilidades voltaram a crescer em julho.
+
+Os Estados Unidos retomaram uma ampla campanha de ataques aéreos contra posições iranianas, enquanto Teerã intensificou suas ofensivas contra bases e instalações utilizadas pelas forças americanas em países como Jordânia, Kuwait, Bahrein e Iraque.
+
+Ao mesmo tempo, o conflito passou a afetar diretamente algumas das principais rotas de comércio de petróleo do mundo. O estreito de Ormuz tornou-se um dos principais pontos da disputa, aumentando a preocupação internacional com o abastecimento energético e com uma possível expansão da guerra para outros países da região.
+
+O custo da guerra aumenta
+
+Além das baixas humanas, o conflito também representa um custo crescente para Washington.
+
+Em depoimento ao Senado americano, o secretário de Defesa Pete Hegseth afirmou que as operações contra o Irã já haviam custado aproximadamente US$ 37,5 bilhões aos Estados Unidos.
+
+Com 18 militares mortos, mais de 500 feridos e novos ataques ocorrendo na região, o conflito demonstra que, apesar da enorme superioridade tecnológica das forças americanas, a presença de milhares de soldados distribuídos em bases pelo Oriente Médio continua deixando os Estados Unidos vulneráveis aos ataques de mísseis e drones iranianos.
+
+Fontes:
+Reuters - Informações sobre as mortes de militares americanos, ataques iranianos, cerimônia realizada na Base Aérea de Dover e evolução da guerra entre Estados Unidos e Irã.
+Associated Press - Dados sobre mais de 500 militares americanos feridos, atualização das baixas e informações divulgadas pelo Pentágono.
+Stars and Stripes - Informações sobre os militares feridos desde a retomada dos ataques em julho e dados divulgados pelo Departamento de Defesa dos Estados Unidos.`,
   },
 ];
 
