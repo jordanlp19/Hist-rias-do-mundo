@@ -8,6 +8,7 @@ import ruucraimage from "../assets/articles/guerra_russia_ucrania.webp";
 import openiaimage from "../assets/articles/ia_openai_.webp";
 import ortegaimage from "../assets/articles/nicaragua_ortega.webp";
 import euairaimage from "../assets/articles/eua-x-ira.webp";
+import presidColombia from "../assets/articles/PresidColombia.webp";
 
 const articles = [
   {
@@ -697,6 +698,74 @@ Fontes:
 Reuters - Informações sobre as mortes de militares americanos, ataques iranianos, cerimônia realizada na Base Aérea de Dover e evolução da guerra entre Estados Unidos e Irã.
 Associated Press - Dados sobre mais de 500 militares americanos feridos, atualização das baixas e informações divulgadas pelo Pentágono.
 Stars and Stripes - Informações sobre os militares feridos desde a retomada dos ataques em julho e dados divulgados pelo Departamento de Defesa dos Estados Unidos.`,
+  },
+
+  {
+    id: 12,
+    title:
+      "Presidente eleito da Colômbia promete romper relações com Cuba e Nicarágua",
+    slug: "Novo Presidente da Colombia",
+    description:
+      "O presidente eleito da Colômbia, Abelardo de la Espriella, anunciou que pretende romper as relações diplomáticas do país com Cuba e Nicarágua assim que assumir o governo. A decisão faz parte de uma ampla mudança na política externa colombiana e deve marcar um forte contraste com o governo de Gustavo Petro.",
+    category: "História",
+    image: presidColombia,
+    date: "2026-07-27",
+    author: "Jordan Lopes",
+    content: `Uma mudança na política externa
+
+Abelardo de la Espriella venceu as eleições presidenciais colombianas realizadas em junho de 2026 e deve assumir oficialmente a Presidência em 7 de agosto.
+
+O advogado e político conservador chegará ao poder prometendo mudanças significativas tanto na política interna quanto nas relações internacionais da Colômbia.
+
+Uma das primeiras alterações anunciadas envolve diretamente Cuba e Nicarágua. De la Espriella afirmou que seu governo não manterá relações diplomáticas com países que considera regimes autoritários.
+
+"Em meu governo, não haverá laços de forma alguma com tiranias", declarou o presidente eleito ao anunciar seus planos.
+
+Relações com Cuba e Nicarágua
+
+A medida representa uma mudança importante em relação à política adotada pelo atual presidente Gustavo Petro, que manteve relações próximas com diferentes governos de esquerda da América Latina.
+
+Cuba possui uma relação particularmente importante com a história recente da Colômbia. O país participou como mediador e sede de negociações envolvendo o governo colombiano e grupos guerrilheiros, incluindo as negociações que levaram ao acordo de paz com as Forças Armadas Revolucionárias da Colômbia (Farc).
+
+A Nicarágua, por sua vez, vive um período de crescente isolamento internacional. O governo de Daniel Ortega anunciou recentemente medidas para impedir a participação da oposição em futuras eleições, aumentando as críticas internacionais contra o regime.
+
+Colômbia também fechará embaixadas
+
+A reorganização será ainda mais ampla. De la Espriella anunciou que pretende fechar 14 embaixadas e 15 consulados colombianos espalhados pelo mundo.
+
+Entre os países que devem ter representações diplomáticas encerradas estão Argélia, Haiti, Barbados, Hungria, Senegal, Etiópia e África do Sul.
+
+Segundo o presidente eleito, parte dos recursos economizados com a redução da estrutura diplomática será direcionada para a segurança pública, uma das principais bandeiras de sua campanha presidencial.
+
+Escritórios diplomáticos também deverão ser unificados em países como França e Itália.
+
+Uma aproximação com Israel
+
+Ao mesmo tempo em que pretende se afastar de Cuba e Nicarágua, o novo governo colombiano deverá reconstruir suas relações com Israel.
+
+A Colômbia rompeu relações diplomáticas com Israel em 2024, durante o governo Gustavo Petro, em meio às críticas colombianas às operações militares israelenses na Faixa de Gaza.
+
+De la Espriella já anunciou que pretende reabrir a embaixada colombiana em Israel após assumir a Presidência.
+
+A decisão reforça a expectativa de uma mudança profunda na orientação internacional da Colômbia, aproximando o país novamente de governos considerados aliados tradicionais e afastando Bogotá de parte da esquerda latino-americana.
+
+Uma nova fase para a Colômbia
+
+A chegada de Abelardo de la Espriella à Presidência poderá representar uma das maiores mudanças recentes na política externa colombiana.
+
+Depois de quatro anos sob Gustavo Petro, primeiro presidente de esquerda da história moderna do país, a Colômbia inicia uma nova fase política.
+
+O rompimento prometido com Cuba e Nicarágua, a redução da rede diplomática e a retomada das relações com Israel indicam que essa transformação poderá ser percebida rapidamente fora das fronteiras colombianas.
+
+Fontes:
+
+UOL / AFP - Presidente eleito da Colômbia anunciou o rompimento das relações diplomáticas com Cuba e Nicarágua e o fechamento de embaixadas e consulados.
+
+Associated Press - Informações sobre a eleição de Abelardo de la Espriella, sua futura administração e a transição do governo Gustavo Petro.
+
+Veja - Informações sobre a reorganização da rede diplomática colombiana e o redirecionamento de recursos para a segurança pública.
+
+Band - Informações sobre a intenção do novo governo de retomar as relações diplomáticas com Israel.`,
   },
 ];
 
