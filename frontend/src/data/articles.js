@@ -9,6 +9,7 @@ import openiaimage from "../assets/articles/ia_openai_.webp";
 import ortegaimage from "../assets/articles/nicaragua_ortega.webp";
 import euairaimage from "../assets/articles/eua-x-ira.webp";
 import presidColombia from "../assets/articles/PresidColombia.webp";
+import iraeuaPaz from "../assets/articles/negociacoes_paz_eua_ira.webp";
 
 const articles = [
   {
@@ -766,6 +767,66 @@ Associated Press - Informações sobre a eleição de Abelardo de la Espriella, 
 Veja - Informações sobre a reorganização da rede diplomática colombiana e o redirecionamento de recursos para a segurança pública.
 
 Band - Informações sobre a intenção do novo governo de retomar as relações diplomáticas com Israel.`,
+  },
+
+  {
+    id: 13,
+    title:
+      "Quantas tentativas de acordo de paz já ocorreram entre Estados Unidos e Irã na guerra atual?",
+    slug: "Tentativas de Acordo de Paz",
+    description:
+      "Desde o início da guerra entre Estados Unidos e Irã, em fevereiro de 2026, diversos esforços diplomáticos tentaram interromper os combates. Apesar de alguns avanços temporários, diferenças sobre o programa nuclear iraniano, sanções econômicas e a segurança no estreito de Ormuz impediram um acordo definitivo. Com a mais recente rodada de negociações mediada por Omã, o conflito chega a mais uma tentativa de paz.",
+    category: "História",
+    image: iraeuaPaz,
+    date: "2026-07-28",
+    author: "Jordan Lopes",
+    content: `As negociações durante a guerra
+
+A guerra começou em 28 de fevereiro de 2026, após uma ofensiva conjunta dos Estados Unidos e de Israel contra instalações militares e nucleares iranianas. Desde então, além dos confrontos militares, diplomatas de diferentes países passaram a buscar uma solução negociada.
+
+Ao longo do conflito, várias iniciativas foram lançadas por mediadores internacionais, principalmente Paquistão, Catar e Omã. Em diferentes momentos, as negociações chegaram a produzir cessares-fogo temporários, memorandos de entendimento e propostas de paz, mas nenhum deles conseguiu encerrar definitivamente a guerra.
+
+Entre os principais marcos estão:
+
+Março de 2026: primeiras propostas de cessar-fogo foram apresentadas, mas acabaram rejeitadas por divergências nas condições exigidas pelos dois lados.
+
+Abril de 2026: entrou em vigor um cessar-fogo temporário, acompanhado do início das primeiras negociações diretas entre representantes americanos e iranianos. Os combates diminuíram, mas nunca cessaram completamente.
+
+Maio de 2026: novas rodadas de negociação tentaram transformar o cessar-fogo em um acordo permanente. O processo acabou sendo interrompido após novos confrontos militares no estreito de Ormuz.
+
+Junho de 2026: Estados Unidos e Irã assinaram um memorando prorrogando a trégua por 60 dias enquanto continuavam discutindo temas como sanções econômicas, ativos iranianos congelados, programa nuclear e segurança marítima.
+
+Julho de 2026: novas conversas foram iniciadas em Doha e, mais recentemente, Omã passou a liderar uma nova tentativa de aproximação entre as partes, buscando restabelecer a navegação no estreito de Ormuz e abrir caminho para um acordo mais amplo.
+
+Quantas tentativas já ocorreram?
+
+Considerando apenas as principais iniciativas diplomáticas que chegaram efetivamente à fase de negociação entre os governos, esta é aproximadamente a sexta grande tentativa de alcançar um acordo de paz desde o início da guerra.
+
+Além dessas negociações formais, também ocorreram diversas trocas indiretas de mensagens por meio de países mediadores, mas elas normalmente são tratadas como parte dessas mesmas rodadas diplomáticas, e não como tentativas independentes.
+
+O que ainda impede um acordo?
+
+Os principais pontos de divergência permanecem praticamente os mesmos desde o início do conflito:
+
+- futuro do programa nuclear iraniano;
+- retirada ou manutenção das sanções americanas;
+- liberação de recursos financeiros iranianos bloqueados;
+- controle e segurança do estreito de Ormuz;
+- garantias de que novos ataques não serão retomados.
+
+Enquanto esses temas permanecerem sem consenso, qualquer cessar-fogo tende a ser considerado temporário e sujeito ao retorno dos combates.
+
+Fontes:
+
+Reuters - Cobertura das negociações e das tentativas de cessar-fogo entre Estados Unidos e Irã.
+
+Congressional Research Service (CRS) - Relatório sobre o cessar-fogo de abril de 2026 e as negociações subsequentes.
+
+Al Jazeera - Linha do tempo das negociações de paz e das principais tentativas de acordo durante a guerra.
+
+The Wall Street Journal - Informações sobre a mais recente mediação de Omã e as negociações envolvendo o estreito de Ormuz.
+
+Axios - Cobertura das negociações em meio aos confrontos militares.`,
   },
 ];
 
