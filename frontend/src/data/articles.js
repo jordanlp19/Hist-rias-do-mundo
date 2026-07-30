@@ -10,6 +10,7 @@ import ortegaimage from "../assets/articles/nicaragua_ortega.webp";
 import euairaimage from "../assets/articles/eua-x-ira.webp";
 import presidColombia from "../assets/articles/PresidColombia.webp";
 import iraeuaPaz from "../assets/articles/negociacoes_paz_eua_ira.webp";
+import bibliotecaIA from "../assets/articles/biblioteca_ia.webp";
 
 const articles = [
   {
@@ -827,6 +828,82 @@ Al Jazeera - Linha do tempo das negociações de paz e das principais tentativas
 The Wall Street Journal - Informações sobre a mais recente mediação de Omã e as negociações envolvendo o estreito de Ormuz.
 
 Axios - Cobertura das negociações em meio aos confrontos militares.`,
+  },
+
+  {
+    id: 14,
+    title:
+      "Biblioteca de Alexandria da inteligência artificial: empresas digitalizam e destroem milhões de livros",
+    slug: "IA queimando livros",
+    description:
+      "Documentos revelados em um processo judicial mostraram que empresas de inteligência artificial estão comprando grandes quantidades de livros físicos, digitalizando suas páginas e destruindo os exemplares originais. A prática busca criar enormes bibliotecas privadas para o treinamento de modelos de IA, mas também levanta preocupações sobre direitos autorais, preservação cultural e acesso ao conhecimento.",
+    category: "História",
+    image: bibliotecaIA,
+    date: "2026-07-30",
+    author: "Jordan Lopes",
+    content: `Um projeto para digitalizar milhões de livros
+
+O desenvolvimento dos grandes modelos de inteligência artificial depende de enormes quantidades de textos produzidos por seres humanos. Além de páginas disponíveis na internet, livros passaram a ser considerados fontes especialmente valiosas por apresentarem conteúdos mais extensos, organizados e revisados.
+
+Documentos apresentados em um processo judicial contra a Anthropic, empresa responsável pelo chatbot Claude, revelaram a existência de uma operação interna conhecida como “Project Panama”.
+
+O objetivo do projeto era adquirir milhões de livros físicos e transformá-los em arquivos digitais. Para isso, os exemplares eram comprados de livrarias e distribuidores, enviados para centros de digitalização e processados em máquinas industriais.
+
+Como os livros são digitalizados
+
+O método utilizado é conhecido como digitalização destrutiva. As lombadas dos livros são cortadas para que as páginas possam ser separadas e escaneadas rapidamente.
+
+Depois da digitalização, as páginas e capas restantes deixam de formar um livro utilizável e são descartadas ou encaminhadas para reciclagem. Os arquivos digitais passam então a integrar uma biblioteca privada utilizada pela empresa no desenvolvimento e no treinamento de seus modelos de inteligência artificial.
+
+A Anthropic chegou a contratar Tom Turvey, ex-diretor de parcerias do projeto Google Books, para ajudar a companhia a construir uma ampla coleção de livros obtidos legalmente.
+
+A decisão da Justiça
+
+Em junho de 2025, o juiz federal William Alsup decidiu que o uso de livros para treinar modelos de inteligência artificial poderia ser considerado transformador e, portanto, enquadrado como “fair use”, ou uso justo, segundo a legislação dos Estados Unidos.
+
+O tribunal também considerou legítima a criação de cópias digitais de livros comprados legalmente, desde que os exemplares físicos fossem destruídos e não houvesse duas cópias disponíveis para usos independentes.
+
+A decisão, no entanto, não concedeu uma autorização geral para qualquer forma de obtenção de livros. O juiz concluiu que a Anthropic não poderia justificar como uso justo a manutenção de milhões de obras inicialmente baixadas de bibliotecas digitais piratas.
+
+Esse ponto levou a empresa a firmar um acordo bilionário com autores e editoras prejudicados.
+
+Compras em escala industrial
+
+A busca das empresas de inteligência artificial por livros também criou um novo mercado. Plataformas especializadas passaram a oferecer a aquisição de centenas de milhares ou até um milhão de exemplares por pedido.
+
+Uma das empresas mencionadas nas reportagens é a ISBNdb, plataforma originalmente criada para organizar informações sobre livros e ajudar na localização de exemplares.
+
+A companhia passou a divulgar serviços voltados para grandes compradores interessados em obter livros em escala industrial. Segundo as investigações, algumas ofertas incluíam cláusulas de confidencialidade para impedir a divulgação da identidade dos compradores.
+
+Uma biblioteca que não pertence ao público
+
+A Anthropic afirma que os livros digitalizados formam uma biblioteca interna e pesquisável, que deverá ser preservada pela empresa por tempo indeterminado.
+
+Diferentemente de projetos como o Google Books ou de bibliotecas públicas digitais, porém, esse acervo não está disponível para pesquisadores, leitores ou outras instituições. O conhecimento extraído dos livros é utilizado no desenvolvimento de produtos privados de inteligência artificial.
+
+A prática também desperta preocupação entre livreiros e especialistas em preservação. Embora grande parte dos exemplares adquiridos seja composta por livros usados, operações desse tamanho podem retirar de circulação obras antigas, raras ou fora de catálogo.
+
+Não há comprovação de que as empresas estejam deliberadamente destruindo as últimas cópias existentes de determinados títulos. Entretanto, quando um exemplar raro é submetido à digitalização destrutiva, suas características físicas, anotações, dedicatórias e marcas de antigos proprietários podem desaparecer definitivamente.
+
+Uma nova disputa pelo conhecimento
+
+A construção dessas bibliotecas representa uma nova etapa na corrida pela inteligência artificial. Durante séculos, bibliotecas foram criadas para conservar livros e permitir que o conhecimento fosse consultado por diferentes gerações.
+
+Agora, milhões de obras físicas estão sendo transformadas em dados para sistemas privados. Os livros continuam existindo digitalmente, mas seu conteúdo passa a ficar concentrado dentro de empresas que controlam tanto o acesso aos arquivos quanto os modelos treinados a partir deles.
+
+O caso levanta uma questão que deverá acompanhar o avanço da inteligência artificial nos próximos anos: até que ponto uma empresa pode destruir um objeto cultural comprado legalmente para transformar seu conteúdo em matéria-prima para uma tecnologia privada?
+
+Fontes:
+
+The News - Newsletter que divulgou o caso e apresentou um resumo das revelações sobre a compra, digitalização e destruição de livros por empresas de inteligência artificial.
+
+The Washington Post - Investigação baseada em documentos judiciais sobre o “Project Panama” e o plano da Anthropic para digitalizar milhões de livros.
+
+Reuters - Cobertura das decisões judiciais e do acordo firmado entre a Anthropic, autores e editoras.
+
+Futurism - Reportagem sobre a compra em massa de livros antigos e raros por empresas de inteligência artificial.
+
+Tribunal Distrital dos Estados Unidos para o Distrito Norte da Califórnia - Decisão judicial do processo Bartz v. Anthropic sobre treinamento de inteligência artificial, digitalização de livros e uso justo.`,
   },
 ];
 
