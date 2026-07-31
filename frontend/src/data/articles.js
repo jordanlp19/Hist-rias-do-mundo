@@ -11,6 +11,7 @@ import euairaimage from "../assets/articles/eua-x-ira.webp";
 import presidColombia from "../assets/articles/PresidColombia.webp";
 import iraeuaPaz from "../assets/articles/negociacoes_paz_eua_ira.webp";
 import bibliotecaIA from "../assets/articles/biblioteca_ia.webp";
+import houthisImage from "../assets/articles/Houthis.webp";
 
 const articles = [
   {
@@ -904,6 +905,85 @@ Reuters - Cobertura das decisões judiciais e do acordo firmado entre a Anthropi
 Futurism - Reportagem sobre a compra em massa de livros antigos e raros por empresas de inteligência artificial.
 
 Tribunal Distrital dos Estados Unidos para o Distrito Norte da Califórnia - Decisão judicial do processo Bartz v. Anthropic sobre treinamento de inteligência artificial, digitalização de livros e uso justo.`,
+  },
+
+  {
+    id: 15,
+    title: "Quem são os Houthis? História, origem e objetivos do grupo",
+    slug: "Quem sao Houthis",
+    description:
+      "Os Houthis são um movimento político e militar do Iêmen que ganhou projeção internacional ao controlar a capital do país e enfrentar uma coalizão liderada pela Arábia Saudita. Nos últimos anos, o grupo também passou a atacar navios no Mar Vermelho e a lançar mísseis e drones contra Israel, tornando-se um dos principais atores das tensões no Oriente Médio.",
+    category: "História",
+    image: houthisImage,
+    date: "2026-07-31",
+    author: "Jordan Lopes",
+    content: `A origem dos Houthis
+
+Os Houthis surgiram na década de 1990 no norte do Iêmen, principalmente na província de Saada. O movimento nasceu entre seguidores do islamismo zaidita, um ramo do islamismo xiita que representa uma parcela significativa da população do norte do país.
+
+Seu nome oficial é Ansar Allah ("Partidários de Deus"), mas ficou conhecido como Houthis em referência à família Al-Houthi, responsável pela liderança do grupo.
+
+Inicialmente, o movimento tinha caráter religioso e cultural. Seus integrantes afirmavam que buscavam preservar a identidade zaidita diante da crescente influência do islamismo sunita e da aproximação do governo iemenita com os Estados Unidos e a Arábia Saudita.
+
+Como o grupo se tornou uma força militar
+
+Entre 2004 e 2010, os Houthis travaram uma série de guerras contra o governo do então presidente Ali Abdullah Saleh. O conflito fortaleceu militarmente o grupo, que passou a controlar diversas regiões do norte do país.
+
+Após a Primavera Árabe, em 2011, o Iêmen mergulhou em uma grave crise política. Aproveitando o enfraquecimento do governo central, os Houthis avançaram rapidamente pelo território.
+
+Em setembro de 2014, o grupo tomou a capital, Sanaa, obrigando o governo reconhecido internacionalmente a fugir para o sul do país. No ano seguinte, uma coalizão liderada pela Arábia Saudita iniciou uma intervenção militar para tentar restaurar o governo iemenita, dando início a uma guerra que se prolonga até hoje.
+
+A relação com o Irã
+
+Os Houthis mantêm uma relação próxima com o Irã, embora o grau dessa parceria seja objeto de debate entre especialistas.
+
+Teerã reconhece politicamente o movimento e, segundo diversos governos ocidentais e relatórios das Nações Unidas, fornece apoio por meio de treinamento, tecnologia militar e componentes para mísseis e drones.
+
+O Irã, por sua vez, afirma oferecer apenas apoio político e diplomático, negando controlar diretamente as ações do grupo.
+
+Quais são os objetivos dos Houthis?
+
+Os Houthis afirmam lutar contra a influência estrangeira no Iêmen e defender a soberania do país. Entre seus principais objetivos estão:
+
+Manter o controle das áreas conquistadas, incluindo a capital Sanaa.
+
+Permanecer como principal força política e militar do norte do Iêmen.
+
+Enfrentar a influência dos Estados Unidos, de Israel e da Arábia Saudita na região.
+
+Apoiar publicamente grupos alinhados ao chamado "Eixo da Resistência", liderado pelo Irã.
+
+Embora o grupo utilize um discurso fortemente religioso, muitos analistas apontam que seus objetivos também envolvem a consolidação do poder político dentro do Iêmen.
+
+Os ataques no Mar Vermelho
+
+Após o início da guerra entre Israel e Hamas em outubro de 2023, os Houthis passaram a lançar mísseis e drones contra Israel e contra embarcações que, segundo o grupo, mantinham ligação com o país.
+
+Os ataques ocorreram principalmente no Mar Vermelho e no estreito de Bab al-Mandeb, uma das rotas marítimas mais importantes do mundo, responsável por parte significativa do comércio internacional.
+
+Como resposta, Estados Unidos, Reino Unido e outros aliados realizaram sucessivos bombardeios contra posições Houthis no Iêmen, ampliando o risco de expansão do conflito no Oriente Médio.
+
+Um dos grupos mais influentes da região
+
+Atualmente, os Houthis controlam grande parte do norte do Iêmen, incluindo a capital Sanaa, onde vive a maior parte da população do país.
+
+Além de atuarem como uma força militar, o grupo administra instituições públicas, arrecada impostos e exerce funções típicas de governo nas áreas sob seu controle.
+
+Sua capacidade de utilizar mísseis balísticos, drones de longo alcance e armamentos antinavio transformou os Houthis em um dos atores não estatais mais poderosos do Oriente Médio, com influência que ultrapassa as fronteiras do Iêmen.
+
+Fontes:
+
+Encyclopaedia Britannica - Histórico, origem e evolução do movimento Houthi.
+
+Council on Foreign Relations (CFR) - Análises sobre a guerra no Iêmen e o papel dos Houthis.
+
+United Nations (ONU) - Relatórios sobre o conflito iemenita e a situação humanitária.
+
+International Crisis Group - Estudos sobre a política interna do Iêmen e os Houthis.
+
+Reuters - Cobertura dos ataques no Mar Vermelho e das operações militares envolvendo o grupo.
+
+BBC News - Contexto histórico da guerra civil no Iêmen e da atuação dos Houthis.`,
   },
 ];
 
