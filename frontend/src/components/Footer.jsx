@@ -38,7 +38,10 @@ function Footer() {
           <Link className="font-medium text-slate-200 hover:text-amber-300 hover:underline" to="/">
             Histórias do Mundo
           </Link>
-          . Todos os direitos reservados.
+          .{" "}
+          <Link className="transition-colors hover:text-amber-300 hover:underline" to="/privacy">
+            Todos os direitos reservados.
+          </Link>
         </span>
       </div>
     </footer>
