@@ -12,6 +12,7 @@ import presidColombia from "../assets/articles/PresidColombia.webp";
 import iraeuaPaz from "../assets/articles/negociacoes_paz_eua_ira.webp";
 import bibliotecaIA from "../assets/articles/biblioteca_ia.webp";
 import houthisImage from "../assets/articles/Houthis.webp";
+import eclipseImage from "../assets/articles/eclipse_agosto.webp";
 
 const articles = [
   {
@@ -984,6 +985,53 @@ International Crisis Group - Estudos sobre a política interna do Iêmen e os Ho
 Reuters - Cobertura dos ataques no Mar Vermelho e das operações militares envolvendo o grupo.
 
 BBC News - Contexto histórico da guerra civil no Iêmen e da atuação dos Houthis.`,
+  },
+
+  {
+    id: 16,
+    title: "Os eclipses de agosto de 2026: dois espetáculos no céu",
+    slug: "Eclipses Agosto 2026",
+    description:
+      "Agosto de 2026 será um dos meses mais interessantes para quem gosta de astronomia. O calendário traz dois eclipses: um eclipse solar total, no dia 12 de agosto, e um eclipse lunar parcial, entre os dias 27 e 28. Enquanto o eclipse solar terá sua faixa de totalidade passando principalmente por Espanha, Islândia e Groenlândia, o eclipse lunar poderá ser observado em praticamente todo o Brasil.",
+    category: "História",
+    image: eclipseImage,
+    date: "2026-08-03",
+    author: "Jordan Lopes",
+    content: `Eclipse solar total em 12 de agosto
+
+O primeiro grande evento do mês acontece em 12 de agosto, quando a Lua passará exatamente entre a Terra e o Sol, produzindo um eclipse solar total.
+
+A faixa de totalidade cruzará regiões da Groenlândia, Islândia, Espanha, uma pequena parte de Portugal e do norte da Rússia. Nessas áreas, o Sol ficará completamente encoberto por até cerca de dois minutos.
+
+Em outras regiões da Europa, do norte da África e da América do Norte, o fenômeno será visto apenas como um eclipse parcial.
+
+No Brasil, o eclipse também será parcial, mas apenas em uma pequena faixa do extremo norte do país, com baixa cobertura do disco solar. Na maior parte do território brasileiro, o evento não será visível.
+
+Para quem observar qualquer eclipse solar, é fundamental utilizar filtros certificados ou óculos próprios para eclipses. Olhar diretamente para o Sol sem proteção pode causar danos permanentes à visão.
+
+Eclipse lunar parcial em 27 e 28 de agosto
+
+Pouco mais de duas semanas depois, ocorrerá um eclipse lunar parcial, durante a noite de 27 para 28 de agosto.
+
+Diferentemente do eclipse solar, esse fenômeno poderá ser acompanhado por praticamente todo o Brasil. Durante o evento, a Terra ficará entre o Sol e a Lua, fazendo com que parte do disco lunar entre na sombra do nosso planeta.
+
+Em muitas cidades brasileiras, mais de 90% da Lua ficará coberta pela sombra terrestre, criando um espetáculo muito próximo de um eclipse total.
+
+Ao contrário dos eclipses solares, os eclipses lunares podem ser observados a olho nu sem qualquer risco. Binóculos e telescópios apenas ajudam a visualizar melhor os detalhes da superfície lunar.
+
+Um mês especial para observar o céu
+
+Além dos eclipses, agosto de 2026 também será marcado por outros eventos astronômicos importantes, como o pico da chuva de meteoros Perseidas e diversas aproximações aparentes entre planetas.
+
+A combinação desses fenômenos torna agosto um dos melhores meses do ano para quem deseja observar o céu, seja a olho nu ou utilizando equipamentos simples.
+
+Fontes:
+
+NASA - Informações oficiais sobre os eclipses de 2026 e mapas de visibilidade.
+
+Time and Date - Calendário mundial de eclipses e horários de visibilidade no Brasil.
+
+Space.com - Guia dos principais eventos astronômicos de agosto de 2026.`,
   },
 ];
 
