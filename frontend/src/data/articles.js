@@ -13,6 +13,7 @@ import iraeuaPaz from "../assets/articles/negociacoes_paz_eua_ira.webp";
 import bibliotecaIA from "../assets/articles/biblioteca_ia.webp";
 import houthisImage from "../assets/articles/Houthis.webp";
 import eclipseImage from "../assets/articles/eclipse_agosto.webp";
+import fogueteImage from "../assets/articles/foguete_spacex_lua.webp";
 
 const articles = [
   {
@@ -1032,6 +1033,49 @@ NASA - Informações oficiais sobre os eclipses de 2026 e mapas de visibilidade.
 Time and Date - Calendário mundial de eclipses e horários de visibilidade no Brasil.
 
 Space.com - Guia dos principais eventos astronômicos de agosto de 2026.`,
+  },
+
+  {
+    id: 17,
+    title: "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros.",
+    slug: "Foguete SpaceX atinge Lua",
+    description:
+      "Uma parte de um foguete da SpaceX colidiu acidentalmente com a Lua e abriu uma cratera com cerca de 18 metros de largura, segundo estimativas da NASA. O impacto, que não representa qualquer risco para a Terra, chamou a atenção da comunidade científica por oferecer uma rara oportunidade de estudar como objetos artificiais interagem com a superfície lunar e reforçou o debate sobre o crescente problema do lixo espacial.",
+    category: "História",
+    image: fogueteImage,
+    date: "2026-08-05",
+    author: "Jordan Lopes",
+    content: `Como aconteceu o impacto
+
+O objeto que atingiu a Lua era o estágio superior de um foguete Falcon 9, lançado em janeiro de 2025 para transportar duas missões privadas rumo ao satélite natural.
+
+Após concluir sua missão, o estágio não possuía combustível suficiente para retornar à Terra de forma controlada. Em vez disso, permaneceu vagando pelo espaço por mais de um ano, até que a combinação da gravidade da Terra, da Lua e do Sol alterou sua trajetória e o colocou em rota de colisão com a superfície lunar.
+
+A cratera de 18 metros
+
+O impacto ocorreu a aproximadamente 8.700 km/h (cerca de 5.400 mph), velocidade suficiente para escavar uma cratera estimada em cerca de 18 metros de diâmetro e aproximadamente quatro metros de profundidade.
+
+Como a Lua praticamente não possui atmosfera, o foguete não sofreu desaceleração nem queimou antes da colisão, atingindo diretamente o solo lunar e lançando poeira e fragmentos de rocha para o espaço.
+
+O que os cientistas esperam descobrir
+
+Embora acidentes desse tipo sejam extremamente raros, eles oferecem uma oportunidade única para pesquisadores analisarem a formação de crateras provocadas por objetos de origem humana.
+
+Satélites em órbita da Lua, incluindo o Lunar Reconnaissance Orbiter (LRO) da NASA, deverão registrar imagens do local para confirmar as dimensões da cratera e estudar o material ejetado durante o impacto. Essas informações ajudam a compreender melhor a geologia lunar e também auxiliam no planejamento de futuras missões tripuladas do programa Artemis.
+
+O desafio do lixo espacial
+
+O incidente também reacendeu discussões sobre a necessidade de um gerenciamento mais eficiente dos destroços espaciais.
+
+Com o número crescente de missões governamentais e privadas rumo à Lua, especialistas alertam que será cada vez mais importante desenvolver estratégias para evitar colisões acidentais e impedir que equipamentos abandonados permaneçam vagando pelo espaço sem controle.
+
+Fontes:
+
+NASA - Informações sobre impactos na superfície lunar e monitoramento pelo Lunar Reconnaissance Orbiter.
+
+Associated Press (AP) - Confirmação do impacto do estágio do Falcon 9 na Lua e contexto da missão.
+
+The Guardian - Detalhes sobre a trajetória do foguete, velocidade do impacto e estimativas da cratera.`,
   },
 ];
 
