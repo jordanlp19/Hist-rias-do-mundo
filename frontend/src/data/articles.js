@@ -14,6 +14,7 @@ import bibliotecaIA from "../assets/articles/biblioteca_ia.webp";
 import houthisImage from "../assets/articles/Houthis.webp";
 import eclipseImage from "../assets/articles/eclipse_agosto.webp";
 import fogueteImage from "../assets/articles/foguete_spacex_lua.webp";
+import pixImage from "../assets/articles/pix_ilustracao.webp";
 
 const articles = [
   {
@@ -1076,6 +1077,69 @@ NASA - Informações sobre impactos na superfície lunar e monitoramento pelo Lu
 Associated Press (AP) - Confirmação do impacto do estágio do Falcon 9 na Lua e contexto da missão.
 
 The Guardian - Detalhes sobre a trajetória do foguete, velocidade do impacto e estimativas da cratera.`,
+  },
+
+  {
+    id: 18,
+    title: "Como funciona o Pix e por que outros países querem copiar?",
+    slug: "Como funciona o Pix",
+    description:
+      "Lançado em 2020 pelo Banco Central, o Pix revolucionou os pagamentos no Brasil ao permitir transferências instantâneas, gratuitas para pessoas físicas e disponíveis 24 horas por dia. O sucesso do sistema chamou a atenção de governos e bancos centrais ao redor do mundo, que passaram a desenvolver soluções semelhantes inspiradas no modelo brasileiro.",
+    category: "História",
+    image: pixImage,
+    date: "2026-08-07",
+    author: "Jordan Lopes",
+    content: `O que é o Pix?
+
+O Pix é um sistema de pagamentos instantâneos criado pelo Banco Central do Brasil. Diferentemente de TEDs e DOCs, que dependiam do horário bancário e podiam levar horas para serem compensados, o Pix transfere dinheiro em poucos segundos, independentemente do dia ou da hora.
+
+O sistema permite enviar e receber valores utilizando apenas uma chave Pix, como CPF, e-mail, número de telefone ou uma chave aleatória. Também é possível realizar pagamentos por QR Code, tornando as transações mais rápidas e práticas tanto para consumidores quanto para empresas.
+
+Desde seu lançamento, o Pix passou a ser utilizado por milhões de brasileiros diariamente para pagar contas, fazer compras, dividir despesas e até receber salários.
+
+Como o Pix funciona?
+
+Quando uma pessoa realiza um pagamento via Pix, a instituição financeira envia a ordem de transferência para a infraestrutura operada pelo Banco Central.
+
+Esse sistema verifica a autenticidade da operação, confirma se há saldo disponível e, em seguida, transfere o valor diretamente para a conta do destinatário. Todo esse processo acontece em poucos segundos.
+
+Como a liquidação ocorre em tempo real, o dinheiro fica disponível imediatamente para quem recebe, sem necessidade de esperar dias úteis ou horários específicos.
+
+Por que o Pix fez tanto sucesso?
+
+O principal diferencial do Pix é a combinação de rapidez, simplicidade e baixo custo.
+
+Enquanto cartões de crédito e débito envolvem intermediários e podem gerar taxas para comerciantes, o Pix reduz esses custos e acelera o recebimento dos valores.
+
+Além disso, o sistema funciona continuamente, inclusive em finais de semana e feriados, algo que não existia nas formas tradicionais de transferência bancária.
+
+Essa facilidade fez com que o Pix se tornasse um dos meios de pagamento mais utilizados do país em poucos anos.
+
+Outros países querem copiar o modelo?
+
+O sucesso brasileiro despertou interesse internacional. Diversos países já possuem ou estão desenvolvendo sistemas de pagamento instantâneo inspirados em conceitos semelhantes.
+
+Na Europa, por exemplo, cresce o uso do sistema Instant Payments. A Índia opera o UPI (Unified Payments Interface), considerado um dos maiores sistemas do mundo. Já países como Colômbia, México e Peru estudam ou implementam plataformas com características parecidas às do Pix.
+
+Especialistas destacam que o modelo brasileiro se tornou uma referência porque conseguiu reunir tecnologia moderna, ampla adesão dos bancos e participação ativa do Banco Central, facilitando a inclusão financeira da população.
+
+O futuro do Pix
+
+O Banco Central continua ampliando as funcionalidades do sistema. Recursos como Pix Automático, pagamentos recorrentes e novas modalidades para empresas buscam tornar o sistema ainda mais completo.
+
+Também existem estudos para integração internacional, permitindo que, no futuro, brasileiros possam realizar pagamentos instantâneos para outros países utilizando tecnologias compatíveis.
+
+Se essas iniciativas avançarem, o Pix poderá deixar de ser apenas uma inovação nacional e se tornar parte de uma rede global de pagamentos instantâneos.
+
+Fontes:
+
+Banco Central do Brasil - Informações oficiais sobre o funcionamento e a evolução do Pix.
+
+Banco de Compensações Internacionais (BIS) - Estudos sobre sistemas de pagamentos instantâneos no mundo.
+
+Fundo Monetário Internacional (FMI) - Relatórios sobre digitalização dos sistemas financeiros e pagamentos eletrônicos.
+
+World Bank - Pesquisas sobre inclusão financeira e infraestrutura de pagamentos digitais.`,
   },
 ];
 
