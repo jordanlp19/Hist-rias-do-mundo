@@ -15,6 +15,7 @@ import houthisImage from "../assets/articles/Houthis.webp";
 import eclipseImage from "../assets/articles/eclipse_agosto.webp";
 import fogueteImage from "../assets/articles/foguete_spacex_lua.webp";
 import pixImage from "../assets/articles/pix_ilustracao.webp";
+import datacenterImage from "../assets/articles/data_center.webp";
 
 const articles = [
   {
@@ -1140,6 +1141,91 @@ Banco de Compensações Internacionais (BIS) - Estudos sobre sistemas de pagamen
 Fundo Monetário Internacional (FMI) - Relatórios sobre digitalização dos sistemas financeiros e pagamentos eletrônicos.
 
 World Bank - Pesquisas sobre inclusão financeira e infraestrutura de pagamentos digitais.`,
+  },
+
+  {
+    id: 19,
+    title: "Como funcionam os data centers?",
+    slug: "Como funcionam os data centers",
+    description:
+      "Grande parte da internet depende de enormes instalações que funcionam 24 horas por dia, armazenando e processando informações. Quando assistimos a um vídeo, acessamos uma rede social, fazemos uma pesquisa ou utilizamos uma inteligência artificial, é bastante provável que servidores instalados em algum data center estejam envolvidos nesse processo.",
+    category: "História",
+    image: datacenterImage,
+    date: "2026-08-10",
+    author: "Jordan Lopes",
+    content: `O que é um data center?
+
+Um data center é uma instalação construída especialmente para abrigar equipamentos responsáveis pelo armazenamento, processamento e transmissão de dados.
+
+Dentro desses locais existem servidores, sistemas de armazenamento, roteadores, switches e quilômetros de cabos e fibras ópticas responsáveis por conectar os equipamentos à internet.
+
+Os servidores podem ser organizados em grandes estruturas metálicas chamadas racks. Em instalações maiores, corredores inteiros são preenchidos por esses equipamentos.
+
+Quando uma pessoa acessa determinado serviço pela internet, uma solicitação é enviada pela rede até servidores que processam o pedido e devolvem as informações necessárias.
+
+É assim, de maneira simplificada, que uma fotografia armazenada na nuvem, uma página de um site ou um vídeo pode chegar ao dispositivo do usuário em poucos segundos.
+
+Por que eles precisam de tanta energia?
+
+Os servidores precisam permanecer ligados continuamente para que os serviços estejam disponíveis a qualquer momento.
+
+Além dos computadores, diversos outros equipamentos também consomem eletricidade. Sistemas de armazenamento, equipamentos de rede, iluminação, segurança e principalmente refrigeração fazem parte da infraestrutura.
+
+Grandes instalações também costumam possuir sistemas de energia de emergência. Baterias e geradores podem entrar em funcionamento caso aconteça uma interrupção no fornecimento elétrico, reduzindo o risco de os serviços ficarem indisponíveis.
+
+Com a expansão da computação em nuvem e principalmente da inteligência artificial, a demanda energética dessas instalações tornou-se uma preocupação crescente. Nos Estados Unidos, por exemplo, os data centers responderam por aproximadamente 4,4% do consumo de eletricidade do país em 2023.
+
+Por que os data centers precisam ser resfriados?
+
+Um dos maiores desafios é o calor.
+
+Processadores, placas gráficas e outros componentes eletrônicos transformam parte da eletricidade consumida em calor. Milhares desses equipamentos funcionando simultaneamente podem elevar rapidamente a temperatura de uma instalação.
+
+Sem refrigeração adequada, os equipamentos podem perder desempenho, apresentar falhas ou até sofrer danos.
+
+Por isso, data centers utilizam sistemas sofisticados para retirar o calor produzido pelos computadores. Algumas instalações utilizam grandes sistemas de circulação de ar, enquanto outras empregam água ou líquidos refrigerantes.
+
+Em determinados projetos, o líquido circula próximo aos próprios componentes eletrônicos, absorvendo diretamente o calor produzido pelos equipamentos.
+
+Por que alguns data centers utilizam água?
+
+A água pode transportar grandes quantidades de calor e, por isso, é utilizada em determinados sistemas de refrigeração.
+
+Em sistemas tradicionais com torres de resfriamento, a água aquecida participa de um processo no qual parte do calor é transferida e posteriormente dissipada para a atmosfera através da evaporação.
+
+Esse método pode consumir grandes quantidades de água, especialmente em instalações que funcionam continuamente.
+
+Entretanto, nem todos os data centers utilizam o mesmo sistema. Tecnologias mais recentes podem empregar circuitos fechados, nos quais o líquido é continuamente recirculado, além de sistemas de resfriamento a ar e soluções híbridas destinadas a diminuir o consumo de água e eletricidade.
+
+Onde ficam nossos arquivos?
+
+Quando dizemos que alguma informação está armazenada "na nuvem", ela continua existindo fisicamente em algum lugar.
+
+Fotografias, documentos, vídeos, bancos de dados e diversos outros conteúdos podem estar armazenados em discos e sistemas instalados dentro de data centers espalhados pelo mundo.
+
+Empresas também podem manter várias cópias das mesmas informações em diferentes equipamentos ou até em instalações localizadas em regiões distintas.
+
+Essa redundância ajuda a evitar que uma falha isolada provoque a perda das informações ou deixe determinado serviço completamente indisponível.
+
+A inteligência artificial está transformando os data centers
+
+A expansão da inteligência artificial está modificando rapidamente essas instalações.
+
+Modelos de IA exigem enormes quantidades de cálculos, principalmente durante seu treinamento. Para realizar essas operações, empresas utilizam grandes conjuntos de processadores especializados, como GPUs e outros aceleradores.
+
+A concentração desses equipamentos aumenta significativamente a quantidade de energia consumida e o calor produzido.
+
+Por isso, novos data centers estão sendo projetados com sistemas elétricos e de refrigeração cada vez mais potentes. Ao mesmo tempo, empresas e centros de pesquisa procuram maneiras de aumentar a eficiência dessas instalações.
+
+Apesar de muitas vezes passarem despercebidos, os data centers se tornaram uma das principais infraestruturas do mundo digital. Por trás de praticamente cada vídeo assistido, arquivo armazenado ou resposta produzida por uma inteligência artificial existe uma enorme rede física de computadores trabalhando continuamente.
+
+Fontes:
+
+IBM - Explicação sobre data centers, servidores, armazenamento, redes e infraestrutura utilizada nessas instalações.
+
+Departamento de Energia dos Estados Unidos (DOE) - Informações sobre eficiência energética, consumo de eletricidade e sistemas de refrigeração utilizados em data centers.
+
+Federal Energy Management Program (FEMP) - Informações técnicas sobre refrigeração, utilização de água, torres de resfriamento e sistemas de refrigeração líquida em data centers.`,
   },
 ];
 
