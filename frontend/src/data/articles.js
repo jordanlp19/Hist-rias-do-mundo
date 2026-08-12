@@ -16,6 +16,7 @@ import eclipseImage from "../assets/articles/eclipse_agosto.webp";
 import fogueteImage from "../assets/articles/foguete_spacex_lua.webp";
 import pixImage from "../assets/articles/pix_ilustracao.webp";
 import datacenterImage from "../assets/articles/data_center.webp";
+import coreiamilImage from "../assets/articles/coreia_do_norte_poder_militar.webp";
 
 const articles = [
   {
@@ -1226,6 +1227,85 @@ IBM - Explicação sobre data centers, servidores, armazenamento, redes e infrae
 Departamento de Energia dos Estados Unidos (DOE) - Informações sobre eficiência energética, consumo de eletricidade e sistemas de refrigeração utilizados em data centers.
 
 Federal Energy Management Program (FEMP) - Informações técnicas sobre refrigeração, utilização de água, torres de resfriamento e sistemas de refrigeração líquida em data centers.`,
+  },
+
+  {
+    id: 20,
+    title: "Como começou o poder militar da Coreia do Norte?",
+    slug: "Poder militar Coreia do Norte",
+    description:
+      "Atualmente, a Coreia do Norte possui um dos sistemas militares mais fechados e militarizados do mundo, além de armas nucleares e uma crescente variedade de mísseis balísticos. Mas esse poder não surgiu de repente. Suas origens remontam ao fim da Segunda Guerra Mundial, quando a Península Coreana foi dividida e a União Soviética passou a exercer forte influência sobre o norte.",
+    category: "História",
+    image: coreiamilImage,
+    date: "2026-08-12",
+    author: "Jordan Lopes",
+    content: `A divisão da Coreia
+
+Entre 1910 e 1945, a Coreia esteve sob domínio do Império Japonês. Com a derrota japonesa na Segunda Guerra Mundial, tropas soviéticas ocuparam a parte norte da península, enquanto forças dos Estados Unidos assumiram posições no sul.
+
+A divisão ocorreu aproximadamente ao longo do paralelo 38 e acabou dando origem a dois Estados rivais. Em setembro de 1948 foi criada oficialmente a República Popular Democrática da Coreia, liderada por Kim Il-sung.
+
+Kim havia participado da resistência contra o Japão e passou a contar com o apoio soviético na construção do novo regime norte-coreano.
+
+A criação do Exército Popular da Coreia
+
+Antes mesmo da fundação oficial do país, o norte começou a organizar suas próprias forças militares.
+
+Em 8 de fevereiro de 1948 foi formalmente criado o Exército Popular da Coreia. Parte de seus primeiros comandantes possuía experiência em movimentos guerrilheiros que haviam combatido os japoneses na Manchúria.
+
+A União Soviética desempenhou um papel fundamental nessa fase. Além de auxiliar na organização das forças armadas, Moscou forneceu treinamento, armamentos e equipamentos militares.
+
+Outro reforço importante veio da China. Durante a Guerra Civil Chinesa, milhares de coreanos combateram ao lado das forças comunistas. Após a vitória de Mao Tsé-Tung em 1949, muitos desses soldados veteranos retornaram à Coreia do Norte e foram incorporados ao exército.
+
+A Guerra da Coreia
+
+O primeiro grande teste das novas forças ocorreu em 25 de junho de 1950, quando tropas norte-coreanas atravessaram o paralelo 38 e invadiram a Coreia do Sul.
+
+O avanço inicial foi extremamente rápido. Grande parte do território sul-coreano foi ocupada nas primeiras semanas, mas a entrada de forças das Nações Unidas lideradas pelos Estados Unidos mudou o rumo da guerra.
+
+Posteriormente, a China também entrou diretamente no conflito em apoio ao Norte.
+
+Após três anos de combates devastadores, um armistício foi assinado em 1953. A guerra terminou sem um tratado de paz definitivo e a península permaneceu dividida.
+
+A experiência do conflito teria enorme influência sobre a política norte-coreana nas décadas seguintes. A liderança passou a considerar a capacidade militar como essencial para garantir a sobrevivência do regime.
+
+O nascimento do programa nuclear
+
+A próxima etapa importante começou no final da década de 1950.
+
+Em 1959, Coreia do Norte e União Soviética assinaram um acordo de cooperação nuclear. Durante os anos seguintes, cientistas norte-coreanos receberam treinamento e Moscou ajudou na construção de instalações de pesquisa em Yongbyon.
+
+Na década de 1960, os soviéticos forneceram um pequeno reator de pesquisa nuclear. Inicialmente, o programa era apresentado como destinado à pesquisa científica e à produção de energia.
+
+Com o passar das décadas, entretanto, a Coreia do Norte desenvolveu capacidade própria para trabalhar com combustível nuclear e plutônio.
+
+Durante os anos 1980, o país ampliou significativamente suas instalações em Yongbyon, incluindo a construção de um reator capaz de produzir plutônio que poderia ser separado e utilizado em armas nucleares.
+
+Dos mísseis às armas nucleares
+
+Paralelamente ao programa nuclear, Pyongyang passou a investir no desenvolvimento de mísseis balísticos.
+
+Tecnologias inicialmente baseadas em projetos soviéticos foram progressivamente modificadas e desenvolvidas dentro do próprio país. A combinação entre mísseis de longo alcance e armas nucleares acabaria se tornando o principal elemento da estratégia de dissuasão norte-coreana.
+
+Em 2005, o governo declarou publicamente possuir armas nucleares.
+
+No ano seguinte, em outubro de 2006, a Coreia do Norte realizou seu primeiro teste nuclear.
+
+Era o resultado de um processo iniciado décadas antes: primeiro com um exército convencional apoiado pela União Soviética e pela China, depois com a construção de uma indústria militar própria e, finalmente, com o desenvolvimento de armas nucleares e sistemas de lançamento.
+
+Assim, o poder militar norte-coreano atual é resultado de mais de sete décadas de investimentos contínuos. O que começou como uma força organizada sob forte influência soviética após a Segunda Guerra Mundial transformou-se em um dos pilares centrais do Estado norte-coreano e em sua principal ferramenta de dissuasão internacional.
+
+Fontes:
+
+Library of Congress - North Korea: A Country Study. Estudo histórico sobre a formação da Coreia do Norte, a criação do Exército Popular da Coreia e o desenvolvimento do regime de Kim Il-sung.
+
+Library of Congress - Soviet Korean Biographies in the Korean Collection. Documentação sobre a influência soviética na criação do Estado norte-coreano após 1945.
+
+Arms Control Association - Arms Control and Proliferation Profile: North Korea. Cronologia e informações sobre o desenvolvimento do programa nuclear norte-coreano.
+
+Arms Control Association - Dangerous Dealings: North Korea’s Nuclear Capabilities. Análise histórica do programa nuclear, da cooperação com a União Soviética e do complexo de Yongbyon.
+
+Arms Control Association - Chronology of U.S.-North Korean Nuclear and Missile Diplomacy. Cronologia do desenvolvimento nuclear e das negociações envolvendo o programa de armas da Coreia do Norte.`,
   },
 ];
 
