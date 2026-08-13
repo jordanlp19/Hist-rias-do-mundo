@@ -17,6 +17,7 @@ import fogueteImage from "../assets/articles/foguete_spacex_lua.webp";
 import pixImage from "../assets/articles/pix_ilustracao.webp";
 import datacenterImage from "../assets/articles/data_center.webp";
 import coreiamilImage from "../assets/articles/coreia_do_norte_poder_militar.webp";
+import portaaviImage from "../assets/articles/porta_avioes.webp";
 
 const articles = [
   {
@@ -1306,6 +1307,109 @@ Arms Control Association - Arms Control and Proliferation Profile: North Korea. 
 Arms Control Association - Dangerous Dealings: North Korea’s Nuclear Capabilities. Análise histórica do programa nuclear, da cooperação com a União Soviética e do complexo de Yongbyon.
 
 Arms Control Association - Chronology of U.S.-North Korean Nuclear and Missile Diplomacy. Cronologia do desenvolvimento nuclear e das negociações envolvendo o programa de armas da Coreia do Norte.`,
+  },
+
+  {
+    id: 21,
+    title: "Como funciona um porta-aviões?",
+    slug: "Como funciona um porta-aviões",
+    description:
+      "Um porta-aviões funciona como uma enorme base aérea móvel capaz de operar em alto-mar. Seu convés permite lançar e recuperar aviões, enquanto o interior do navio abriga hangares, oficinas, depósitos, centros de comando, sistemas de defesa e áreas destinadas a milhares de tripulantes. Mais do que transportar aeronaves, ele permite que uma força naval mantenha poder aéreo a grandes distâncias de bases terrestres.",
+    category: "História",
+    image: portaaviImage,
+    date: "2026-08-13",
+    author: "Jordan Lopes",
+    content: `Uma base aérea sobre o oceano
+
+A principal função de um porta-aviões é levar a aviação militar até regiões onde não existem bases aéreas disponíveis ou onde utilizá-las seria difícil.
+
+Os maiores porta-aviões modernos possuem um enorme convés de voo, hangares localizados abaixo dele e elevadores capazes de transportar aeronaves entre os diferentes níveis do navio.
+
+Caças, helicópteros, aeronaves de alerta antecipado, guerra eletrônica e transporte podem fazer parte do chamado grupo aéreo embarcado. Na Marinha dos Estados Unidos, por exemplo, os Carrier Air Wings reúnem diferentes esquadrões especializados em missões como superioridade aérea, ataques contra alvos terrestres e navais, reconhecimento, guerra eletrônica, alerta antecipado e busca e salvamento.
+
+O resultado é uma espécie de aeroporto militar que pode atravessar oceanos.
+
+Como os aviões conseguem decolar?
+
+Um dos maiores desafios é fazer um caça pesado decolar utilizando uma pista muito menor do que a encontrada em um aeroporto convencional.
+
+Existem diferentes soluções dependendo do projeto do porta-aviões.
+
+Em navios como os americanos da classe Nimitz, catapultas movidas a vapor ajudam a acelerar os aviões durante a decolagem. A aeronave é conectada ao sistema e, após os motores atingirem a potência necessária, a catapulta fornece uma forte aceleração adicional.
+
+A classe Gerald R. Ford utiliza uma tecnologia mais recente chamada EMALS, sigla em inglês para Sistema Eletromagnético de Lançamento de Aeronaves. Em vez da pressão do vapor, o sistema utiliza energia eletromagnética para acelerar os aviões.
+
+Outros porta-aviões utilizam uma rampa inclinada na extremidade do convés, conhecida como ski-jump. Nesse sistema, a própria potência da aeronave, combinada com a rampa, ajuda o avião a ganhar altitude durante a decolagem.
+
+E como eles conseguem pousar?
+
+O pouso é uma das operações mais delicadas realizadas em um porta-aviões.
+
+Aeronaves desenvolvidas para esse tipo de operação possuem um gancho na parte traseira. Durante a aproximação, o piloto tenta fazer esse gancho capturar um dos cabos instalados transversalmente no convés.
+
+O cabo está conectado a um sistema de frenagem capaz de absorver rapidamente a enorme energia da aeronave.
+
+Sistemas utilizados nos porta-aviões americanos conseguem parar aeronaves de dezenas de toneladas em pouco mais de 100 metros.
+
+Caso o gancho não consiga capturar um cabo, o piloto mantém potência suficiente nos motores para voltar a decolar e realizar uma nova tentativa.
+
+O que existe dentro de um porta-aviões?
+
+A parte visível do navio representa apenas uma fração de sua estrutura.
+
+Abaixo do convés existem hangares onde aeronaves podem ser armazenadas e receber manutenção. Grandes elevadores transportam os aviões entre o hangar e o convés.
+
+Também existem oficinas, depósitos de peças, instalações médicas, cozinhas, dormitórios, centros de comando e inúmeras áreas técnicas necessárias para manter o navio funcionando durante longos períodos no mar.
+
+Combustível de aviação e armamentos também precisam ser armazenados e transportados até as aeronaves seguindo procedimentos específicos de segurança.
+
+Por isso, a operação de um porta-aviões depende da coordenação de milhares de pessoas trabalhando em funções diferentes.
+
+Como um navio tão grande se movimenta?
+
+A propulsão varia de acordo com o país e o modelo.
+
+Alguns porta-aviões utilizam sistemas convencionais, enquanto os grandes porta-aviões americanos atuais utilizam propulsão nuclear.
+
+Reatores nucleares produzem a energia necessária para movimentar o navio e alimentar muitos de seus sistemas. Uma das grandes vantagens é permitir longos períodos de operação sem a necessidade de reabastecer o combustível utilizado na propulsão.
+
+Isso não significa que o porta-aviões possa permanecer indefinidamente no mar. A tripulação ainda precisa de alimentos, peças, combustível para as aeronaves, munições e outros suprimentos, que podem ser recebidos de navios logísticos.
+
+O porta-aviões não navega sozinho
+
+Apesar de seu tamanho e poder, um porta-aviões normalmente opera acompanhado por outros navios.
+
+Esse conjunto é conhecido como grupo de ataque de porta-aviões.
+
+Destróieres e outros navios de guerra podem fornecer defesa contra aeronaves, mísseis, submarinos e embarcações inimigas. Navios logísticos ajudam a manter a força abastecida durante operações prolongadas.
+
+As próprias aeronaves embarcadas também participam da proteção do grupo.
+
+Assim, o porta-aviões funciona como o centro de uma força naval muito maior, combinando aviação, navios de escolta, sensores e sistemas de comunicação.
+
+Uma cidade e um aeroporto flutuantes
+
+Um porta-aviões moderno reúne características de uma base aérea, uma instalação militar e uma pequena cidade.
+
+No caso dos maiores modelos, milhares de marinheiros e aviadores trabalham simultaneamente para manter aeronaves voando, equipamentos funcionando e o navio navegando.
+
+Sua principal vantagem estratégica está justamente na mobilidade: em vez de depender exclusivamente de uma base aérea localizada em território aliado, um país pode deslocar parte de seu poder aéreo através dos oceanos.
+
+É essa capacidade que transformou os porta-aviões em alguns dos maiores símbolos de projeção de poder militar desde a Segunda Guerra Mundial.
+
+Fontes:
+
+U.S. Navy - Aircraft Carriers (CVN), informações oficiais sobre características, funções e operação dos porta-aviões das classes Nimitz e Gerald R. Ford.
+
+Naval Air Systems Command (NAVAIR) - Launching Systems, informações técnicas sobre catapultas e sistemas utilizados no lançamento de aeronaves.
+
+Naval Air Systems Command (NAVAIR) - Recovery Systems, informações sobre sistemas de frenagem e recuperação de aeronaves em porta-aviões.
+
+Naval Air Systems Command (NAVAIR) - EMALS e Advanced Arresting Gear, informações sobre os sistemas de lançamento eletromagnético e frenagem utilizados na classe Gerald R. Ford.
+
+Naval History and Heritage Command - Aircraft Carriers, informações históricas sobre a evolução dos porta-aviões e da propulsão nuclear naval.
+
+U.S. Naval Air Forces - Carrier Air Wings, informações sobre composição e funções das aeronaves embarcadas.`,
   },
 ];
 
