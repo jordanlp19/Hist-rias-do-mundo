@@ -18,6 +18,7 @@ import pixImage from "../assets/articles/pix_ilustracao.webp";
 import datacenterImage from "../assets/articles/data_center.webp";
 import coreiamilImage from "../assets/articles/coreia_do_norte_poder_militar.webp";
 import portaaviImage from "../assets/articles/porta_avioes.webp";
+import apophisiImage from "../assets/articles/apophis.webp";
 
 const articles = [
   {
@@ -1410,6 +1411,88 @@ Naval Air Systems Command (NAVAIR) - EMALS e Advanced Arresting Gear, informaç�
 Naval History and Heritage Command - Aircraft Carriers, informações históricas sobre a evolução dos porta-aviões e da propulsão nuclear naval.
 
 U.S. Naval Air Forces - Carrier Air Wings, informações sobre composição e funções das aeronaves embarcadas.`,
+  },
+
+  {
+    id: 22,
+    title:
+      "Apophis: o asteroide que passará extremamente perto da Terra em 2029",
+    slug: "Asteroide Apophis",
+    description:
+      "Em 13 de abril de 2029, um asteroide de aproximadamente 375 metros de diâmetro passará a apenas cerca de 32 mil quilômetros da superfície da Terra. Chamado Apophis, o objeto ficará temporariamente mais próximo do planeta do que muitos satélites em órbita geoestacionária. Apesar da proximidade impressionante, as observações atuais descartam uma colisão com a Terra por pelo menos os próximos 100 anos.",
+    category: "História",
+    image: apophisiImage,
+    date: "2026-08-15",
+    author: "Jordan Lopes",
+    content: `O que é o Apophis?
+
+Oficialmente denominado 99942 Apophis, o asteroide foi descoberto em 19 de junho de 2004 por Roy Tucker, David Tholen e Fabrizio Bernardi, durante observações realizadas no Observatório Nacional de Kitt Peak, nos Estados Unidos.
+
+Com aproximadamente 375 metros de diâmetro, Apophis pertence ao grupo dos asteroides próximos da Terra. Seu nome foi inspirado em Apep, ou Apófis, divindade da mitologia egípcia associada ao caos e à destruição.
+
+Pouco depois de sua descoberta, cálculos preliminares chamaram a atenção dos astrônomos. Em determinado momento, a probabilidade estimada de impacto com a Terra em 2029 chegou a aproximadamente 2,7%, fazendo do Apophis um dos asteroides mais preocupantes já acompanhados pelos sistemas de defesa planetária.
+
+O perigo foi descartado
+
+À medida que novas observações foram realizadas, os cientistas conseguiram determinar sua órbita com muito mais precisão.
+
+Primeiro foi descartada uma colisão em 2029 e, posteriormente, em 2036. Durante alguns anos ainda permaneceu uma pequena possibilidade de impacto em 2068.
+
+Isso mudou em 2021, quando observações por radar realizadas utilizando o complexo Goldstone, da NASA, e o Green Bank Observatory permitiram refinar novamente sua trajetória. Os novos cálculos descartaram qualquer possibilidade conhecida de impacto com a Terra durante pelo menos os próximos 100 anos.
+
+Atualmente, a Agência Espacial Europeia não mantém o Apophis em sua lista de risco.
+
+A aproximação de 2029
+
+Apesar de não representar uma ameaça conhecida, o encontro de 2029 será extraordinário.
+
+Em 13 de abril daquele ano, Apophis passará aproximadamente 32 mil quilômetros acima da superfície terrestre, cerca de um décimo da distância entre a Terra e a Lua e abaixo da altitude utilizada por muitos satélites geoestacionários.
+
+A passagem será tão próxima que o asteroide poderá atingir brilho suficiente para ser observado a olho nu em regiões da Europa, África e Ásia. A ESA estima que até cerca de dois bilhões de pessoas estarão em regiões onde o fenômeno poderá ser observado.
+
+Segundo estimativas apresentadas pela agência europeia, a passagem de um objeto desse tamanho tão próximo da Terra é um fenômeno que ocorre aproximadamente uma vez a cada 5 mil a 10 mil anos.
+
+A Terra poderá modificar o asteroide
+
+Um dos aspectos mais interessantes da aproximação será o efeito da gravidade terrestre sobre o próprio Apophis.
+
+Durante a passagem, as forças gravitacionais da Terra modificarão significativamente sua trajetória ao redor do Sol e poderão alterar sua rotação. As chamadas forças de maré também poderão comprimir e esticar ligeiramente o asteroide, provocando tremores, deslocamentos de rochas ou pequenos deslizamentos em sua superfície.
+
+Para os cientistas, será uma oportunidade extremamente rara de observar como um grande asteroide reage ao passar pelo campo gravitacional de um planeta.
+
+Missões espaciais acompanharão o encontro
+
+A aproximação despertou o interesse de diversas agências espaciais.
+
+A NASA pretende utilizar a sonda OSIRIS-APEX, anteriormente conhecida como OSIRIS-REx, para estudar Apophis depois de sua passagem pela Terra. A espaçonave deverá se encontrar com o asteroide em junho de 2029 e analisar as possíveis mudanças provocadas pelo encontro com nosso planeta.
+
+A Agência Espacial Europeia também prepara a missão Ramses. Em junho de 2026, a ESA anunciou que a construção da estrutura da espaçonave já havia começado. O objetivo é lançá-la em 2028 para que consiga chegar ao Apophis antes da aproximação e acompanhar o asteroide durante sua passagem pela Terra.
+
+A missão contará ainda com participação da agência espacial japonesa JAXA. Entre os experimentos planejados está o pequeno CubeSat Don Quijote, projetado para operar diretamente sobre a superfície do Apophis e registrar os efeitos da gravidade terrestre durante o encontro.
+
+Uma oportunidade para a defesa planetária
+
+Apophis passou de um dos asteroides mais temidos do início dos anos 2000 para um dos maiores laboratórios naturais da defesa planetária moderna.
+
+A aproximação de 2029 permitirá observar com enorme precisão como a gravidade terrestre modifica a trajetória, a rotação e possivelmente até a superfície de um asteroide.
+
+Essas informações poderão ser importantes no futuro caso a humanidade descubra um objeto semelhante realmente em rota de colisão com a Terra.
+
+Por enquanto, porém, Apophis não é uma ameaça. Em vez de um possível desastre, sua passagem em 2029 deverá se transformar em um dos eventos astronômicos mais importantes e observados das próximas décadas.
+
+Fontes:
+
+NASA - Informações oficiais sobre o asteroide Apophis, sua descoberta, características e aproximação prevista para 2029.
+
+NASA - Página oficial da missão OSIRIS-APEX, que estudará o Apophis após sua passagem pela Terra.
+
+ESA - Informações sobre o Apophis, histórico de risco e efeitos previstos durante a aproximação de 2029.
+
+ESA - Missão Ramses e estudos planejados para acompanhar a passagem do asteroide.
+
+ESA - Atualização de junho de 2026 sobre o início da construção da espaçonave Ramses.
+
+ESA NEO Coordination Centre - Dados orbitais atualizados do 99942 Apophis e situação atual na lista de risco.`,
   },
 ];
 
