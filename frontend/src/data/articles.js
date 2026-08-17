@@ -19,6 +19,7 @@ import datacenterImage from "../assets/articles/data_center.webp";
 import coreiamilImage from "../assets/articles/coreia_do_norte_poder_militar.webp";
 import portaaviImage from "../assets/articles/porta_avioes.webp";
 import apophisiImage from "../assets/articles/apophis.webp";
+import elninoiImage from "../assets/articles/el-nino-2026.webp";
 
 const articles = [
   {
@@ -1493,6 +1494,141 @@ ESA - Missão Ramses e estudos planejados para acompanhar a passagem do asteroid
 ESA - Atualização de junho de 2026 sobre o início da construção da espaçonave Ramses.
 
 ESA NEO Coordination Centre - Dados orbitais atualizados do 99942 Apophis e situação atual na lista de risco.`,
+  },
+
+  {
+    id: 23,
+    title: "Super El Niño de 2026: o que sabemos até agora",
+    slug: "Super El niño",
+    description:
+      "O El Niño de 2026 está se intensificando rapidamente no Oceano Pacífico e poderá atingir seu pico entre o fim de 2026 e o início de 2027. As previsões mais recentes aumentaram significativamente a possibilidade de um evento excepcionalmente forte, popularmente chamado de “Super El Niño”. Caso as projeções se confirmem, seus efeitos poderão atingir agricultura, temperaturas, chuvas, secas, incêndios, pesca, geração de energia e até o transporte marítimo em diferentes regiões do planeta.",
+    category: "História",
+    image: elninoiImage,
+    date: "2026-08-17",
+    author: "Jordan Lopes",
+    content: `De La Niña para El Niño em poucos meses
+
+O ano de 2026 começou sob influência de uma La Niña relativamente fraca. Durante fevereiro e março, porém, as águas do Pacífico Equatorial começaram a retornar rapidamente para condições neutras.
+
+Já existia, naquele momento, um sinal importante escondido abaixo da superfície: uma grande quantidade de água anormalmente quente estava se acumulando no Pacífico tropical.
+
+Em março, a NOAA calculava em 62% a possibilidade de surgimento do El Niño entre junho e agosto. Em abril, a probabilidade continuava aumentando, embora ainda existisse grande incerteza sobre a intensidade que o fenômeno alcançaria.
+
+A mudança aconteceu rapidamente durante os meses seguintes.
+
+As previsões começaram a ficar mais fortes
+
+No primeiro semestre, meteorologistas ainda tratavam com cautela as previsões de um possível “Super El Niño”.
+
+Em uma apresentação do Cemaden ao governo brasileiro em junho, por exemplo, especialistas afirmavam que o El Niño de 2026–2027 provavelmente ocorreria, mas que ainda era cedo para afirmar que seria forte ou muito forte.
+
+As atualizações seguintes mudaram significativamente esse cenário.
+
+Em julho, o Climate Prediction Center dos Estados Unidos já estimava uma probabilidade de 81% de que o El Niño atingisse intensidade “muito forte” entre outubro e dezembro de 2026.
+
+Em agosto, novas projeções passaram a indicar uma possibilidade ainda maior de um evento excepcional, colocando o atual El Niño entre os candidatos aos episódios mais intensos observados desde o início dos registros modernos.
+
+Mas ele já é um “Super El Niño”?
+
+É importante fazer uma distinção.
+
+“Super El Niño” não é uma categoria meteorológica oficial utilizada pela NOAA. A agência classifica a intensidade do fenômeno de acordo com as anomalias de temperatura registradas no Pacífico Equatorial.
+
+O termo “Super El Niño” costuma ser utilizado informalmente para descrever episódios excepcionalmente intensos, como os registrados em 1982–1983, 1997–1998 e 2015–2016.
+
+Portanto, embora as projeções atuais indiquem que o evento de 2026 pode entrar nesse grupo, sua intensidade máxima ainda não foi registrada. O fenômeno continuará evoluindo durante os próximos meses.
+
+O Pacífico está acumulando uma enorme quantidade de calor
+
+Um dos principais sinais acompanhados pelos cientistas está abaixo da superfície do oceano.
+
+Durante 2026, uma grande massa de água quente avançou pelo Pacífico Equatorial. À medida que essa água alcança as regiões central e oriental do oceano, aumenta a temperatura da superfície e fortalece a interação entre o oceano e a atmosfera característica do El Niño.
+
+Esse mecanismo pode criar uma espécie de retroalimentação: mudanças nos ventos permitem que mais água quente avance para leste, enquanto o aquecimento do oceano provoca novas alterações na circulação atmosférica.
+
+É justamente a intensidade desse processo que determinará até onde o El Niño poderá chegar.
+
+Os primeiros impactos já aparecem
+
+Alguns efeitos associados ao aquecimento do Pacífico já começam a ser observados.
+
+No Peru, alterações na temperatura do oceano afetaram ecossistemas marinhos e contribuíram para mudanças na distribuição de espécies. A anchoveta, fundamental para a indústria pesqueira peruana, pode migrar para águas mais profundas ou regiões mais frias quando as águas superficiais ficam excessivamente quentes.
+
+O El Niño também começa a influenciar a circulação atmosférica global.
+
+No Atlântico, uma das consequências normalmente associadas ao fenômeno é o aumento do cisalhamento dos ventos, condição que pode dificultar a organização e o fortalecimento de furacões. No Pacífico, por outro lado, algumas regiões podem apresentar condições mais favoráveis à formação de ciclones tropicais.
+
+O que pode acontecer no Brasil?
+
+Historicamente, eventos de El Niño modificam significativamente a distribuição das chuvas no Brasil.
+
+No Sul, existe tendência de aumento da precipitação e maior risco de episódios de chuva extrema e enchentes.
+
+No Norte e em partes do Nordeste, o padrão pode favorecer redução das chuvas, temperaturas elevadas e períodos de seca.
+
+Regiões do Centro-Oeste e partes do Sudeste também podem enfrentar calor mais intenso e irregularidade das precipitações.
+
+Esses efeitos, entretanto, não acontecem da mesma maneira em todos os eventos. A intensidade do El Niño, a temperatura do Atlântico e outros sistemas atmosféricos também influenciam o clima brasileiro.
+
+Agricultura entra em estado de atenção
+
+Um El Niño muito forte pode ter efeitos contraditórios sobre a agricultura sul-americana.
+
+Chuvas maiores podem melhorar a umidade do solo em partes da Argentina, Paraguai, Uruguai e Sul do Brasil, favorecendo determinadas culturas.
+
+O excesso de água, entretanto, também aumenta o risco de enchentes, erosão, doenças fúngicas, perda de qualidade dos grãos e dificuldades para realizar plantio ou colheita.
+
+No Brasil, o trigo merece atenção especial porque grande parte da produção está concentrada na Região Sul.
+
+Nas áreas mais ao norte do continente, a preocupação é diferente: calor e redução das chuvas podem prejudicar lavouras, aumentar o risco de incêndios e diminuir o nível dos rios.
+
+O impacto pode chegar ao comércio mundial
+
+Os efeitos de um El Niño intenso não ficam restritos à agricultura.
+
+Secas podem reduzir níveis de rios utilizados para transporte, enquanto chuvas extremas podem danificar estradas, pontes, ferrovias e portos.
+
+A pesca no Pacífico oriental também pode sofrer perdas significativas devido às mudanças na temperatura e disponibilidade de nutrientes nas águas superficiais.
+
+Como a América Latina está entre as principais regiões produtoras de alimentos e matérias-primas do planeta, alterações significativas na produção podem eventualmente chegar aos mercados internacionais por meio dos preços de alimentos, energia e transporte.
+
+E a temperatura global?
+
+Existe ainda outra preocupação.
+
+O El Niño libera para a atmosfera parte do enorme calor armazenado no Oceano Pacífico tropical. Por isso, anos de El Niño forte frequentemente aparecem entre os períodos mais quentes registrados globalmente.
+
+Entretanto, o fenômeno atualmente ocorre sobre um planeta que já está mais quente devido às mudanças climáticas provocadas pelas emissões humanas de gases de efeito estufa.
+
+Cientistas avaliam que a combinação desses dois fatores poderá elevar ainda mais as temperaturas globais, especialmente entre o final de 2026 e 2027.
+
+Isso não significa que cada onda de calor, seca ou tempestade será causada pelo El Niño. O fenômeno modifica probabilidades e padrões climáticos, enquanto outros fatores naturais e a mudança climática de longo prazo continuam atuando simultaneamente.
+
+Os próximos meses serão decisivos
+
+A evolução entre setembro e dezembro será fundamental para determinar a verdadeira dimensão do El Niño de 2026.
+
+As previsões feitas no início do ano já foram superadas por projeções consideravelmente mais fortes, demonstrando como o Pacífico evoluiu rapidamente durante 2026.
+
+Se o aquecimento continuar avançando conforme alguns modelos indicam, o episódio poderá ser comparado aos grandes El Niños de 1982–1983, 1997–1998 e 2015–2016.
+
+Mas somente as observações dos próximos meses permitirão determinar se 2026 realmente produzirá um dos maiores El Niños já registrados.
+
+Fontes:
+
+NOAA / Climate Prediction Center - Monitoramento oficial do fenômeno El Niño-Oscilação Sul e projeções probabilísticas para 2026–2027.
+
+National Weather Service / NOAA - Informações sobre a classificação da intensidade do El Niño e esclarecimento de que “Super El Niño” não constitui uma categoria oficial.
+
+Cemaden / Governo Federal do Brasil - Avaliação dos possíveis impactos do El Niño de 2026–2027 no território brasileiro.
+
+INMET / INPE - Monitoramento das temperaturas do Pacífico Equatorial e prognósticos climáticos para o Brasil.
+
+Reuters - Análises sobre o fortalecimento do El Niño e possíveis impactos sobre agricultura, energia e produção de alimentos na América Latina.
+
+Associated Press - Análise sobre a interação entre o fortalecimento do El Niño, as temperaturas oceânicas e o aquecimento global.
+
+Met Office - Análises meteorológicas sobre o desenvolvimento do El Niño e seus possíveis impactos climáticos globais.`,
   },
 ];
 
