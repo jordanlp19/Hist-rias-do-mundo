@@ -20,6 +20,7 @@ import coreiamilImage from "../assets/articles/coreia_do_norte_poder_militar.web
 import portaaviImage from "../assets/articles/porta_avioes.webp";
 import apophisiImage from "../assets/articles/apophis.webp";
 import elninoiImage from "../assets/articles/el-nino-2026.webp";
+import japposturaiImage from "../assets/articles/japao_postura_militar.webp";
 
 const articles = [
   {
@@ -1629,6 +1630,100 @@ Reuters - Análises sobre o fortalecimento do El Niño e possíveis impactos sob
 Associated Press - Análise sobre a interação entre o fortalecimento do El Niño, as temperaturas oceânicas e o aquecimento global.
 
 Met Office - Análises meteorológicas sobre o desenvolvimento do El Niño e seus possíveis impactos climáticos globais.`,
+  },
+
+  {
+    id: 24,
+    title:
+      "Japão muda sua postura militar diante do avanço dos drones chineses",
+    slug: "Japao postura militar",
+    description:
+      "O Japão está acelerando uma das maiores transformações de sua política de defesa desde o fim da Segunda Guerra Mundial. O aumento das operações militares chinesas ao redor do arquipélago, incluindo voos de drones de reconhecimento próximos às ilhas japonesas, levou Tóquio a investir em drones de combate, sistemas autônomos, mísseis de longo alcance e uma defesa mais robusta de suas ilhas no Pacífico. A mudança mostra como o equilíbrio militar no Leste Asiático está entrando em uma nova fase.",
+    category: "História",
+    image: japposturaiImage,
+    date: "2026-08-18",
+    author: "Jordan Lopes",
+    content: `O aumento da presença chinesa
+
+Durante décadas, a defesa japonesa foi estruturada principalmente para impedir ou responder a ataques convencionais. Entretanto, o rápido crescimento das capacidades militares da China começou a alterar esse cenário.
+
+Uma das preocupações está na região das ilhas Nansei, cadeia de ilhas japonesas que se estende em direção a Taiwan. O Ministério da Defesa do Japão afirma que aeronaves militares chinesas têm ampliado suas operações no Pacífico e que os tipos e rotas utilizadas por essas aeronaves se tornaram mais diversificados.
+
+Entre elas estão drones militares como o BZK-005, o TB-001 e o WZ-7, utilizados principalmente em missões de reconhecimento, vigilância e coleta de informações.
+
+No início de agosto de 2026, o Japão voltou a detectar drones chineses BZK-005 e TB-001 operando no Mar da China Oriental e atravessando a região do Estreito de Miyako. Caças japoneses foram mobilizados para acompanhar as aeronaves.
+
+Por que os drones preocupam o Japão?
+
+O problema para Tóquio não é apenas a presença de uma aeronave chinesa.
+
+Drones permitem realizar missões de reconhecimento durante longos períodos sem colocar pilotos em risco. Em um eventual conflito, também poderiam ajudar a localizar navios, bases aéreas, radares e sistemas de defesa antes de ataques realizados por outras aeronaves ou mísseis.
+
+As guerras recentes na Ucrânia e no Oriente Médio também demonstraram que grandes quantidades de drones relativamente baratos podem obrigar um adversário a utilizar sistemas de defesa muito mais caros para interceptá-los.
+
+Para um país formado por milhares de ilhas e responsável por vigiar uma enorme área marítima, essa transformação da guerra representa um desafio considerável.
+
+A resposta japonesa: milhares de drones
+
+O Japão decidiu que sua resposta não será baseada apenas em caças e sistemas antiaéreos.
+
+O Ministério da Defesa trabalha no desenvolvimento do chamado SHIELD, um sistema de defesa costeira baseado no emprego de grandes quantidades de sistemas não tripulados.
+
+O projeto deverá combinar mais de dez tipos de drones destinados a diferentes funções, incluindo reconhecimento, defesa de instalações e ataques contra forças inimigas que tentem se aproximar das ilhas japonesas.
+
+O orçamento japonês para 2026 reservou cerca de 100 bilhões de ienes para o desenvolvimento desse sistema, cuja implementação está prevista para começar no ano fiscal de 2027.
+
+Em abril de 2026, a Força Terrestre de Autodefesa também criou duas novas estruturas administrativas especificamente voltadas para sistemas não tripulados, responsáveis por acelerar pesquisa, desenvolvimento, aquisição e manutenção dessas tecnologias.
+
+Japão começa a testar drones de ataque
+
+A transformação já está saindo do papel.
+
+A Força Terrestre de Autodefesa está avaliando o HX-2, drone de ataque desenvolvido pela empresa alemã Helsing. O equipamento foi projetado para realizar ataques contra alvos terrestres e pode operar integrado a sistemas baseados em inteligência artificial.
+
+O Japão também tem observado diretamente as experiências da Ucrânia, onde drones passaram a desempenhar funções que anteriormente dependiam de aeronaves, helicópteros ou sistemas de artilharia muito mais caros.
+
+A intenção japonesa é incorporar parte dessas lições à defesa de seu próprio território.
+
+As ilhas do sudoeste ganham importância
+
+Grande parte dessa transformação está concentrada no sudoeste do Japão.
+
+Ilhas como Okinawa, Miyako e Yonaguni estão localizadas próximas de Taiwan e das principais rotas utilizadas pelas forças chinesas para alcançar o Pacífico.
+
+O governo japonês vem reforçando unidades militares, sistemas de mísseis, radares e infraestrutura nessa região.
+
+O Livro Branco de Defesa de 2026 considera o fortalecimento da defesa do sudoeste uma prioridade e descreve as atividades militares chinesas como o maior desafio estratégico enfrentado pelo Japão.
+
+Ao mesmo tempo, Tóquio está adquirindo capacidades que anteriormente seriam politicamente difíceis de imaginar, incluindo mísseis capazes de atingir alvos a grandes distâncias.
+
+Uma mudança histórica
+
+A Constituição japonesa continua estabelecendo fortes limitações sobre o uso da força, e o governo mantém oficialmente uma política orientada para a defesa.
+
+Na prática, porém, a interpretação sobre quais capacidades são necessárias para defender o país está mudando rapidamente.
+
+O Japão está aumentando seus gastos militares, desenvolvendo mísseis de maior alcance, fortalecendo suas ilhas próximas de Taiwan, ampliando sua indústria de defesa e preparando-se para utilizar grandes quantidades de sistemas autônomos.
+
+Os drones chineses não são a única causa dessa transformação. Coreia do Norte, Rússia e as lições das guerras recentes também influenciam a estratégia japonesa.
+
+Mas a crescente presença militar chinesa ao redor do arquipélago funciona como um dos principais catalisadores.
+
+Depois de décadas dependendo de uma estratégia predominantemente defensiva e da aliança militar com os Estados Unidos, o Japão começa a construir uma capacidade muito maior de detectar, acompanhar e, em caso de conflito, atingir forças inimigas antes que elas consigam alcançar seu território.
+
+Fontes:
+
+Ministério da Defesa do Japão - informações oficiais sobre as atividades militares chinesas no Mar da China Oriental e no Pacífico e sobre o fortalecimento da defesa japonesa.
+
+Ministério da Defesa do Japão, Livro Branco de Defesa de 2026 - avaliação oficial do ambiente de segurança do Japão e da crescente atividade militar chinesa.
+
+Reuters - informações sobre a modernização militar japonesa e os testes do drone de ataque HX-2 desenvolvido pela Helsing.
+
+Associated Press - análise do Livro Branco de Defesa de 2026 e da expansão japonesa de drones de combate, sistemas não tripulados e capacidades de longo alcance.
+
+Janes - informações sobre as operações dos drones chineses BZK-005 e TB-001 próximas a Taiwan e às ilhas japonesas em agosto de 2026.
+
+The Japan Times/Jiji Press - informações sobre o projeto SHIELD e o plano japonês para empregar milhares de drones na defesa costeira.`,
   },
 ];
 
