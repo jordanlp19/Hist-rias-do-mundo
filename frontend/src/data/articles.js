@@ -21,6 +21,7 @@ import portaaviImage from "../assets/articles/porta_avioes.webp";
 import apophisiImage from "../assets/articles/apophis.webp";
 import elninoiImage from "../assets/articles/el-nino-2026.webp";
 import japposturaiImage from "../assets/articles/japao_postura_militar.webp";
+import rotadesedaiImage from "../assets/articles/nova_rota_da_seda.webp";
 
 const articles = [
   {
@@ -1724,6 +1725,99 @@ Associated Press - análise do Livro Branco de Defesa de 2026 e da expansão jap
 Janes - informações sobre as operações dos drones chineses BZK-005 e TB-001 próximas a Taiwan e às ilhas japonesas em agosto de 2026.
 
 The Japan Times/Jiji Press - informações sobre o projeto SHIELD e o plano japonês para empregar milhares de drones na defesa costeira.`,
+  },
+
+  {
+    id: 25,
+    title: "O que é a Nova Rota da Seda?",
+    slug: "Rota de seda",
+    description:
+      "Um dos maiores projetos de infraestrutura do mundo, a Nova Rota da Seda busca conectar a China a dezenas de países por meio de ferrovias, portos, rodovias e corredores comerciais. Entenda como surgiu a iniciativa, seus objetivos econômicos e por que ela também se tornou uma importante ferramenta da influência chinesa no cenário internacional.",
+    category: "História",
+    image: rotadesedaiImage,
+    date: "2026-08-24",
+    author: "Jordan Lopes",
+    content: `A Nova Rota da Seda é um dos maiores projetos de integração econômica e infraestrutura do mundo contemporâneo. Oficialmente chamada de Belt and Road Initiative (BRI), ou Iniciativa Cinturão e Rota, ela foi lançada pela China em 2013 com o objetivo de ampliar as conexões comerciais, logísticas e econômicas entre diferentes regiões do planeta.
+
+Inspirada nas antigas rotas comerciais que durante séculos conectaram a China à Ásia Central, ao Oriente Médio e à Europa, a iniciativa moderna envolve uma extensa rede de ferrovias, rodovias, portos, oleodutos, gasodutos, instalações energéticas e outras obras de infraestrutura.
+
+A antiga Rota da Seda
+
+Muito antes dos grandes navios cargueiros e das ferrovias modernas, mercadorias já atravessavam enormes distâncias entre o Oriente e o Ocidente.
+
+As rotas que ficaram conhecidas como Rota da Seda ligavam diferentes regiões da Ásia e da Europa. Seda chinesa, especiarias, metais, tecidos e diversos outros produtos circulavam por essas redes comerciais.
+
+Mas não eram apenas mercadorias que viajavam por essas rotas. Tecnologias, religiões, conhecimentos científicos e elementos culturais também se espalhavam entre diferentes civilizações.
+
+Foi justamente essa antiga conexão entre Oriente e Ocidente que inspirou o nome da iniciativa chinesa do século XXI.
+
+O nascimento da Nova Rota da Seda
+
+Em 2013, durante visitas ao Cazaquistão e à Indonésia, o presidente chinês Xi Jinping apresentou duas propostas complementares: o Cinturão Econômico da Rota da Seda e a Rota da Seda Marítima do Século XXI.
+
+Posteriormente, as duas passaram a ser conhecidas conjuntamente como Belt and Road Initiative.
+
+O primeiro eixo busca fortalecer principalmente as conexões terrestres entre a China, a Ásia Central, o Oriente Médio e a Europa.
+
+O segundo utiliza rotas marítimas e portos para ampliar as conexões da China com o Sudeste Asiático, o Oceano Índico, a África, o Oriente Médio e a Europa.
+
+Na prática, portanto, não existe uma única "estrada". A Nova Rota da Seda funciona como uma enorme rede de corredores econômicos e projetos de infraestrutura espalhados por diferentes países.
+
+O que a China está construindo?
+
+Entre os projetos associados à iniciativa estão ferrovias, estradas, portos, pontes, usinas de energia e corredores logísticos.
+
+Alguns se tornaram símbolos da expansão da infraestrutura chinesa no exterior, como a ferrovia China-Laos, a ferrovia de alta velocidade Jacarta-Bandung, na Indonésia, e investimentos relacionados ao porto de Pireu, na Grécia.
+
+Também foram ampliados serviços ferroviários de carga ligando cidades chinesas a diferentes destinos europeus.
+
+O objetivo é reduzir obstáculos ao transporte de mercadorias e facilitar a integração das cadeias comerciais entre diferentes regiões.
+
+Por que a Nova Rota da Seda é tão importante para a China?
+
+A iniciativa possui uma forte dimensão econômica.
+
+Melhores conexões de transporte podem facilitar as exportações chinesas, abrir novos mercados, estimular investimentos e aproximar economicamente a China de dezenas de parceiros comerciais.
+
+Mas existe também uma dimensão geopolítica.
+
+Ao financiar ou participar da construção de infraestrutura estratégica em outros países, Pequim amplia suas relações econômicas e diplomáticas e fortalece sua presença em regiões importantes da Ásia, África, Europa e outras partes do mundo.
+
+Por isso, a Nova Rota da Seda também costuma ser analisada como parte da expansão da influência internacional chinesa.
+
+Benefícios e controvérsias
+
+Para muitos países participantes, os investimentos podem representar uma oportunidade de construir infraestrutura que dificilmente seria financiada apenas com recursos internos.
+
+Novas ferrovias, estradas e portos podem diminuir custos de transporte, facilitar exportações e atrair investimentos. Um estudo do Banco Mundial concluiu que os corredores de transporte ligados à iniciativa possuem potencial para aumentar o comércio e os investimentos, desde que sejam acompanhados por políticas adequadas.
+
+Entretanto, a iniciativa também gera debates.
+
+Entre as principais preocupações estão o endividamento de alguns países, a viabilidade econômica de determinados projetos, impactos ambientais, falta de transparência e riscos de corrupção.
+
+O próprio Banco Mundial destaca que os benefícios potenciais dependem de fatores como transparência, sustentabilidade das dívidas e redução dos riscos ambientais, sociais e de corrupção.
+
+Uma nova rede de comércio mundial
+
+Mais de uma década depois de seu lançamento, a Nova Rota da Seda tornou-se muito mais do que uma tentativa de recriar as antigas rotas comerciais entre China e Europa.
+
+Ela representa uma estratégia de conectividade internacional baseada em infraestrutura, comércio, investimentos e integração econômica.
+
+Ferrovias atravessando continentes, portos conectando oceanos e novos corredores logísticos estão ajudando a redesenhar algumas das rotas pelas quais mercadorias circulam pelo planeta.
+
+Ao mesmo tempo, a iniciativa mostra uma transformação maior na economia mundial: a China deixou de ser apenas uma grande participante do comércio internacional e passou também a investir diretamente na infraestrutura que ajuda a conectar esse comércio.
+
+Por isso, compreender a Nova Rota da Seda é também compreender uma das principais ferramentas utilizadas pela China para ampliar sua presença econômica e estratégica no século XXI.
+
+Fontes:
+
+Banco Mundial - Belt and Road Economics: Opportunities and Risks of Transport Corridors. Estudo sobre os impactos econômicos, comerciais e os riscos relacionados aos corredores da iniciativa.
+
+Ministério das Relações Exteriores da China - Vision and Actions on Jointly Building Silk Road Economic Belt and 21st-Century Maritime Silk Road. Documento oficial sobre os objetivos e a estrutura da iniciativa.
+
+State Council Information Office da China - What is Belt and Road Initiative? Explicação oficial sobre a origem e os principais objetivos da Belt and Road Initiative.
+
+Governo da China - Vision for Maritime Cooperation under the Belt and Road Initiative. Documento sobre a dimensão marítima e os corredores internacionais da iniciativa.`,
   },
 ];
 
