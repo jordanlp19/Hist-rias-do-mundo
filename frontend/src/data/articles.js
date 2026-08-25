@@ -22,6 +22,7 @@ import apophisiImage from "../assets/articles/apophis.webp";
 import elninoiImage from "../assets/articles/el-nino-2026.webp";
 import japposturaiImage from "../assets/articles/japao_postura_militar.webp";
 import rotadesedaiImage from "../assets/articles/nova_rota_da_seda.webp";
+import roboboltiImage from "../assets/articles/robo_recorde.webp";
 
 const articles = [
   {
@@ -1818,6 +1819,77 @@ Ministério das Relações Exteriores da China - Vision and Actions on Jointly B
 State Council Information Office da China - What is Belt and Road Initiative? Explicação oficial sobre a origem e os principais objetivos da Belt and Road Initiative.
 
 Governo da China - Vision for Maritime Cooperation under the Belt and Road Initiative. Documento sobre a dimensão marítima e os corredores internacionais da iniciativa.`,
+  },
+
+  {
+    id: 26,
+    title: "O momento em que um robô bateu o recorde de Usain Bolt",
+    slug: "Robo Usain Bolt",
+    description:
+      "Um robô humanoide chinês conseguiu superar a histórica marca de Usain Bolt nos 100 metros rasos. Durante os Jogos Mundiais de Robôs Humanoides de 2026, em Pequim, o Tiangong Ultra completou a distância em apenas 8,86 segundos, contra os 9,58 segundos registrados pelo jamaicano em 2009. Apesar de não substituir oficialmente o recorde humano, o feito demonstra a rápida evolução da robótica e da capacidade de locomoção das máquinas.",
+    category: "História",
+    image: roboboltiImage,
+    date: "2026-08-25",
+    author: "Jordan Lopes",
+    content: `Durante mais de 17 anos, a marca de 9,58 segundos estabelecida por Usain Bolt nos 100 metros rasos permaneceu como uma referência quase inalcançável da velocidade humana. Em agosto de 2026, porém, uma máquina conseguiu percorrer a mesma distância ainda mais rápido.
+
+Durante os Jogos Mundiais de Robôs Humanoides, realizados em Pequim, na China, robôs chineses começaram a registrar tempos inferiores ao recorde do lendário velocista jamaicano. E, em poucos dias, a diferença ficou ainda maior.
+
+Uma corrida histórica
+
+No dia 22 de agosto, durante as primeiras provas da competição, o robô humanoide Tiangong Ultra completou os 100 metros em apenas 9,39 segundos.
+
+O resultado chamou atenção imediatamente porque era 0,19 segundo mais rápido que os 9,58 segundos registrados por Usain Bolt no Campeonato Mundial de Atletismo de Berlim, em 2009.
+
+Outro competidor, chamado Lightning, também terminou abaixo da marca humana, completando a prova em 9,47 segundos. Antes da competição, o próprio Lightning já havia registrado impressionantes 9,32 segundos durante uma corrida de teste.
+
+Mas o recorde dos robôs ainda cairia novamente.
+
+8,86 segundos
+
+Em 25 de agosto, durante as semifinais da categoria de robôs de grande porte, o Tiangong Ultra voltou à pista.
+
+Desta vez, a máquina completou os 100 metros em apenas 8,86 segundos, estabelecendo um novo recorde para robôs humanoides e ficando 0,72 segundo abaixo da marca histórica de Bolt.
+
+O desempenho mostra como a tecnologia evoluiu rapidamente. Na primeira edição dos Jogos Mundiais de Robôs Humanoides, realizada apenas um ano antes, o Tiangong Ultra havia vencido os 100 metros com um tempo de aproximadamente 21,5 segundos.
+
+Em apenas um ano, portanto, seu tempo caiu mais de 12 segundos.
+
+Ainda existem limitações
+
+Apesar dos números impressionantes, comparar diretamente os robôs com atletas humanos exige cautela.
+
+As máquinas não estão submetidas às mesmas regras e limitações fisiológicas dos seres humanos, e as competições robóticas possuem regulamentos próprios. Por isso, o resultado não substitui oficialmente o recorde mundial de Usain Bolt reconhecido no atletismo.
+
+Além disso, correr rapidamente ainda representa um enorme desafio de controle para essas máquinas.
+
+Depois de cruzar a linha de chegada na corrida de 8,86 segundos, o Tiangong Ultra caiu e atingiu uma barreira de proteção. Imagens registraram inclusive faíscas saindo da região da cintura do robô após o impacto.
+
+Muito além das pistas
+
+Os Jogos Mundiais de Robôs Humanoides funcionam como uma grande demonstração do avanço da robótica chinesa.
+
+A edição de 2026 reuniu mais de 2 mil robôs em Pequim, participando de dezenas de modalidades e mais de mil competições. Além de corridas, saltos e tênis de mesa, existem desafios envolvendo tarefas domésticas, serviços em hotéis, atividades industriais e situações de emergência.
+
+O objetivo vai muito além de descobrir qual máquina consegue correr mais rápido.
+
+Competições desse tipo permitem testar equilíbrio, coordenação, resistência, inteligência artificial e capacidade de adaptação em ambientes complexos — tecnologias que futuramente poderão ser utilizadas em fábricas, centros logísticos, serviços e até operações de resgate.
+
+Por enquanto, Usain Bolt continua sendo oficialmente o homem mais rápido da história.
+
+Mas, quando a disputa deixa de ser exclusivamente entre seres humanos, as máquinas já começaram a correr na frente.
+
+Fontes:
+
+Reuters - Cobertura dos Jogos Mundiais de Robôs Humanoides e dos recordes estabelecidos pelo Tiangong Ultra nos 100 metros.
+
+Associated Press - Informações sobre o recorde de 8,86 segundos registrado em 25 de agosto de 2026 e sobre a competição realizada em Pequim.
+
+CNN Brasil - Informações sobre a prova de 9,39 segundos e comparação com o recorde mundial de Usain Bolt.
+
+Deutsche Welle - Informações sobre o Lightning, seu tempo de 9,32 segundos em teste e velocidade máxima registrada.
+
+South China Morning Post - Dados sobre a evolução do Tiangong Ultra em relação à edição anterior dos Jogos Mundiais de Robôs Humanoides.`,
   },
 ];
 
