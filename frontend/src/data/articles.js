@@ -23,6 +23,7 @@ import elninoiImage from "../assets/articles/el-nino-2026.webp";
 import japposturaiImage from "../assets/articles/japao_postura_militar.webp";
 import rotadesedaiImage from "../assets/articles/nova_rota_da_seda.webp";
 import roboboltiImage from "../assets/articles/robo_recorde.webp";
+import venezupetiImage from "../assets/articles/petroleo_venezuela.webp";
 
 const articles = [
   {
@@ -1890,6 +1891,90 @@ CNN Brasil - Informações sobre a prova de 9,39 segundos e comparação com o r
 Deutsche Welle - Informações sobre o Lightning, seu tempo de 9,32 segundos em teste e velocidade máxima registrada.
 
 South China Morning Post - Dados sobre a evolução do Tiangong Ultra em relação à edição anterior dos Jogos Mundiais de Robôs Humanoides.`,
+  },
+
+  {
+    id: 27,
+    title:
+      "Estados Unidos assumem controle de parte do petróleo da Venezuela em acordo histórico",
+    slug: "Estados unidos assumem Venezuela",
+    description:
+      "Os Estados Unidos anunciaram um acordo que lhes dará controle majoritário sobre mais de 65 bilhões de barris das reservas comprovadas de petróleo da Venezuela. O volume é superior às próprias reservas comprovadas de petróleo dos EUA e representa aproximadamente um quinto das gigantescas reservas venezuelanas. O acordo pode alterar profundamente o setor energético da América Latina e transformar a Venezuela em uma peça ainda mais importante da estratégia energética norte-americana.",
+    category: "História",
+    image: venezupetiImage,
+    date: "2026-08-31",
+    author: "Jordan Lopes",
+    content: `O maior reservatório de petróleo do planeta
+
+A Venezuela ocupa uma posição única no mercado mundial de energia. O país possui as maiores reservas comprovadas de petróleo do mundo, concentradas principalmente na região conhecida como Cinturão do Orinoco.
+
+Dados da Administração de Informação de Energia dos Estados Unidos (EIA) apontavam aproximadamente 303 bilhões de barris de reservas comprovadas venezuelanas em 2023, equivalentes a cerca de 17% das reservas mundiais.
+
+Grande parte desse petróleo, entretanto, é extrapesado. Sua exploração exige infraestrutura, tecnologia e investimentos elevados.
+
+Décadas de dificuldades econômicas, falta de investimentos, deterioração da infraestrutura, sanções internacionais e problemas enfrentados pela estatal PDVSA fizeram com que a Venezuela produzisse muito menos petróleo do que seu gigantesco potencial permitiria.
+
+O acordo com os Estados Unidos
+
+No dia 28 de agosto de 2026, o presidente dos Estados Unidos, Donald Trump, anunciou um acordo com o governo interino venezuelano envolvendo mais de 65 bilhões de barris de reservas comprovadas.
+
+Segundo as informações divulgadas até o momento, uma parceria envolvendo os Estados Unidos e empresas privadas terá controle majoritário sobre a operação relacionada a essas reservas.
+
+O projeto envolve 17 campos petrolíferos e poderá permanecer em vigor por décadas.
+
+Na prática, isso não significa que todo o petróleo venezuelano passou a pertencer aos Estados Unidos. A Venezuela continua soberana sobre seus recursos naturais. Entretanto, Washington passa a ter uma posição extremamente poderosa na exploração e comercialização de uma parcela gigantesca dessas reservas.
+
+Um volume maior que as reservas dos próprios EUA
+
+A dimensão do acordo fica mais evidente quando os números são comparados.
+
+Segundo informações divulgadas pela Reuters, os aproximadamente 65 bilhões de barris envolvidos no acordo superam as reservas comprovadas dos próprios Estados Unidos, estimadas em cerca de 46 bilhões de barris.
+
+Isso significa que, somente através desse acordo, os norte-americanos terão acesso estratégico a uma quantidade de petróleo superior à existente atualmente em suas reservas comprovadas domésticas.
+
+Parte da produção venezuelana também poderá ser adquirida pelos Estados Unidos a custos favoráveis e utilizada para abastecer o mercado norte-americano e recompor a Reserva Estratégica de Petróleo do país.
+
+Por que os Estados Unidos querem o petróleo venezuelano?
+
+O acordo acontece em um momento particularmente sensível para o mercado internacional de energia.
+
+Conflitos no Oriente Médio, dificuldades no transporte marítimo e preocupações relacionadas ao abastecimento mundial aumentaram a importância estratégica de reservas localizadas próximas ao território norte-americano.
+
+A Venezuela está relativamente próxima das refinarias dos Estados Unidos e possui enormes quantidades de petróleo pesado, matéria-prima que diversas refinarias norte-americanas foram construídas para processar.
+
+Além disso, ampliar a produção venezuelana permitiria aos Estados Unidos reduzir parte de sua vulnerabilidade diante de crises envolvendo produtores localizados no Oriente Médio.
+
+Uma transformação que levará anos
+
+Apesar do tamanho impressionante das reservas, transformar petróleo subterrâneo em produção comercial não acontece imediatamente.
+
+Muitos campos venezuelanos precisam de novos equipamentos, oleodutos, sistemas elétricos, instalações de processamento e recuperação de infraestrutura abandonada ou deteriorada.
+
+O plano prevê atrair aproximadamente US$ 100 bilhões em investimentos privados e elevar significativamente a produção venezuelana nos próximos anos.
+
+Por isso, mesmo com o anúncio histórico, os efeitos sobre os preços internacionais do petróleo e dos combustíveis provavelmente serão graduais.
+
+Os EUA são agora os “donos” do petróleo venezuelano?
+
+Não exatamente.
+
+A Venezuela continua sendo proprietária de seus recursos naturais. O que mudou é o nível de participação e controle que os Estados Unidos poderão exercer sobre uma parcela gigantesca da exploração petrolífera venezuelana.
+
+Com mais de 65 bilhões de barris envolvidos, Washington conquistou uma posição estratégica sobre aproximadamente um quinto das reservas do país.
+
+Se o projeto for efetivamente executado como anunciado, será uma das maiores reorganizações do setor petrolífero venezuelano em décadas.
+
+E também poderá representar uma mudança histórica na geopolítica energética das Américas: enquanto durante décadas a Venezuela utilizou seu petróleo como instrumento de independência e influência política, agora uma parcela considerável dessa riqueza estará diretamente ligada aos interesses energéticos dos Estados Unidos.
+
+Fontes:
+
+Reuters - informações sobre o acordo entre Estados Unidos e Venezuela, os mais de 65 bilhões de barris envolvidos e os questionamentos jurídicos relacionados à operação.
+
+Associated Press - detalhes sobre os 17 campos petrolíferos, a participação norte-americana e os planos para utilização da produção venezuelana.
+
+U.S. Energy Information Administration (EIA) - dados sobre as reservas comprovadas da Venezuela, o Cinturão do Orinoco e a estrutura da indústria petrolífera venezuelana.
+
+S&P Global Commodity Insights - dados sobre produção, exportações venezuelanas para os Estados Unidos e questões jurídicas relacionadas ao controle dos campos.`,
   },
 ];
 
