@@ -24,6 +24,7 @@ import japposturaiImage from "../assets/articles/japao_postura_militar.webp";
 import rotadesedaiImage from "../assets/articles/nova_rota_da_seda.webp";
 import roboboltiImage from "../assets/articles/robo_recorde.webp";
 import venezupetiImage from "../assets/articles/petroleo_venezuela.webp";
+import russiagradeiImage from "../assets/articles/russia_grade_curricular.webp";
 
 const articles = [
   {
@@ -1975,6 +1976,71 @@ Associated Press - detalhes sobre os 17 campos petrolíferos, a participação n
 U.S. Energy Information Administration (EIA) - dados sobre as reservas comprovadas da Venezuela, o Cinturão do Orinoco e a estrutura da indústria petrolífera venezuelana.
 
 S&P Global Commodity Insights - dados sobre produção, exportações venezuelanas para os Estados Unidos e questões jurídicas relacionadas ao controle dos campos.`,
+  },
+
+  {
+    id: 28,
+    title: "Rússia amplia treinamento militar nas escolas",
+    slug: "Russia militar escola",
+    description:
+      "As escolas russas estão passando por uma transformação significativa em sua grade de segurança e defesa. Alunos passaram a ter contato com conteúdos que incluem primeiros socorros, proteção contra ameaças, orientação em situações de conflito, treinamento com réplicas de armas, noções militares e, mais recentemente, operação e montagem de drones.",
+    category: "História",
+    image: russiagradeiImage,
+    date: "2026-09-02",
+    author: "Jordan Lopes",
+    content: `Uma nova disciplina nas escolas
+
+Em setembro de 2024, a Rússia introduziu nos currículos escolares a disciplina conhecida pela sigla OBZR, traduzida aproximadamente como “Fundamentos de Segurança e Defesa da Pátria”.
+
+A matéria substituiu uma disciplina anterior voltada principalmente para segurança e proteção da vida, mas incorporou conteúdos relacionados à preparação militar e à atuação em situações de emergência.
+
+A partir do oitavo ano, a disciplina integra o programa obrigatório. Entre os equipamentos previstos para algumas dessas aulas estão máscaras de gás, torniquetes para controle de hemorragias, manequins para treinamento de reanimação e equipamentos de proteção.
+
+Armas dentro do ambiente educacional
+
+Uma das mudanças que mais chamou atenção foi a introdução de treinamento relacionado ao manuseio de armamentos.
+
+Escolas passaram a receber réplicas de armas de fogo, modelos de granadas e carregadores de fuzis Kalashnikov com munição de treinamento. Algumas instituições também utilizam simuladores eletrônicos e estruturas destinadas à prática de tiro.
+
+O objetivo não é apenas apresentar os equipamentos. Parte do treinamento envolve conhecimentos básicos sobre armas, preparação militar, primeiros socorros e procedimentos que poderiam ser utilizados durante conflitos ou situações extremas.
+
+A Reuters já havia documentado estudantes russos realizando treinamento básico com pistolas e fuzis Kalashnikov sob supervisão de instrutores. A retomada desse tipo de preparação representa, em certa medida, um retorno a práticas existentes durante o período soviético.
+
+Sobrevivência em um cenário de guerra
+
+O currículo também passou a incorporar conhecimentos que ganham importância em uma situação de conflito armado.
+
+Os estudantes podem receber treinamento sobre primeiros socorros, controle de hemorragias, utilização de equipamentos de proteção, reconhecimento de ameaças e comportamento durante situações de emergência.
+
+As escolas também vêm realizando exercícios que simulam ataques, inclusive envolvendo drones. Em algumas atividades, estudantes e funcionários precisam saber como reagir diante de alertas, buscar proteção e reduzir riscos durante uma situação crítica.
+
+Drones entram nas salas de aula
+
+A evolução mais recente dessa política envolve os veículos aéreos não tripulados.
+
+Em 2026, montagem e operação de drones passaram a integrar oficialmente conteúdos relacionados ao OBZR. Materiais educacionais incluem conhecimentos sobre diferentes tipos de drones, funcionamento dos equipamentos e procedimentos diante da aproximação de uma aeronave não tripulada.
+
+A iniciativa acompanha uma transformação que ocorre nos próprios campos de batalha. A guerra na Ucrânia demonstrou como pequenos drones comerciais ou adaptados podem exercer funções de reconhecimento, observação e ataque, tornando esse tipo de tecnologia cada vez mais importante para as forças armadas modernas.
+
+Preparação ou militarização?
+
+Para o governo russo, essas mudanças fazem parte da preparação dos jovens para proteger o país e responder a emergências.
+
+Críticos, entretanto, enxergam o processo como parte de uma militarização crescente da educação russa desde o início da guerra na Ucrânia. A presença de armas, exercícios militares e conteúdos ligados diretamente às forças armadas dentro das escolas tornou-se um dos aspectos mais visíveis dessa transformação.
+
+Independentemente da interpretação, a mudança demonstra como a guerra está produzindo efeitos que ultrapassam os campos de batalha.
+
+Na Rússia, conhecimentos que anteriormente pertenciam principalmente ao treinamento militar começam a fazer parte da formação de uma nova geração de estudantes.
+
+Fontes:
+
+Ministério da Educação da Rússia - Estrutura curricular e implementação da disciplina Fundamentos de Segurança e Defesa da Pátria (OBZR).
+
+Reuters - Reportagem sobre treinamento militar de estudantes russos, incluindo primeiros socorros e prática supervisionada com armas.
+
+The Moscow Times - Informações sobre equipamentos utilizados nas aulas de OBZR, treinamento com réplicas de armas, granadas e equipamentos de proteção.
+
+The Moscow Times - Informações sobre a introdução da montagem e operação de drones no currículo escolar russo e exercícios relacionados a ataques com veículos aéreos não tripulados.`,
   },
 ];
 
