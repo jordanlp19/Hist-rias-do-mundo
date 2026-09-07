@@ -25,6 +25,7 @@ import rotadesedaiImage from "../assets/articles/nova_rota_da_seda.webp";
 import roboboltiImage from "../assets/articles/robo_recorde.webp";
 import venezupetiImage from "../assets/articles/petroleo_venezuela.webp";
 import russiagradeiImage from "../assets/articles/russia_grade_curricular.webp";
+import sevensetembroiImage from "../assets/articles/independencia_7_de_setembro.webp";
 
 const articles = [
   {
@@ -2041,6 +2042,91 @@ Reuters - Reportagem sobre treinamento militar de estudantes russos, incluindo p
 The Moscow Times - Informações sobre equipamentos utilizados nas aulas de OBZR, treinamento com réplicas de armas, granadas e equipamentos de proteção.
 
 The Moscow Times - Informações sobre a introdução da montagem e operação de drones no currículo escolar russo e exercícios relacionados a ataques com veículos aéreos não tripulados.`,
+  },
+
+  {
+    id: 29,
+    title: "7 de setembro: como o Brasil conquistou sua independência",
+    slug: "7 de setembro Historia",
+    description:
+      "Em 7 de setembro de 1822, Dom Pedro declarou a separação política entre Brasil e Portugal às margens do riacho do Ipiranga. Mas a Independência não aconteceu em apenas um dia: foi resultado de anos de tensões políticas, disputas com as Cortes portuguesas e acontecimentos que transformaram definitivamente o futuro do Brasil.",
+    category: "História",
+    image: sevensetembroiImage,
+    date: "2026-09-07",
+    author: "Jordan Lopes",
+    content: `Todos os anos, o Brasil celebra em 7 de setembro o dia que simboliza sua independência de Portugal. Foi nessa data, em 1822, que Dom Pedro proclamou a separação política entre os dois países às margens do riacho do Ipiranga, em São Paulo.
+
+Mas a Independência do Brasil não aconteceu simplesmente por causa de um grito. O episódio foi o ponto culminante de um processo político iniciado anos antes e que ainda continuaria depois daquele dia.
+
+O Brasil antes da independência
+
+Uma das grandes transformações ocorreu em 1808, quando a família real portuguesa chegou ao Brasil após deixar Portugal diante do avanço das tropas de Napoleão Bonaparte.
+
+A presença da corte no Rio de Janeiro modificou profundamente a posição do Brasil dentro do Império Português. Os portos foram abertos ao comércio com outras nações, novas instituições foram criadas e, em 1815, o território deixou formalmente sua antiga condição colonial ao integrar o Reino Unido de Portugal, Brasil e Algarves.
+
+A situação começou a mudar novamente com a Revolução Liberal do Porto, iniciada em Portugal em 1820. As Cortes portuguesas exigiram o retorno do rei Dom João VI e passaram a defender medidas que reduziriam a autonomia conquistada pelo Brasil nos anos anteriores.
+
+Dom Pedro decide ficar
+
+Dom João VI retornou para Portugal em 1821, enquanto seu filho, Dom Pedro, permaneceu no Brasil como príncipe regente.
+
+As Cortes portuguesas também exigiram seu retorno. Entretanto, grupos políticos brasileiros defendiam sua permanência como forma de impedir que o Brasil voltasse a ficar diretamente subordinado a Lisboa.
+
+Em 9 de janeiro de 1822, Dom Pedro anunciou que permaneceria no país. O episódio ficou conhecido como o “Dia do Fico”.
+
+Nos meses seguintes, as tensões aumentaram. José Bonifácio de Andrada e Silva tornou-se uma das principais figuras políticas próximas ao príncipe, enquanto Maria Leopoldina, esposa de Dom Pedro, também desempenhou papel importante nas decisões que antecederam a separação.
+
+O dia 7 de setembro de 1822
+
+No início de setembro, Dom Pedro estava em viagem pela província de São Paulo.
+
+Enquanto ele estava fora do Rio de Janeiro, novas determinações vindas de Portugal aumentaram a pressão sobre seu governo. Em 2 de setembro, Maria Leopoldina presidiu uma reunião extraordinária do Conselho de Estado que discutiu a situação e apoiou o rompimento com Portugal.
+
+Mensagens de Leopoldina e José Bonifácio foram então enviadas a Dom Pedro.
+
+No dia 7 de setembro, durante o retorno de Santos para São Paulo, a comitiva do príncipe recebeu as correspondências nas proximidades do riacho do Ipiranga.
+
+Foi naquele contexto que Dom Pedro declarou rompidas as relações políticas com Portugal. O episódio ficou eternizado na memória nacional pelo lema “Independência ou Morte”.
+
+Nascia o Império do Brasil
+
+A declaração de 7 de setembro não encerrou imediatamente o processo de independência.
+
+Em 12 de outubro de 1822, Dom Pedro foi aclamado imperador e, em 1º de dezembro, foi coroado como Dom Pedro I.
+
+Além disso, diferentes regiões ainda possuíam tropas e grupos políticos ligados a Portugal. Confrontos ocorreram principalmente na Bahia, no Maranhão, no Pará e no Piauí, fazendo com que a consolidação territorial da independência avançasse durante 1823.
+
+Portugal reconheceria oficialmente a independência brasileira apenas em 1825.
+
+Um símbolo construído ao longo do tempo
+
+O 7 de setembro acabou se tornando o principal símbolo da criação do Brasil como Estado independente.
+
+A famosa imagem de Dom Pedro montado a cavalo, cercado por soldados e erguendo sua espada às margens do Ipiranga, entretanto, ajudou a criar uma versão muito mais grandiosa do acontecimento.
+
+A representação mais conhecida está no quadro “Independência ou Morte”, de Pedro Américo, concluído em 1888, mais de seis décadas depois dos acontecimentos.
+
+Por isso, atualmente os historiadores enxergam a Independência do Brasil não apenas como o resultado de um único momento ou de uma única pessoa, mas como um processo político e militar complexo, envolvendo Dom Pedro, Maria Leopoldina, José Bonifácio, diferentes grupos sociais e acontecimentos espalhados por diversas regiões do território.
+
+Mais de dois séculos depois
+
+Em 7 de setembro de 2026, o Brasil completa 204 anos desde aquele episódio às margens do Ipiranga.
+
+Mais do que recordar o famoso grito atribuído a Dom Pedro, a data representa uma transformação decisiva na história brasileira: o momento em que o território iniciou sua trajetória como um Estado politicamente separado de Portugal.
+
+A independência não nasceu em apenas um dia. Mas foi o dia 7 de setembro de 1822 que acabou escolhido pela história brasileira para simbolizar o nascimento de uma nova nação.
+
+Fontes:
+
+Biblioteca Nacional Digital - Acervo e materiais históricos sobre a Independência do Brasil e os acontecimentos de 1822.
+
+Arquivo Nacional - Estudos históricos sobre o processo de independência e sua consolidação nas diferentes províncias brasileiras.
+
+Governo Federal – Bicentenário da Independência - Linha do tempo histórica dos acontecimentos que levaram à separação entre Brasil e Portugal.
+
+Museu Histórico Nacional - Acervo e informações históricas sobre Dom Pedro I e a Família Imperial.
+
+Assembleia Legislativa do Estado de São Paulo - Registros históricos sobre o 7 de setembro de 1822, o Ipiranga e a construção da memória da Independência.`,
   },
 ];
 
