@@ -26,6 +26,7 @@ import roboboltiImage from "../assets/articles/robo_recorde.webp";
 import venezupetiImage from "../assets/articles/petroleo_venezuela.webp";
 import russiagradeiImage from "../assets/articles/russia_grade_curricular.webp";
 import sevensetembroiImage from "../assets/articles/independencia_7_de_setembro.webp";
+import terrasoliImage from "../assets/articles/terra_sol.webp";
 
 const articles = [
   {
@@ -2127,6 +2128,65 @@ Governo Federal – Bicentenário da Independência - Linha do tempo histórica 
 Museu Histórico Nacional - Acervo e informações históricas sobre Dom Pedro I e a Família Imperial.
 
 Assembleia Legislativa do Estado de São Paulo - Registros históricos sobre o 7 de setembro de 1822, o Ipiranga e a construção da memória da Independência.`,
+  },
+
+  {
+    id: 30,
+    title: "Um planeta com prazo de validade",
+    slug: "O fim da Terra",
+    description:
+      "A Terra não será habitável para sempre. Um estudo apoiado pelo programa de Astrobiologia da NASA estima que, daqui a aproximadamente 1 bilhão de anos, mudanças provocadas pelo aumento gradual da luminosidade do Sol poderão causar uma queda drástica do oxigênio atmosférico. Muito antes de o Sol se transformar em uma gigante vermelha, nosso planeta poderá se tornar incompatível com grande parte da vida complexa que conhecemos atualmente.",
+    category: "História",
+    image: terrasoliImage,
+    date: "2026-09-08",
+    author: "Jordan Lopes",
+    content: `A Terra possui aproximadamente 4,5 bilhões de anos e, durante boa parte de sua história, suas condições ambientais mudaram profundamente. O futuro também deverá trazer transformações radicais.
+
+Pesquisadores Kazumi Ozaki, da Universidade Toho, no Japão, e Christopher Reinhard, do Instituto de Tecnologia da Geórgia, utilizaram modelos climáticos e biogeoquímicos para estimar por quanto tempo a atmosfera terrestre continuará rica em oxigênio.
+
+O estudo, publicado em 2021 na revista Nature Geoscience e apoiado em parte pelo programa de Astrobiologia da NASA, chegou a uma estimativa impressionante: a atmosfera terrestre deverá permanecer fortemente oxigenada por aproximadamente mais 1,08 bilhão de anos.
+
+O Sol será o responsável
+
+O problema está relacionado à própria evolução do Sol.
+
+À medida que envelhece, nossa estrela aumenta gradualmente sua luminosidade. Esse processo deverá alterar o ciclo do carbono da Terra e reduzir progressivamente a quantidade de dióxido de carbono disponível na atmosfera.
+
+Com menos CO₂, organismos responsáveis pela fotossíntese terão cada vez mais dificuldades para sobreviver. A redução da atividade fotossintética, por sua vez, significará uma produção cada vez menor de oxigênio.
+
+Segundo as simulações, chegará um momento em que a concentração de oxigênio atmosférico cairá rapidamente, deixando a Terra com uma atmosfera muito diferente da atual.
+
+O fim da vida?
+
+Isso não significa necessariamente que absolutamente toda forma de vida desaparecerá daqui a 1 bilhão de anos.
+
+A transformação seria especialmente devastadora para plantas, animais e outros organismos que dependem de níveis elevados de oxigênio. Algumas formas de vida microbiana capazes de sobreviver em ambientes pobres em oxigênio poderiam persistir por mais tempo.
+
+A própria NASA também apresenta estimativas segundo as quais, em aproximadamente 2 bilhões de anos, o aumento da energia recebida do Sol poderá levar à evaporação dos oceanos e ao fim da vida orgânica na superfície terrestre.
+
+E existe um destino ainda mais distante.
+
+Daqui a aproximadamente 5 bilhões de anos, o Sol deverá entrar na fase de gigante vermelha. Ele aumentará enormemente de tamanho, engolindo Mercúrio e Vênus e possivelmente também a Terra. Mesmo que nosso planeta escape de ser fisicamente engolido, suas condições já seriam completamente incompatíveis com a vida como conhecemos.
+
+Não existe uma data exata
+
+Apesar de algumas manchetes afirmarem que a NASA teria determinado quando a vida na Terra terminará, cientificamente não existe uma data específica para isso.
+
+Os aproximadamente 1 bilhão de anos representam uma projeção baseada em modelos sobre o futuro da atmosfera terrestre. O próprio estudo apresenta uma margem de incerteza e não afirma que toda a vida desaparecerá simultaneamente.
+
+O que a pesquisa demonstra é algo mais amplo: a habitabilidade da Terra é temporária.
+
+Assim como nosso planeta passou bilhões de anos se transformando até adquirir as condições atuais, ele continuará mudando. Em uma escala de tempo quase inimaginável para a humanidade, o aumento gradual da luminosidade do Sol deverá transformar a Terra novamente — até que o mundo azul que conhecemos deixe de existir.
+
+Fontes:
+
+NASA Astrobiology - The Future of Earth's Oxygen. Página da NASA sobre o estudo que estima a duração futura da atmosfera terrestre rica em oxigênio.
+
+Nature Geoscience - The future lifespan of Earth's oxygenated atmosphere. Estudo de Kazumi Ozaki e Christopher T. Reinhard que estima uma vida média futura de aproximadamente 1,08 bilhão de anos para a atmosfera terrestre fortemente oxigenada.
+
+NASA Science - Sun: Facts. Informações sobre a evolução do Sol e sua transformação futura em uma gigante vermelha.
+
+NASA Science - Earth and the evolving Sun. Material educacional sobre o aumento gradual da luminosidade solar, a futura evaporação dos oceanos e as consequências para a habitabilidade da Terra.`,
   },
 ];
 
