@@ -27,6 +27,7 @@ import venezupetiImage from "../assets/articles/petroleo_venezuela.webp";
 import russiagradeiImage from "../assets/articles/russia_grade_curricular.webp";
 import sevensetembroiImage from "../assets/articles/independencia_7_de_setembro.webp";
 import terrasoliImage from "../assets/articles/terra_sol.webp";
+import stfImage from "../assets/articles/stf_historia.webp";
 
 const articles = [
   {
@@ -2187,6 +2188,123 @@ Nature Geoscience - The future lifespan of Earth's oxygenated atmosphere. Estudo
 NASA Science - Sun: Facts. Informações sobre a evolução do Sol e sua transformação futura em uma gigante vermelha.
 
 NASA Science - Earth and the evolving Sun. Material educacional sobre o aumento gradual da luminosidade solar, a futura evaporação dos oceanos e as consequências para a habitabilidade da Terra.`,
+  },
+
+  {
+    id: 31,
+    title: "Como funciona o STF no Brasil?",
+    slug: "STF no Brasil",
+    description:
+      "O Supremo Tribunal Federal (STF) é o órgão de cúpula do Poder Judiciário brasileiro e tem como principal função proteger e interpretar a Constituição Federal. Formado por 11 ministros, o tribunal analisa questões constitucionais de grande relevância, conflitos envolvendo autoridades e poderes públicos e determinados recursos que chegam de outras instâncias da Justiça. Suas decisões podem produzir efeitos importantes para todo o país.",
+    category: "História",
+    image: stfImage,
+    date: "2026-09-15",
+    author: "Jordan Lopes",
+    content: `O que é o STF?
+
+O Supremo Tribunal Federal ocupa o nível mais alto da estrutura do Poder Judiciário brasileiro. Sua principal atribuição, estabelecida pelo artigo 102 da Constituição Federal, é exercer a chamada “guarda da Constituição”.
+
+Na prática, isso significa verificar se leis, atos do poder público e determinadas decisões estão de acordo com as regras e princípios estabelecidos pela Constituição de 1988.
+
+Por esse motivo, questões envolvendo direitos fundamentais, divisão de competências entre União e estados, funcionamento dos poderes e constitucionalidade de leis frequentemente chegam ao Supremo.
+
+O STF não é simplesmente uma “quarta instância”
+
+Embora esteja no topo do Poder Judiciário, o STF não funciona como uma instância comum destinada a revisar qualquer processo judicial.
+
+Grande parte de sua atuação está relacionada especificamente a questões constitucionais. Um processo iniciado nas instâncias inferiores pode chegar ao Supremo, por exemplo, por meio de recurso extraordinário quando existe uma questão constitucional que atende aos requisitos estabelecidos pela legislação.
+
+Além disso, determinadas ações começam diretamente no STF, sem passar anteriormente por um juiz de primeira instância.
+
+Entre elas estão ações destinadas a discutir se determinada lei ou ato normativo é compatível com a Constituição.
+
+Como são escolhidos os ministros?
+
+O STF é composto por 11 ministros.
+
+Quando surge uma vaga, o presidente da República indica um nome. O indicado precisa ter mais de 35 e menos de 70 anos, além de possuir notável saber jurídico e reputação ilibada.
+
+Depois da indicação presidencial, o candidato passa por uma sabatina no Senado Federal. Para assumir o cargo, seu nome precisa ser aprovado pela maioria absoluta dos senadores.
+
+Somente depois dessa aprovação ocorre a nomeação.
+
+Uma vez no tribunal, os ministros não possuem um mandato com duração determinada. Eles permanecem no cargo até a aposentadoria compulsória aos 75 anos, salvo situações como renúncia ou perda do cargo nas hipóteses previstas pelo ordenamento jurídico.
+
+Como os processos são distribuídos?
+
+Quando um processo chega ao Supremo, normalmente ele é distribuído a um dos ministros, que passa a atuar como relator.
+
+O relator é responsável por conduzir o processo dentro do tribunal, analisar pedidos, organizar as informações necessárias e preparar seu voto para o julgamento.
+
+Dependendo do tipo de processo e das circunstâncias, determinadas decisões podem ser tomadas individualmente pelo ministro. São as chamadas decisões monocráticas.
+
+Outras questões precisam ser submetidas a julgamento coletivo.
+
+Plenário e Turmas
+
+O STF pode julgar processos por meio do Plenário ou de suas Turmas.
+
+O Plenário reúne os ministros da Corte e é responsável por algumas das questões constitucionais mais relevantes.
+
+O tribunal também possui duas Turmas, formadas por grupos de ministros, que analisam processos de acordo com as competências estabelecidas pelo Regimento Interno do STF.
+
+Além das sessões presenciais, o Supremo utiliza o Plenário Virtual. Nesse sistema, os ministros registram eletronicamente seus votos durante determinado período, sem necessidade de estarem reunidos simultaneamente no plenário físico.
+
+Segundo o próprio STF, atualmente todos os tipos de processos podem, conforme as regras do tribunal, ser submetidos a sessões virtuais do Plenário ou das Turmas.
+
+Como uma decisão é tomada?
+
+Nos julgamentos colegiados, o ministro relator apresenta seu voto e os demais ministros também manifestam suas posições.
+
+O resultado é definido de acordo com os votos e com o quórum exigido para aquele tipo de julgamento. Em determinadas situações, a Constituição ou a legislação estabelece maiorias específicas.
+
+Também é possível que um ministro peça vista do processo para realizar uma análise adicional antes de apresentar seu voto.
+
+As decisões podem ter efeitos muito diferentes. Algumas dizem respeito principalmente às partes envolvidas no processo, enquanto outras podem estabelecer entendimentos que devem ser observados por outros órgãos do Judiciário ou produzir consequências amplas sobre leis e políticas públicas.
+
+O STF pode derrubar uma lei?
+
+Sim.
+
+Uma das principais funções do Supremo é realizar o controle de constitucionalidade.
+
+Se uma lei ou ato normativo contrariar a Constituição, o STF pode declarar sua inconstitucionalidade por meio dos instrumentos previstos no sistema jurídico brasileiro.
+
+Entre eles estão a Ação Direta de Inconstitucionalidade (ADI), a Ação Declaratória de Constitucionalidade (ADC) e a Arguição de Descumprimento de Preceito Fundamental (ADPF).
+
+Esse mecanismo funciona como uma forma de controle sobre os atos produzidos pelo poder público: mesmo uma lei aprovada pelo Congresso Nacional e sancionada pelo presidente da República precisa respeitar a Constituição.
+
+Por que o STF possui tanto impacto político?
+
+Embora faça parte do Poder Judiciário, muitas questões julgadas pelo STF possuem grandes consequências políticas, econômicas e sociais.
+
+Isso acontece porque a Constituição brasileira trata de uma quantidade extensa de assuntos e porque conflitos entre instituições, autoridades e diferentes níveis de governo podem envolver questões constitucionais.
+
+O Supremo também possui competência constitucional para processar e julgar originalmente determinadas autoridades em situações específicas.
+
+Por isso, decisões do STF frequentemente aparecem no centro do debate público.
+
+Apesar desse impacto, institucionalmente o Supremo não pertence ao Poder Executivo nem ao Poder Legislativo. Ele integra o Poder Judiciário e exerce as competências que lhe foram atribuídas principalmente pela Constituição Federal.
+
+Um dos pilares do sistema constitucional brasileiro
+
+O funcionamento do STF está diretamente relacionado ao modelo de separação dos Poderes adotado pelo Brasil.
+
+Congresso Nacional, Presidência da República e Poder Judiciário possuem funções diferentes, ao mesmo tempo em que existem mecanismos de controle entre as instituições.
+
+Nesse sistema, cabe ao Supremo Tribunal Federal uma responsabilidade particularmente importante: dar a palavra final, dentro do Poder Judiciário brasileiro, sobre muitas das principais controvérsias relacionadas à interpretação da Constituição.
+
+Fontes:
+
+Constituição da República Federativa do Brasil de 1988 - artigos 101 e 102, que estabelecem a composição e as principais competências do Supremo Tribunal Federal.
+
+Supremo Tribunal Federal - página institucional sobre a estrutura, composição e atribuições da Corte.
+
+Supremo Tribunal Federal - informações institucionais sobre o funcionamento do Plenário e das Turmas.
+
+Supremo Tribunal Federal - materiais explicativos sobre o funcionamento do Plenário Virtual.
+
+Supremo Tribunal Federal - Regimento Interno e informações sobre a organização e o funcionamento dos julgamentos da Corte.`,
   },
 ];
 
