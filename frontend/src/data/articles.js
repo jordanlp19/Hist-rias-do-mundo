@@ -28,6 +28,7 @@ import russiagradeiImage from "../assets/articles/russia_grade_curricular.webp";
 import sevensetembroiImage from "../assets/articles/independencia_7_de_setembro.webp";
 import terrasoliImage from "../assets/articles/terra_sol.webp";
 import stfImage from "../assets/articles/stf_historia.webp";
+import aparecidaImage from "../assets/articles/nossa_senhora_aparecida.webp";
 
 const articles = [
   {
@@ -2305,6 +2306,77 @@ Supremo Tribunal Federal - informações institucionais sobre o funcionamento do
 Supremo Tribunal Federal - materiais explicativos sobre o funcionamento do Plenário Virtual.
 
 Supremo Tribunal Federal - Regimento Interno e informações sobre a organização e o funcionamento dos julgamentos da Corte.`,
+  },
+
+  {
+    id: 32,
+    title: "A história do Feriado de 12 de Outubro: Aparecida",
+    slug: "12 de Outubro",
+    description:
+      "Celebrado em 12 de outubro, o Dia de Nossa Senhora Aparecida é um dos principais feriados religiosos do Brasil. A data homenageia a santa reconhecida pela Igreja Católica como padroeira do país. Sua história remonta a 1717, quando uma pequena imagem foi encontrada por pescadores no Rio Paraíba do Sul, em São Paulo. Entretanto, o reconhecimento da data como feriado nacional aconteceu apenas em 1980.",
+    category: "História",
+    image: aparecidaImage,
+    date: "2026-10-12",
+    author: "Jordan Lopes",
+    content: `A origem de Nossa Senhora Aparecida
+
+A história de Nossa Senhora Aparecida começa em outubro de 1717, na região de Guaratinguetá, no interior de São Paulo. Segundo a tradição católica, três pescadores, João Alves, Felipe Pedroso e Domingos Garcia, foram encarregados de conseguir peixes para uma visita de autoridades à região.
+
+Durante a pescaria no Rio Paraíba do Sul, os homens teriam encontrado uma pequena imagem de Nossa Senhora da Conceição, primeiro o corpo e depois a cabeça. A tradição religiosa relata que, após o encontro, os pescadores conseguiram capturar uma quantidade surpreendente de peixes.
+
+O episódio passou a ser interpretado pelos fiéis como um milagre e deu origem à devoção a Nossa Senhora Aparecida, nome relacionado à maneira como a imagem teria sido encontrada.
+
+Do ponto de vista histórico, o relato faz parte da tradição religiosa documentada posteriormente. A interpretação milagrosa pertence ao campo da fé, não sendo um acontecimento passível de comprovação científica.
+
+Como a devoção se espalhou pelo Brasil?
+
+Nas décadas seguintes, a imagem passou a atrair fiéis da região. Inicialmente, era venerada em ambientes domésticos, até que o crescimento da devoção levou à construção de uma capela, inaugurada em 1745.
+
+Com o passar dos séculos, Nossa Senhora Aparecida ganhou importância na cultura religiosa brasileira. Em 1888, foi inaugurada uma igreja maior, atualmente conhecida como Basílica Velha.
+
+Em 1930, o papa Pio XI declarou Nossa Senhora Aparecida padroeira do Brasil, consolidando seu reconhecimento oficial pela Igreja Católica.
+
+O crescimento das peregrinações também levou à construção do Santuário Nacional de Aparecida, um dos maiores centros de peregrinação católica do mundo.
+
+Por que o feriado é comemorado em 12 de outubro?
+
+Embora a tradição situe o encontro da imagem em 1717, o dia exato não é historicamente estabelecido com segurança.
+
+A celebração litúrgica de Nossa Senhora Aparecida foi fixada em 12 de outubro em 1953, por decisão da Santa Sé.
+
+A data só se tornou feriado nacional em 30 de junho de 1980, quando o presidente João Figueiredo sancionou a Lei nº 6.802, estabelecendo oficialmente o dia 12 de outubro como feriado dedicado à padroeira do Brasil.
+
+A legislação permanece em vigor, tornando a data um feriado nacional de origem religiosa em um país que, constitucionalmente, não possui religião oficial.
+
+O significado cultural do 12 de outubro
+
+Atualmente, o feriado mobiliza milhões de brasileiros, especialmente por meio de missas, peregrinações e celebrações religiosas.
+
+A cidade de Aparecida, em São Paulo, tornou-se um importante destino de turismo religioso, recebendo visitantes de diferentes regiões do país.
+
+Além da dimensão religiosa, Nossa Senhora Aparecida ocupa um lugar relevante na história cultural brasileira, refletindo a influência do catolicismo na formação de tradições, festas populares e manifestações artísticas.
+
+O dia 12 de outubro também é celebrado no Brasil como Dia das Crianças, uma comemoração de origem distinta, instituída por decreto em 1924 e posteriormente popularizada pelo comércio.
+
+Uma data que reúne religião, história e cultura
+
+Mais de três séculos depois do episódio tradicionalmente associado ao encontro da imagem, Nossa Senhora Aparecida continua sendo uma das figuras religiosas mais reconhecidas do Brasil.
+
+Para os católicos, representa fé, proteção e devoção. Sob uma perspectiva histórica e cultural, sua trajetória demonstra como uma tradição religiosa regional se transformou em um símbolo de alcance nacional.
+
+O feriado de 12 de outubro, portanto, reúne elementos de história, religião e identidade cultural, mantendo sua importância mesmo em uma sociedade marcada pela diversidade de crenças.
+
+Fontes:
+
+Biblioteca Nacional Digital - Contexto histórico do encontro da imagem em 1717 e desenvolvimento da devoção no Brasil.
+
+Conferência Nacional dos Bispos do Brasil (CNBB) - Tradições religiosas e história de Nossa Senhora Aparecida.
+
+Catedral Metropolitana Nossa Senhora Aparecida - Cronologia do reconhecimento religioso e da devoção à padroeira.
+
+Presidência da República, Lei nº 6.802/1980 - Legislação que instituiu o feriado nacional de 12 de outubro.
+
+Câmara dos Deputados, Decreto nº 4.867/1924 - Instituição do Dia das Crianças no Brasil.`,
   },
 ];
 
