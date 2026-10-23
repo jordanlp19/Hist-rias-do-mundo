@@ -29,6 +29,7 @@ import sevensetembroiImage from "../assets/articles/independencia_7_de_setembro.
 import terrasoliImage from "../assets/articles/terra_sol.webp";
 import stfImage from "../assets/articles/stf_historia.webp";
 import aparecidaImage from "../assets/articles/nossa_senhora_aparecida.webp";
+import lulaflavioImage from "../assets/articles/duelo_politico.webp";
 
 const articles = [
   {
@@ -2377,6 +2378,74 @@ Catedral Metropolitana Nossa Senhora Aparecida - Cronologia do reconhecimento re
 Presidência da República, Lei nº 6.802/1980 - Legislação que instituiu o feriado nacional de 12 de outubro.
 
 Câmara dos Deputados, Decreto nº 4.867/1924 - Instituição do Dia das Crianças no Brasil.`,
+  },
+
+  {
+    id: 33,
+    title:
+      "Eleições 2026: conheça as principais propostas de Lula e Flávio Bolsonaro para o Brasil",
+    slug: "Lula VS Flavio",
+    description:
+      "Os dois candidatos divulgaram seus programas de governo, disponíveis para consulta no Tribunal Superior Eleitoral (TSE). Conhecer essas propostas permite ao eleitor comparar prioridades, identificar diferenças e compreender quais mudanças cada candidatura pretende implementar nos próximos quatro anos.",
+    category: "História",
+    image: lulaflavioImage,
+    date: "2026-10-23",
+    author: "Jordan Lopes",
+    content: `1. Economia e impostos
+
+Lula (PT): Defende a manutenção do atual arcabouço fiscal, a valorização do salário mínimo acima da inflação e uma tributação mais progressiva, com maior cobrança sobre rendas elevadas. Propõe ampliar investimentos em infraestrutura, fortalecer a indústria nacional e facilitar o crédito para pequenos empreendedores.
+
+Flávio Bolsonaro (PL): Propõe reduzir despesas administrativas do governo, extinguir pelo menos dez ministérios, revisar a reforma tributária e diminuir impostos sobre energia e combustíveis. Também defende privatizações, concessões e parcerias com empresas privadas para estimular investimentos e o crescimento econômico.
+
+2. Segurança pública
+
+Lula (PT): Pretende fortalecer a integração entre as forças de segurança federais e estaduais, criar um Ministério da Segurança Pública e ampliar investigações financeiras contra organizações criminosas. Defende o combate à lavagem de dinheiro, ao tráfico de armas e às milícias, além de investimentos em inteligência policial.
+
+Flávio Bolsonaro (PL): Defende penas mais rigorosas, redução da maioridade penal para 16 anos, construção de cinco presídios de segurança máxima e ampliação do sistema penitenciário. Também propõe classificar grandes facções criminosas como organizações narcoterroristas e dobrar os investimentos federais em segurança.
+
+3. Saúde pública
+
+Lula (PT): Propõe fortalecer o Sistema Único de Saúde (SUS), ampliar o programa Mais Médicos, facilitar o acesso a consultas e exames por plataformas digitais e expandir os serviços de atendimento especializado, prevenção e tratamento do câncer.
+
+Flávio Bolsonaro (PL): Defende a digitalização dos serviços de saúde, a criação de um prontuário médico integrado, o uso de inteligência artificial para melhorar atendimentos e a ampliação da telemedicina. Também propõe medidas para reduzir filas e facilitar o acesso a serviços médicos.
+
+4. Educação
+
+Lula (PT): Pretende ampliar creches, escolas de tempo integral e institutos federais, fortalecer o programa Pé-de-Meia e investir na formação de professores. Seu plano também estabelece a meta de alfabetizar 80% das crianças na idade adequada.
+
+Flávio Bolsonaro (PL): Defende a expansão das escolas cívico-militares, a alfabetização com prioridade ao método fônico e a avaliação de escolas por resultados de aprendizagem. Propõe vouchers para acesso à rede privada em regiões com insuficiência de vagas públicas e maior integração entre ensino técnico e mercado de trabalho.
+
+5. Trabalho e programas sociais
+
+Lula (PT): Propõe reduzir a jornada semanal para 40 horas, sem diminuição salarial, e acabar com a escala 6x1. Também defende a continuidade do Bolsa Família, a ampliação do Minha Casa, Minha Vida e novas regras de proteção para trabalhadores de aplicativos.
+
+Flávio Bolsonaro (PL): Defende a simplificação de regras para empresas, a redução da burocracia e o estímulo ao empreendedorismo. Na habitação, propõe retomar o Casa Verde e Amarela. Também prevê a expansão de creches e a criação de incentivos financeiros ligados à educação e ao pagamento de contas em dia.
+
+6. Meio ambiente, energia e infraestrutura
+
+Lula (PT): Propõe alcançar o desmatamento líquido zero até 2030, ampliar investimentos em energias renováveis e dar continuidade ao Novo PAC, com obras de infraestrutura, saneamento e transportes.
+
+Flávio Bolsonaro (PL): Defende a ampliação dos investimentos em infraestrutura por meio de concessões e parcerias público-privadas, além da redução dos custos de energia e transporte. Seu programa também prevê investimentos em obras de prevenção de desastres climáticos.
+
+O que diferencia os dois projetos?
+
+As propostas apresentam prioridades distintas para a atuação do governo federal. Lula enfatiza a continuidade e ampliação de políticas sociais, os investimentos públicos e a proteção trabalhista. Flávio Bolsonaro prioriza a redução da estrutura administrativa federal, a participação da iniciativa privada e o endurecimento das medidas de segurança pública.
+
+Ambos apresentam propostas para melhorar os serviços públicos, estimular a economia e enfrentar a criminalidade, mas divergem quanto aos instrumentos utilizados para alcançar esses objetivos.
+
+É importante destacar que propostas eleitorais não representam medidas já aprovadas ou resultados garantidos. Parte delas depende de recursos orçamentários, negociações políticas, aprovação do Congresso Nacional e, em determinados casos, alterações constitucionais.
+
+A decisão caberá aos eleitores, que poderão avaliar não apenas as promessas, mas também sua viabilidade, os custos envolvidos e o histórico administrativo e político dos candidatos.
+
+Fontes:
+
+Tribunal Superior Eleitoral (TSE) - Planos oficiais de governo dos candidatos à Presidência, eleições de 2026, segundo turno.
+
+Folha de S.Paulo - Comparativo das propostas dos candidatos por área, publicado em 22 de outubro de 2026.
+
+Agência Brasil - Análise das propostas de Flávio Bolsonaro para administração pública e segurança.
+
+UOL Notícias - Principais propostas do programa de governo de Lula para 2027–2030.`,
   },
 ];
 
